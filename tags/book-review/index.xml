@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book review on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/tags/book-review/</link>
+    <description>Recent content in book review on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 May 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/book-review/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broca’s problem as it stands: Review of Cognitive Neuroscience of Language</title>
+      <link>https://trettenbrein.biolinguistics.eu/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroscience and human nature: Review of The Altruistic Brain</title>
+      <link>https://trettenbrein.biolinguistics.eu/publication/review-the-altruistic-brain-donald-pfaff/</link>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/publication/review-the-altruistic-brain-donald-pfaff/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

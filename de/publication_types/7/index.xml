@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/de/publication_types/7/</link>
+    <description>Recent content in 7 on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Oct 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/de/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commentary “Cultural recycling of neural substrates during language evolution and development”</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/cultural-recycling-neural-substrates/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/cultural-recycling-neural-substrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinstatement of long-term memory following erasure of its behavioral and synaptic expression in Aplysia</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/reinstatement-long-term-memory-aplysia/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/reinstatement-long-term-memory-aplysia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
