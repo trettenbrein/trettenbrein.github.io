@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
     <lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,15 @@
       <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/aplysia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broca&#39;s region</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</guid>
       <description></description>
     </item>
     
@@ -76,6 +85,15 @@
     </item>
     
     <item>
+      <title>PET</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/pet/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/pet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Politik</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/politik/</link>
       <pubDate>Wed, 30 Aug 2017 13:00:00 +0200</pubDate>
@@ -105,7 +123,7 @@
     <item>
       <title>Wissenschaftskommunikation</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/</guid>
       <description></description>
@@ -175,6 +193,15 @@
     </item>
     
     <item>
+      <title>fMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>language</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/language/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
@@ -204,7 +231,7 @@
     <item>
       <title>language modality</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/language-modality/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-modality/</guid>
       <description></description>
@@ -213,7 +240,7 @@
     <item>
       <title>language networks</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/language-networks/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-networks/</guid>
       <description></description>
@@ -247,6 +274,15 @@
     </item>
     
     <item>
+      <title>meta-analysis</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/meta-analysis/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>minimalism</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/minimalism/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
@@ -276,7 +312,7 @@
     <item>
       <title>neural computation</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/neural-computation/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/neural-computation/</guid>
       <description></description>
@@ -294,18 +330,36 @@
     <item>
       <title>poster presentation</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>psycholinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>science to public</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
       <description></description>
     </item>
     
