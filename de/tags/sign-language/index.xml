@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A meta-analytic perspective on data sharing and reproducibility in cognitive neuroscience of sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Broca&#39;s region is a modality-independet hub in the language network: Insights from a recent meta-analysis</title>
