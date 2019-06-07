@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neuroscience on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/tags/neuroscience/</link>
+    <link>/tags/neuroscience/</link>
     <description>Recent content in neuroscience on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/neuroscience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Looking for language in the brain</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/looking-for-language-in-the-brain/</link>
+      <link>/publication/looking-for-language-in-the-brain/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/publication/looking-for-language-in-the-brain/</guid>
+      <guid>/publication/looking-for-language-in-the-brain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broca’s problem as it stands: Review of Cognitive Neuroscience of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</link>
+      <link>/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</guid>
+      <guid>/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuroscience and human nature: Review of The Altruistic Brain</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/review-the-altruistic-brain-donald-pfaff/</link>
+      <link>/publication/review-the-altruistic-brain-donald-pfaff/</link>
       <pubDate>Wed, 18 Mar 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/publication/review-the-altruistic-brain-donald-pfaff/</guid>
+      <guid>/publication/review-the-altruistic-brain-donald-pfaff/</guid>
       <description></description>
     </item>
     
