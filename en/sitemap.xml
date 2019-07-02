@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication/functional_neuroanatomy_sign_language_deaf_signers_activation_likelihood_estimation_meta-analysis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/functional_neuroanatomy_sign_language_deaf_signers_activation_likelihood_estimation_meta-analysis/" hreflang="de"/>
+    
+      <loc>/publication/functional_neuroanatomy_sign_language_deaf_signers_activation_likelihood_estimation_meta-analysis/</loc>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="de"/>
     
@@ -313,6 +324,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication_types/3/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/3/" hreflang="de"/>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication_types/4/" hreflang="de"/>
     
@@ -373,6 +396,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/activation-likelihood-estimation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/activation-likelihood-estimation/" hreflang="de"/>
+    
+      <loc>/tags/activation-likelihood-estimation/</loc>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/aplysia/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/tags/aplysia/" hreflang="de"/>
     
@@ -390,6 +425,18 @@
     
       <loc>/tags/brocas-region/</loc>
       <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/brocas-region/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/brocas-region/" hreflang="de"/>
+    
+      <loc>/tags/brocas-region/</loc>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -532,7 +579,7 @@
       <xhtml:link rel="alternate" href="/de/tags/" hreflang="de"/>
     
       <loc>/tags/</loc>
-      <lastmod>2015-08-04T00:00:00+02:00</lastmod>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -696,6 +743,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/inferior-frontal-gyrus/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/inferior-frontal-gyrus/" hreflang="de"/>
+    
+      <loc>/tags/inferior-frontal-gyrus/</loc>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/language/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/tags/language/" hreflang="de"/>
     
@@ -756,6 +815,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/lateralization/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/lateralization/" hreflang="de"/>
+    
+      <loc>/tags/lateralization/</loc>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/tags/linguistics/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/tags/linguistics/" hreflang="de"/>
     
@@ -796,7 +867,7 @@
       <xhtml:link rel="alternate" href="/de/tags/meta-analysis/" hreflang="de"/>
     
       <loc>/tags/meta-analysis/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -916,7 +987,7 @@
       <xhtml:link rel="alternate" href="/de/tags/sign-language/" hreflang="de"/>
     
       <loc>/tags/sign-language/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-02T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
