@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Activation Likelihood Estimation</title>
-      <link>/tags/activation-likelihood-estimation/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/activation-likelihood-estimation/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Aplysia</title>
@@ -34,15 +25,6 @@
       <title>Broca&#39;s region</title>
       <link>/tags/brocas-region/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/brocas-region/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broca’s region</title>
-      <link>/tags/brocas-region/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/brocas-region/</guid>
       <description></description>
@@ -238,15 +220,6 @@
     </item>
     
     <item>
-      <title>inferior frontal gyrus</title>
-      <link>/tags/inferior-frontal-gyrus/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/inferior-frontal-gyrus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>language</title>
       <link>/tags/language/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
@@ -292,15 +265,6 @@
     </item>
     
     <item>
-      <title>lateralization</title>
-      <link>/tags/lateralization/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/lateralization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>linguistics</title>
       <link>/tags/linguistics/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
@@ -330,7 +294,7 @@
     <item>
       <title>meta-analysis</title>
       <link>/tags/meta-analysis/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/meta-analysis/</guid>
       <description></description>
@@ -420,7 +384,7 @@
     <item>
       <title>sign language</title>
       <link>/tags/sign-language/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/sign-language/</guid>
       <description></description>
