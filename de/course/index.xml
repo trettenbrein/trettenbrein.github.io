@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lehre on Patrick C. Trettenbrein</title>
+    <link>/de/course/</link>
+    <description>Recent content in Lehre on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
+    
+	<atom:link href="/de/course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

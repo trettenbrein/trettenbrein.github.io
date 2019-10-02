@@ -4,6 +4,49 @@
     
     <url>
     
+      <loc>/de/course/quantitative-methoden-hu-berlin-ws19-20/further-reading/</loc>
+      <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/de/course/quantitative-methoden-hu-berlin-ws19-20/</loc>
+      <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/de/course/quantitative-methoden-hu-berlin-ws19-20/worum-geht-es-in-dieser-lv/</loc>
+      <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/de/course/quantitative-methoden-hu-berlin-ws19-20/was-ist-psycholinguistik/</loc>
+      <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/" hreflang="en"/>
+    
+      <loc>/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="de"/>
       <xhtml:link rel="alternate" href="/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="en"/>
     
@@ -97,6 +140,17 @@
     
       <loc>/de/talk/linguistik-als-kognitionswissenschaft-ein-kurz%C3%BCberblick/</loc>
       <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/de/notice/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/notice/" hreflang="en"/>
+    
+      <loc>/de/notice/</loc>
+      <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -446,6 +500,16 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/de/course/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/course/" hreflang="en"/>
+    
+      <loc>/de/course/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/de/tags/noam-chomsky/" hreflang="de"/>
       <xhtml:link rel="alternate" href="/tags/noam-chomsky/" hreflang="en"/>
     
@@ -462,7 +526,7 @@
       <xhtml:link rel="alternate" href="/tags/pet/" hreflang="en"/>
     
       <loc>/de/tags/pet/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -474,7 +538,7 @@
       <xhtml:link rel="alternate" href="/" hreflang="en"/>
     
       <loc>/de/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <lastmod>2019-09-11T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -534,7 +598,7 @@
       <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
     
       <loc>/de/talk/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -690,7 +754,7 @@
       <xhtml:link rel="alternate" href="/tags/fmri/" hreflang="en"/>
     
       <loc>/de/tags/fmri/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -738,7 +802,7 @@
       <xhtml:link rel="alternate" href="/tags/language-modality/" hreflang="en"/>
     
       <loc>/de/tags/language-modality/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -750,7 +814,7 @@
       <xhtml:link rel="alternate" href="/tags/language-networks/" hreflang="en"/>
     
       <loc>/de/tags/language-networks/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -798,7 +862,7 @@
       <xhtml:link rel="alternate" href="/tags/meta-analysis/" hreflang="en"/>
     
       <loc>/de/tags/meta-analysis/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -882,7 +946,7 @@
       <xhtml:link rel="alternate" href="/tags/poster-presentation/" hreflang="en"/>
     
       <loc>/de/tags/poster-presentation/</loc>
-      <lastmod>2019-04-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -918,7 +982,7 @@
       <xhtml:link rel="alternate" href="/tags/sign-language/" hreflang="en"/>
     
       <loc>/de/tags/sign-language/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

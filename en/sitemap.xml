@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/" hreflang="de"/>
+    
+      <loc>/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="de"/>
     
@@ -97,6 +108,17 @@
     
       <loc>/talk/linguistik-als-kognitionswissenschaft-ein-kurz%C3%BCberblick/</loc>
       <lastmod>2018-07-23T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/notice/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/notice/" hreflang="de"/>
+    
+      <loc>/notice/</loc>
+      <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -484,7 +506,7 @@
       <xhtml:link rel="alternate" href="/de/tags/pet/" hreflang="de"/>
     
       <loc>/tags/pet/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -534,6 +556,16 @@
       <loc>/tags/</loc>
       <lastmod>2015-08-04T00:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/course/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/course/" hreflang="de"/>
+    
+      <loc>/course/</loc>
     </url>
     
   
@@ -688,7 +720,7 @@
       <xhtml:link rel="alternate" href="/de/tags/fmri/" hreflang="de"/>
     
       <loc>/tags/fmri/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -736,7 +768,7 @@
       <xhtml:link rel="alternate" href="/de/tags/language-modality/" hreflang="de"/>
     
       <loc>/tags/language-modality/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -748,7 +780,7 @@
       <xhtml:link rel="alternate" href="/de/tags/language-networks/" hreflang="de"/>
     
       <loc>/tags/language-networks/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -796,7 +828,7 @@
       <xhtml:link rel="alternate" href="/de/tags/meta-analysis/" hreflang="de"/>
     
       <loc>/tags/meta-analysis/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -880,7 +912,7 @@
       <xhtml:link rel="alternate" href="/de/tags/poster-presentation/" hreflang="de"/>
     
       <loc>/tags/poster-presentation/</loc>
-      <lastmod>2019-04-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -916,7 +948,7 @@
       <xhtml:link rel="alternate" href="/de/tags/sign-language/" hreflang="de"/>
     
       <loc>/tags/sign-language/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
