@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>music on Patrick C. Trettenbrein</title>
-    <link>/tags/music/</link>
+    <link>https://trettenbrein.biolinguistics.eu/tags/music/</link>
     <description>Recent content in music on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
     <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spring school on language, music, and cognition: Organizing events in time</title>
-      <link>/publication/spring-school-organizing-events-in-time/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/spring-school-organizing-events-in-time/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/spring-school-organizing-events-in-time/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/spring-school-organizing-events-in-time/</guid>
       <description></description>
     </item>
     

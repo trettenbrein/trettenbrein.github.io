@@ -2,127 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick C. Trettenbrein on Patrick C. Trettenbrein</title>
-    <link>/de/</link>
+    <link>https://trettenbrein.biolinguistics.eu/de/</link>
     <description>Recent content in Patrick C. Trettenbrein on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
-    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/de/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Further Reading &amp; Ressources</title>
-      <link>/de/course/quantitative-methoden-hu-berlin-ws19-20/further-reading/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/de/course/quantitative-methoden-hu-berlin-ws19-20/further-reading/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Worum geht es in dieser Lehrveranstaltung?</title>
-      <link>/de/course/quantitative-methoden-hu-berlin-ws19-20/worum-geht-es-in-dieser-lv/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/de/course/quantitative-methoden-hu-berlin-ws19-20/worum-geht-es-in-dieser-lv/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Was ist Psycholinguistik?</title>
-      <link>/de/course/quantitative-methoden-hu-berlin-ws19-20/was-ist-psycholinguistik/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/de/course/quantitative-methoden-hu-berlin-ws19-20/was-ist-psycholinguistik/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Functional neuroanatomy of sign language in deaf signers: Activation Likelihood Estimation meta-analysis and Meta-Analytic Connectivity Mapping</title>
-      <link>/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A meta-analytic perspective on data sharing and reproducibility in cognitive neuroscience of sign language</title>
-      <link>/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broca&#39;s region is a modality-independet hub in the language network: Insights from a recent meta-analysis</title>
-      <link>/de/talk/brocas_region_modality_independent_hub_in_language_network/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/brocas_region_modality_independent_hub_in_language_network/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/brocas_region_modality_independent_hub_in_language_network/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/brocas_region_modality_independent_hub_in_language_network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The neural basis of sign language processing in deaf signers: An Activation Likelihood Estimation meta-analysis</title>
-      <link>/de/talk/neural-basis-sign-language-processing-meta-analysis/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/neural-basis-sign-language-processing-meta-analysis/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/neural-basis-sign-language-processing-meta-analysis/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/neural-basis-sign-language-processing-meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psycholinguistic norms for more than 300 lexical manual signs in German Sign Language (DGS)</title>
-      <link>/de/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wie verarbeitet das Gehirn Gebärdensprache?</title>
-      <link>/de/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reviewing the functional neuroanatomy of sign language in deaf signers using Activation Likelihood Estimation</title>
-      <link>/de/talk/functional-neuroanatomy-sign-language-meta-analysis/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/functional-neuroanatomy-sign-language-meta-analysis/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/functional-neuroanatomy-sign-language-meta-analysis/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/functional-neuroanatomy-sign-language-meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>50 Years Later: A Tribute to Eric Lenneberg’s Biological Foundations of Language</title>
-      <link>/de/publication/special-issue-50-years-later-lenneberg-print-edition/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/special-issue-50-years-later-lenneberg-print-edition/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
       
-      <guid>/de/publication/special-issue-50-years-later-lenneberg-print-edition/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/special-issue-50-years-later-lenneberg-print-edition/</guid>
       <description>&lt;p&gt;Print version of the &lt;em&gt;Biolinguistics&lt;/em&gt; special issue celebrating the 50-year anniversary of the publication of Eric Lenneberg&amp;rsquo;s &lt;em&gt;Biological Foundations of Language&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Der Druck dieser Publikation wurde vom &lt;a href=&#34;https://www.verwaltung.steiermark.at/cms/ziel/75775927/&#34; target=&#34;_blank&#34;&gt;Referat für Wissenschaft &amp;amp; Forschung der Steiermarkischen Landesregierung&lt;/a&gt; gefördert.&lt;/p&gt;
@@ -131,28 +87,28 @@
     
     <item>
       <title>Spring school on language, music, and cognition: Organizing events in time</title>
-      <link>/de/publication/spring-school-organizing-events-in-time/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/spring-school-organizing-events-in-time/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/de/publication/spring-school-organizing-events-in-time/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/spring-school-organizing-events-in-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linguistik als Kognitionswissenschaft: Ein Kurzüberblick</title>
-      <link>/de/talk/linguistik-als-kognitionswissenschaft-ein-kurz%C3%BCberblick/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/linguistik-als-kognitionswissenschaft-ein-kurz%C3%BCberblick/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/linguistik-als-kognitionswissenschaft-ein-kurz%C3%BCberblick/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/linguistik-als-kognitionswissenschaft-ein-kurz%C3%BCberblick/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>/de/notice/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/notice/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/de/notice/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/notice/</guid>
       <description>&lt;p&gt;Diese private Web&amp;shy;seite dient der Kommunikation meiner Forschungsergebnisse und wissenschaftlichen Tätigkeit. Die In&amp;shy;halte und Meinungen, welche auf diesen Seiten wieder&amp;shy;gegeben werden, sind meine eigenen und stimmen nicht not&amp;shy;wendi&amp;shy;ger&amp;shy;weise mit der denen meines derzeit&amp;shy;igen Arbeit&amp;shy;gebers überein.&lt;/p&gt;
 
 &lt;p&gt;Die Seite wurde mittles dem &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt; für &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; erstellt und wird kosten&amp;shy;los auf &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; gehostet.&lt;/p&gt;
@@ -168,7 +124,7 @@ Stephanstraße 1a&lt;br /&gt;
 DEUTSCHLAND
 &lt;/div&gt;
 &lt;br /&gt;
-&lt;a href=&#34;/#contact&#34;&gt;Kontakt aufnehmen&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://trettenbrein.biolinguistics.eu/#contact&#34;&gt;Kontakt aufnehmen&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 </description>
@@ -176,11 +132,40 @@ DEUTSCHLAND
     
     <item>
       <title>Wie kommen Worte ins Gehirn? Vom Hören zum Verstehen</title>
-      <link>/de/talk/wie-kommen-die-worte-ins-gehirn/</link>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/wie-kommen-die-worte-ins-gehirn/</link>
       <pubDate>Fri, 22 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>/de/talk/wie-kommen-die-worte-ins-gehirn/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/wie-kommen-die-worte-ins-gehirn/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Lives in language: Eric Heinz Lenneberg (1921–1975)</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/lives-in-language-eric-heinz-lenneberg/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/lives-in-language-eric-heinz-lenneberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>50 Years Later: A Tribute to Eric Lenneberg’s Biological Foundations of Language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/50-years-later-lenneberg-editorial/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/50-years-later-lenneberg-editorial/</guid>
+      <description>&lt;p&gt;Editorial for the &lt;em&gt;Biolinguistics&lt;/em&gt; special issue celebrating the 50-year anniversary of the publication of Eric Lenneberg&amp;rsquo;s &lt;em&gt;Biological Foundations of Language&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>50 years later: A conversation about the biological study of language with Noam Chomsky</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/conversation-biological-study-language-noam-chomsky/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/conversation-biological-study-language-noam-chomsky/</guid>
+      <description>&lt;p&gt;An interview with Noam Chomsky, a co-founder of the field of biolinguistics, contemporary, and friend of Eric Lenneberg where he talks about the early days of the field, his work and relation with Lenneberg, and a number of other questions and scientific issues that (still) captivate us 50 years later.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
