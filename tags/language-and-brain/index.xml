@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>language and brain on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/tags/language-and-brain/</link>
+    <link>/tags/language-and-brain/</link>
     <description>Recent content in language and brain on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/language-and-brain/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/language-and-brain/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Looking for language in the brain</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/looking-for-language-in-the-brain/</link>
+      <link>/publication/looking-for-language-in-the-brain/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/publication/looking-for-language-in-the-brain/</guid>
+      <guid>/publication/looking-for-language-in-the-brain/</guid>
       <description></description>
     </item>
     
