@@ -4,6 +4,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/was-die-haende-ueber-das-gehirn-verraten/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/was-die-haende-ueber-das-gehirn-verraten/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/was-die-haende-ueber-das-gehirn-verraten/</loc>
+      <lastmod>2019-11-04T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/" hreflang="de"/>
     
@@ -590,7 +601,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</loc>
-      <lastmod>2019-03-29T00:00:00+01:00</lastmod>
+      <lastmod>2019-11-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -922,11 +933,23 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-professionals/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-professionals/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/science-to-professionals/</loc>
+      <lastmod>2019-11-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-public/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</loc>
-      <lastmod>2019-03-29T00:00:00+01:00</lastmod>
+      <lastmod>2019-11-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
