@@ -1,5 +1,145 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/6/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/6/" hreflang="de"/>
+    
+      <loc>/publication_types/6/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/neuroscience-and-syntax/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/neuroscience-and-syntax/" hreflang="de"/>
+    
+      <loc>/publication/neuroscience-and-syntax/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/" hreflang="de"/>
+    
+      <loc>/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/" hreflang="de"/>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/" hreflang="de"/>
+    
+      <loc>/publication/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/" hreflang="de"/>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/evolution-of-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/evolution-of-language/" hreflang="de"/>
+    
+      <loc>/tags/evolution-of-language/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/language-development/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/language-development/" hreflang="de"/>
+    
+      <loc>/tags/language-development/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/minimalism/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/minimalism/" hreflang="de"/>
+    
+      <loc>/tags/minimalism/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/neuroscience/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/neuroscience/" hreflang="de"/>
+    
+      <loc>/tags/neuroscience/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/syntax/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/syntax/" hreflang="de"/>
+    
+      <loc>/tags/syntax/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/talk/" hreflang="de"/>
+    
+      <loc>/talk/</loc>
+      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
+    </url>
+    
   
     
     <url>
@@ -9,6 +149,42 @@
     
       <loc>/talk/was-die-haende-ueber-das-gehirn-verraten/</loc>
       <lastmod>2019-11-14T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/wissenschaftskommunikation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/wissenschaftskommunikation/" hreflang="de"/>
+    
+      <loc>/tags/wissenschaftskommunikation/</loc>
+      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/science-to-professionals/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/science-to-professionals/" hreflang="de"/>
+    
+      <loc>/tags/science-to-professionals/</loc>
+      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/science-to-public/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/science-to-public/" hreflang="de"/>
+    
+      <loc>/tags/science-to-public/</loc>
+      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -26,11 +202,155 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/pet/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/pet/" hreflang="de"/>
+    
+      <loc>/tags/pet/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/fmri/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/fmri/" hreflang="de"/>
+    
+      <loc>/tags/fmri/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/language-modality/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/language-modality/" hreflang="de"/>
+    
+      <loc>/tags/language-modality/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/language-networks/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/language-networks/" hreflang="de"/>
+    
+      <loc>/tags/language-networks/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/meta-analysis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/meta-analysis/" hreflang="de"/>
+    
+      <loc>/tags/meta-analysis/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/poster-presentation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/poster-presentation/" hreflang="de"/>
+    
+      <loc>/tags/poster-presentation/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/sign-language/" hreflang="de"/>
+    
+      <loc>/tags/sign-language/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/" hreflang="de"/>
     
       <loc>/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</loc>
       <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/cognitive-neuroscience/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/cognitive-neuroscience/" hreflang="de"/>
+    
+      <loc>/tags/cognitive-neuroscience/</loc>
+      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/data-sharing/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/data-sharing/" hreflang="de"/>
+    
+      <loc>/tags/data-sharing/</loc>
+      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/open-science/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/open-science/" hreflang="de"/>
+    
+      <loc>/tags/open-science/</loc>
+      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/talk/" hreflang="de"/>
+    
+      <loc>/tags/talk/</loc>
+      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/brocas-region/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/brocas-region/" hreflang="de"/>
+    
+      <loc>/tags/brocas-region/</loc>
+      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -70,6 +390,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/psycholinguistics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/psycholinguistics/" hreflang="de"/>
+    
+      <loc>/tags/psycholinguistics/</loc>
+      <lastmod>2019-04-08T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/" hreflang="de"/>
     
@@ -92,6 +424,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication_types/5/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/5/" hreflang="de"/>
+    
+      <loc>/publication_types/5/</loc>
+      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/special-issue-50-years-later-lenneberg-print-edition/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/special-issue-50-years-later-lenneberg-print-edition/" hreflang="de"/>
     
@@ -103,11 +447,107 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/eric-lenneberg/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/eric-lenneberg/" hreflang="de"/>
+    
+      <loc>/tags/eric-lenneberg/</loc>
+      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/biolinguistics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/biolinguistics/" hreflang="de"/>
+    
+      <loc>/tags/biolinguistics/</loc>
+      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/special-issue/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/special-issue/" hreflang="de"/>
+    
+      <loc>/tags/special-issue/</loc>
+      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/4/" hreflang="de"/>
+    
+      <loc>/publication_types/4/</loc>
+      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/spring-school-organizing-events-in-time/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/spring-school-organizing-events-in-time/" hreflang="de"/>
     
       <loc>/publication/spring-school-organizing-events-in-time/</loc>
       <lastmod>2018-10-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/cognition/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/cognition/" hreflang="de"/>
+    
+      <loc>/tags/cognition/</loc>
+      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/language/" hreflang="de"/>
+    
+      <loc>/tags/language/</loc>
+      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/music/" hreflang="de"/>
+    
+      <loc>/tags/music/</loc>
+      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/spring-school/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/spring-school/" hreflang="de"/>
+    
+      <loc>/tags/spring-school/</loc>
+      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -147,11 +587,47 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication_types/8/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/8/" hreflang="de"/>
+    
+      <loc>/publication_types/8/</loc>
+      <lastmod>2018-02-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/lives-in-language-eric-heinz-lenneberg/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/lives-in-language-eric-heinz-lenneberg/" hreflang="de"/>
     
       <loc>/publication/lives-in-language-eric-heinz-lenneberg/</loc>
       <lastmod>2018-02-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/biology-of-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/biology-of-language/" hreflang="de"/>
+    
+      <loc>/tags/biology-of-language/</loc>
+      <lastmod>2018-02-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/2/" hreflang="de"/>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2017-12-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -180,11 +656,35 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/noam-chomsky/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/noam-chomsky/" hreflang="de"/>
+    
+      <loc>/tags/noam-chomsky/</loc>
+      <lastmod>2017-12-31T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/this-time-in-linguistic-history-eric-lenneberg/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/this-time-in-linguistic-history-eric-lenneberg/" hreflang="de"/>
     
       <loc>/publication/this-time-in-linguistic-history-eric-lenneberg/</loc>
       <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/9/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/9/" hreflang="de"/>
+    
+      <loc>/publication_types/9/</loc>
+      <lastmod>2017-08-30T13:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -202,11 +702,59 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/politik/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/politik/" hreflang="de"/>
+    
+      <loc>/tags/politik/</loc>
+      <lastmod>2017-08-30T13:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/looking-for-language-in-the-brain/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/looking-for-language-in-the-brain/" hreflang="de"/>
     
       <loc>/publication/looking-for-language-in-the-brain/</loc>
       <lastmod>2017-08-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/language-and-brain/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/language-and-brain/" hreflang="de"/>
+    
+      <loc>/tags/language-and-brain/</loc>
+      <lastmod>2017-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/linguistics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/linguistics/" hreflang="de"/>
+    
+      <loc>/tags/linguistics/</loc>
+      <lastmod>2017-08-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/christian-buchmann/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/christian-buchmann/" hreflang="de"/>
+    
+      <loc>/tags/christian-buchmann/</loc>
+      <lastmod>2017-05-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -224,6 +772,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/wissenschaft/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/wissenschaft/" hreflang="de"/>
+    
+      <loc>/tags/wissenschaft/</loc>
+      <lastmod>2017-05-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/" hreflang="de"/>
     
@@ -235,22 +795,36 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/tags/memory/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/memory/" hreflang="de"/>
     
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/tags/memory/</loc>
+      <lastmod>2017-03-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/talk/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/tags/neural-computation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/neural-computation/" hreflang="de"/>
     
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/tags/neural-computation/</loc>
+      <lastmod>2017-03-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/synaptic-plasticity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/synaptic-plasticity/" hreflang="de"/>
+    
+      <loc>/tags/synaptic-plasticity/</loc>
+      <lastmod>2017-03-25T00:00:00+01:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -279,6 +853,42 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/localization/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/localization/" hreflang="de"/>
+    
+      <loc>/tags/localization/</loc>
+      <lastmod>2016-01-05T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/faculty-of-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/faculty-of-language/" hreflang="de"/>
+    
+      <loc>/tags/faculty-of-language/</loc>
+      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/i-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/i-language/" hreflang="de"/>
+    
+      <loc>/tags/i-language/</loc>
+      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/grammar-in-universal-grammar/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/grammar-in-universal-grammar/" hreflang="de"/>
     
@@ -290,11 +900,107 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/universal-grammar/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/universal-grammar/" hreflang="de"/>
+    
+      <loc>/tags/universal-grammar/</loc>
+      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/universals/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/universals/" hreflang="de"/>
+    
+      <loc>/tags/universals/</loc>
+      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/7/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/7/" hreflang="de"/>
+    
+      <loc>/publication_types/7/</loc>
+      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/cultural-recycling-neural-substrates/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/cultural-recycling-neural-substrates/" hreflang="de"/>
     
       <loc>/publication/cultural-recycling-neural-substrates/</loc>
       <lastmod>2015-10-06T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/cultural-recycling/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/cultural-recycling/" hreflang="de"/>
+    
+      <loc>/tags/cultural-recycling/</loc>
+      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/evo-devo/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/evo-devo/" hreflang="de"/>
+    
+      <loc>/tags/evo-devo/</loc>
+      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/language-evolution/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/language-evolution/" hreflang="de"/>
+    
+      <loc>/tags/language-evolution/</loc>
+      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/aplysia/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/aplysia/" hreflang="de"/>
+    
+      <loc>/tags/aplysia/</loc>
+      <lastmod>2015-08-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/hebbian-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/hebbian-learning/" hreflang="de"/>
+    
+      <loc>/tags/hebbian-learning/</loc>
+      <lastmod>2015-08-04T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -323,316 +1029,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/publication/review-the-altruistic-brain-donald-pfaff/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication/review-the-altruistic-brain-donald-pfaff/" hreflang="de"/>
-    
-      <loc>/publication/review-the-altruistic-brain-donald-pfaff/</loc>
-      <lastmod>2015-03-18T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/2/" hreflang="de"/>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2017-12-31T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/4/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/4/" hreflang="de"/>
-    
-      <loc>/publication_types/4/</loc>
-      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/5/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/5/" hreflang="de"/>
-    
-      <loc>/publication_types/5/</loc>
-      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/7/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/7/" hreflang="de"/>
-    
-      <loc>/publication_types/7/</loc>
-      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/8/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/8/" hreflang="de"/>
-    
-      <loc>/publication_types/8/</loc>
-      <lastmod>2018-02-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/9/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/9/" hreflang="de"/>
-    
-      <loc>/publication_types/9/</loc>
-      <lastmod>2017-08-30T13:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/aplysia/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/aplysia/" hreflang="de"/>
-    
-      <loc>/tags/aplysia/</loc>
-      <lastmod>2015-08-04T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/brocas-region/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/brocas-region/" hreflang="de"/>
-    
-      <loc>/tags/brocas-region/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/categories/" hreflang="de"/>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/christian-buchmann/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/christian-buchmann/" hreflang="de"/>
-    
-      <loc>/tags/christian-buchmann/</loc>
-      <lastmod>2017-05-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/eric-lenneberg/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/eric-lenneberg/" hreflang="de"/>
-    
-      <loc>/tags/eric-lenneberg/</loc>
-      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/faculty-of-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/faculty-of-language/" hreflang="de"/>
-    
-      <loc>/tags/faculty-of-language/</loc>
-      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/hebbian-learning/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/hebbian-learning/" hreflang="de"/>
-    
-      <loc>/tags/hebbian-learning/</loc>
-      <lastmod>2015-08-04T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/i-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/i-language/" hreflang="de"/>
-    
-      <loc>/tags/i-language/</loc>
-      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/noam-chomsky/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/noam-chomsky/" hreflang="de"/>
-    
-      <loc>/tags/noam-chomsky/</loc>
-      <lastmod>2017-12-31T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/pet/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/pet/" hreflang="de"/>
-    
-      <loc>/tags/pet/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/" hreflang="de"/>
-    
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/politik/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/politik/" hreflang="de"/>
-    
-      <loc>/tags/politik/</loc>
-      <lastmod>2017-08-30T13:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/" hreflang="de"/>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2017-12-31T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/" hreflang="de"/>
-    
-      <loc>/tags/</loc>
-      <lastmod>2015-08-04T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/universal-grammar/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/universal-grammar/" hreflang="de"/>
-    
-      <loc>/tags/universal-grammar/</loc>
-      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/wissenschaft/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/wissenschaft/" hreflang="de"/>
-    
-      <loc>/tags/wissenschaft/</loc>
-      <lastmod>2017-05-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/wissenschaftskommunikation/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/wissenschaftskommunikation/" hreflang="de"/>
-    
-      <loc>/tags/wissenschaftskommunikation/</loc>
-      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/biolinguistics/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/biolinguistics/" hreflang="de"/>
-    
-      <loc>/tags/biolinguistics/</loc>
-      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/biology-of-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/biology-of-language/" hreflang="de"/>
-    
-      <loc>/tags/biology-of-language/</loc>
-      <lastmod>2018-02-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/tags/book-review/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/tags/book-review/" hreflang="de"/>
     
@@ -645,204 +1041,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/cognition/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/cognition/" hreflang="de"/>
-    
-      <loc>/tags/cognition/</loc>
-      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/cognitive-neuroscience/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/cognitive-neuroscience/" hreflang="de"/>
-    
-      <loc>/tags/cognitive-neuroscience/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/cultural-recycling/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/cultural-recycling/" hreflang="de"/>
-    
-      <loc>/tags/cultural-recycling/</loc>
-      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/data-sharing/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/data-sharing/" hreflang="de"/>
-    
-      <loc>/tags/data-sharing/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/evo-devo/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/evo-devo/" hreflang="de"/>
-    
-      <loc>/tags/evo-devo/</loc>
-      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/evolution-of-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/evolution-of-language/" hreflang="de"/>
-    
-      <loc>/tags/evolution-of-language/</loc>
-      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/fmri/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/fmri/" hreflang="de"/>
-    
-      <loc>/tags/fmri/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/language/" hreflang="de"/>
-    
-      <loc>/tags/language/</loc>
-      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/language-and-brain/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/language-and-brain/" hreflang="de"/>
-    
-      <loc>/tags/language-and-brain/</loc>
-      <lastmod>2017-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/language-evolution/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/language-evolution/" hreflang="de"/>
-    
-      <loc>/tags/language-evolution/</loc>
-      <lastmod>2015-10-06T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/language-modality/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/language-modality/" hreflang="de"/>
-    
-      <loc>/tags/language-modality/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/language-networks/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/language-networks/" hreflang="de"/>
-    
-      <loc>/tags/language-networks/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/linguistics/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/linguistics/" hreflang="de"/>
-    
-      <loc>/tags/linguistics/</loc>
-      <lastmod>2017-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/localization/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/localization/" hreflang="de"/>
-    
-      <loc>/tags/localization/</loc>
-      <lastmod>2016-01-05T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/memory/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/memory/" hreflang="de"/>
-    
-      <loc>/tags/memory/</loc>
-      <lastmod>2017-03-25T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/meta-analysis/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/meta-analysis/" hreflang="de"/>
-    
-      <loc>/tags/meta-analysis/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/minimalism/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/minimalism/" hreflang="de"/>
-    
-      <loc>/tags/minimalism/</loc>
-      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
+      <xhtml:link rel="alternate" href="/publication/review-the-altruistic-brain-donald-pfaff/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/review-the-altruistic-brain-donald-pfaff/" hreflang="de"/>
+    
+      <loc>/publication/review-the-altruistic-brain-donald-pfaff/</loc>
+      <lastmod>2015-03-18T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -861,167 +1064,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/music/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/music/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/categories/" hreflang="de"/>
     
-      <loc>/tags/music/</loc>
-      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/neural-computation/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/neural-computation/" hreflang="de"/>
-    
-      <loc>/tags/neural-computation/</loc>
-      <lastmod>2017-03-25T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/neuroscience/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/neuroscience/" hreflang="de"/>
-    
-      <loc>/tags/neuroscience/</loc>
-      <lastmod>2017-08-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/open-science/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/open-science/" hreflang="de"/>
-    
-      <loc>/tags/open-science/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/poster-presentation/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/poster-presentation/" hreflang="de"/>
-    
-      <loc>/tags/poster-presentation/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/psycholinguistics/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/psycholinguistics/" hreflang="de"/>
-    
-      <loc>/tags/psycholinguistics/</loc>
-      <lastmod>2019-04-08T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/science-to-professionals/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/science-to-professionals/" hreflang="de"/>
-    
-      <loc>/tags/science-to-professionals/</loc>
-      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/science-to-public/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/science-to-public/" hreflang="de"/>
-    
-      <loc>/tags/science-to-public/</loc>
-      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/sign-language/" hreflang="de"/>
-    
-      <loc>/tags/sign-language/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/special-issue/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/special-issue/" hreflang="de"/>
-    
-      <loc>/tags/special-issue/</loc>
-      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/spring-school/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/spring-school/" hreflang="de"/>
-    
-      <loc>/tags/spring-school/</loc>
-      <lastmod>2018-10-10T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/synaptic-plasticity/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/synaptic-plasticity/" hreflang="de"/>
-    
-      <loc>/tags/synaptic-plasticity/</loc>
-      <lastmod>2017-03-25T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/talk/" hreflang="de"/>
-    
-      <loc>/tags/talk/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/universals/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/universals/" hreflang="de"/>
-    
-      <loc>/tags/universals/</loc>
-      <lastmod>2015-12-01T00:00:00+02:00</lastmod>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     

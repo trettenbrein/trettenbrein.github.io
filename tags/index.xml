@@ -7,116 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
-    <lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Aplysia</title>
-      <link>/tags/aplysia/</link>
-      <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
+      <title>evolution of language</title>
+      <link>/tags/evolution-of-language/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/aplysia/</guid>
+      <guid>/tags/evolution-of-language/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Broca&#39;s region</title>
-      <link>/tags/brocas-region/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
+      <title>language development</title>
+      <link>/tags/language-development/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/brocas-region/</guid>
+      <guid>/tags/language-development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Christian Buchmann</title>
-      <link>/tags/christian-buchmann/</link>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
+      <title>minimalism</title>
+      <link>/tags/minimalism/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/christian-buchmann/</guid>
+      <guid>/tags/minimalism/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Eric Lenneberg</title>
-      <link>/tags/eric-lenneberg/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
+      <title>neuroscience</title>
+      <link>/tags/neuroscience/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/eric-lenneberg/</guid>
+      <guid>/tags/neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Faculty of Language</title>
-      <link>/tags/faculty-of-language/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
+      <title>syntax</title>
+      <link>/tags/syntax/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>/tags/faculty-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hebbian learning</title>
-      <link>/tags/hebbian-learning/</link>
-      <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/hebbian-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I-language</title>
-      <link>/tags/i-language/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/i-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noam Chomsky</title>
-      <link>/tags/noam-chomsky/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/noam-chomsky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PET</title>
-      <link>/tags/pet/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/pet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politik</title>
-      <link>/tags/politik/</link>
-      <pubDate>Wed, 30 Aug 2017 13:00:00 +0200</pubDate>
-      
-      <guid>/tags/politik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Universal Grammar</title>
-      <link>/tags/universal-grammar/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/universal-grammar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wissenschaft</title>
-      <link>/tags/wissenschaft/</link>
-      <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/wissenschaft/</guid>
+      <guid>/tags/syntax/</guid>
       <description></description>
     </item>
     
@@ -126,249 +63,6 @@
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/wissenschaftskommunikation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biolinguistics</title>
-      <link>/tags/biolinguistics/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/biolinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biology of language</title>
-      <link>/tags/biology-of-language/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/biology-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>book review</title>
-      <link>/tags/book-review/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/book-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cognition</title>
-      <link>/tags/cognition/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/cognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cognitive neuroscience</title>
-      <link>/tags/cognitive-neuroscience/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/cognitive-neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cultural recycling</title>
-      <link>/tags/cultural-recycling/</link>
-      <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/cultural-recycling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>/tags/data-sharing/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evo-devo</title>
-      <link>/tags/evo-devo/</link>
-      <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/evo-devo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution of language</title>
-      <link>/tags/evolution-of-language/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/evolution-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fMRI</title>
-      <link>/tags/fmri/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/fmri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language</title>
-      <link>/tags/language/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language and brain</title>
-      <link>/tags/language-and-brain/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/language-and-brain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language evolution</title>
-      <link>/tags/language-evolution/</link>
-      <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/language-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language modality</title>
-      <link>/tags/language-modality/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/language-modality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language networks</title>
-      <link>/tags/language-networks/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/language-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linguistics</title>
-      <link>/tags/linguistics/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>localization</title>
-      <link>/tags/localization/</link>
-      <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/localization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>memory</title>
-      <link>/tags/memory/</link>
-      <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/memory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meta-analysis</title>
-      <link>/tags/meta-analysis/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/meta-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>minimalism</title>
-      <link>/tags/minimalism/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/minimalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>morality</title>
-      <link>/tags/morality/</link>
-      <pubDate>Wed, 18 Mar 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/morality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>/tags/music/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neural computation</title>
-      <link>/tags/neural-computation/</link>
-      <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/neural-computation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroscience</title>
-      <link>/tags/neuroscience/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open science</title>
-      <link>/tags/open-science/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/open-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poster presentation</title>
-      <link>/tags/poster-presentation/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/poster-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psycholinguistics</title>
-      <link>/tags/psycholinguistics/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/psycholinguistics/</guid>
       <description></description>
     </item>
     
@@ -391,6 +85,60 @@
     </item>
     
     <item>
+      <title>PET</title>
+      <link>/tags/pet/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/pet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>/tags/fmri/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language modality</title>
+      <link>/tags/language-modality/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/language-modality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language networks</title>
+      <link>/tags/language-networks/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/language-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta-analysis</title>
+      <link>/tags/meta-analysis/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster presentation</title>
+      <link>/tags/poster-presentation/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/poster-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>sign language</title>
       <link>/tags/sign-language/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
@@ -400,29 +148,29 @@
     </item>
     
     <item>
-      <title>special issue</title>
-      <link>/tags/special-issue/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
+      <title>cognitive neuroscience</title>
+      <link>/tags/cognitive-neuroscience/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/tags/special-issue/</guid>
+      <guid>/tags/cognitive-neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>spring school</title>
-      <link>/tags/spring-school/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      <title>data sharing</title>
+      <link>/tags/data-sharing/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/tags/spring-school/</guid>
+      <guid>/tags/data-sharing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>synaptic plasticity</title>
-      <link>/tags/synaptic-plasticity/</link>
-      <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
+      <title>open science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/tags/synaptic-plasticity/</guid>
+      <guid>/tags/open-science/</guid>
       <description></description>
     </item>
     
@@ -436,11 +184,281 @@
     </item>
     
     <item>
+      <title>Broca&#39;s region</title>
+      <link>/tags/brocas-region/</link>
+      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/brocas-region/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psycholinguistics</title>
+      <link>/tags/psycholinguistics/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Lenneberg</title>
+      <link>/tags/eric-lenneberg/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/eric-lenneberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biolinguistics</title>
+      <link>/tags/biolinguistics/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/biolinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>special issue</title>
+      <link>/tags/special-issue/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/special-issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognition</title>
+      <link>/tags/cognition/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>/tags/language/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring school</title>
+      <link>/tags/spring-school/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/spring-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biology of language</title>
+      <link>/tags/biology-of-language/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/biology-of-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noam Chomsky</title>
+      <link>/tags/noam-chomsky/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/noam-chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politik</title>
+      <link>/tags/politik/</link>
+      <pubDate>Wed, 30 Aug 2017 13:00:00 +0200</pubDate>
+      
+      <guid>/tags/politik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language and brain</title>
+      <link>/tags/language-and-brain/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/language-and-brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>/tags/linguistics/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Buchmann</title>
+      <link>/tags/christian-buchmann/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/christian-buchmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wissenschaft</title>
+      <link>/tags/wissenschaft/</link>
+      <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/wissenschaft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>memory</title>
+      <link>/tags/memory/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neural computation</title>
+      <link>/tags/neural-computation/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/neural-computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synaptic plasticity</title>
+      <link>/tags/synaptic-plasticity/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/synaptic-plasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>localization</title>
+      <link>/tags/localization/</link>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faculty of Language</title>
+      <link>/tags/faculty-of-language/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/faculty-of-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I-language</title>
+      <link>/tags/i-language/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/i-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Grammar</title>
+      <link>/tags/universal-grammar/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/universal-grammar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>universals</title>
       <link>/tags/universals/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
       <guid>/tags/universals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cultural recycling</title>
+      <link>/tags/cultural-recycling/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/cultural-recycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evo-devo</title>
+      <link>/tags/evo-devo/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/evo-devo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language evolution</title>
+      <link>/tags/language-evolution/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/language-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aplysia</title>
+      <link>/tags/aplysia/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/aplysia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hebbian learning</title>
+      <link>/tags/hebbian-learning/</link>
+      <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/hebbian-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book review</title>
+      <link>/tags/book-review/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/book-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>morality</title>
+      <link>/tags/morality/</link>
+      <pubDate>Wed, 18 Mar 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/morality/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick C. Trettenbrein on Patrick C. Trettenbrein</title>
@@ -7,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neuroscience and syntax</title>
+      <link>/publication/neuroscience-and-syntax/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/neuroscience-and-syntax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Was die Hände über das Gehirn verraten: Einblicke in die universellen kognitiven und neurobiologischen Grundlagen von Sprache</title>
@@ -157,16 +165,6 @@ GERMANY
       
       <guid>/publication/lives-in-language-eric-heinz-lenneberg/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>50 Years Later: A Tribute to Eric Lenneberg’s Biological Foundations of Language</title>
-      <link>/publication/50-years-later-lenneberg-editorial/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/50-years-later-lenneberg-editorial/</guid>
-      <description>&lt;p&gt;Editorial for the &lt;em&gt;Biolinguistics&lt;/em&gt; special issue celebrating the 50-year anniversary of the publication of Eric Lenneberg&amp;rsquo;s &lt;em&gt;Biological Foundations of Language&lt;/em&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
