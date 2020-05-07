@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>localization on Patrick C. Trettenbrein</title>
-    <link>/tags/localization/</link>
+    <link>https://trettenbrein.biolinguistics.eu/tags/localization/</link>
     <description>Recent content in localization on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
+    <copyright>&amp;copy; 2018&amp;ndash;2020</copyright>
     <lastBuildDate>Tue, 05 Jan 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/localization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/localization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The language network(s): Beyond localisation? </title>
-      <link>/talk/language-networks-beyond-localisation/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/language-networks-beyond-localisation/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>/talk/language-networks-beyond-localisation/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/language-networks-beyond-localisation/</guid>
       <description></description>
     </item>
     
