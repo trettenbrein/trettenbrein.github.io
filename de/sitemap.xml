@@ -98,6 +98,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language-processing/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language-processing/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/language-processing/</loc>
+      <lastmod>2020-02-12T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/minimalism/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/minimalism/" hreflang="en"/>
     
