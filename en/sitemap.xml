@@ -252,6 +252,65 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/brocas-area/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/brocas-area/" hreflang="de"/>
+    
+      <loc>/tags/brocas-area/</loc>
+      <lastmod>2020-02-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/functional-neuroanatomy-of-language-without-speech/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/functional-neuroanatomy-of-language-without-speech/" hreflang="de"/>
+    
+      <loc>/publication/functional-neuroanatomy-of-language-without-speech/</loc>
+      <lastmod>2020-02-10T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/meta-analysis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/meta-analysis/" hreflang="de"/>
+    
+      <loc>/tags/meta-analysis/</loc>
+      <lastmod>2020-02-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/modality-independence/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/modality-independence/" hreflang="de"/>
+    
+      <loc>/tags/modality-independence/</loc>
+      <lastmod>2020-02-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/sign-language/" hreflang="de"/>
+    
+      <loc>/tags/sign-language/</loc>
+      <lastmod>2020-02-10T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/talk/" hreflang="de"/>
     
@@ -369,34 +428,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tags/meta-analysis/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/meta-analysis/" hreflang="de"/>
-    
-      <loc>/tags/meta-analysis/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/tags/poster-presentation/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/tags/poster-presentation/" hreflang="de"/>
     
       <loc>/tags/poster-presentation/</loc>
-      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/sign-language/" hreflang="de"/>
-    
-      <loc>/tags/sign-language/</loc>
       <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
