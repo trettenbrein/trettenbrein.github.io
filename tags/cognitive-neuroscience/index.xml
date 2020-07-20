@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cognitive neuroscience on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/tags/cognitive-neuroscience/</link>
+    <link>/tags/cognitive-neuroscience/</link>
     <description>Recent content in cognitive neuroscience on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2020</copyright>
     <lastBuildDate>Thu, 09 May 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/cognitive-neuroscience/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cognitive-neuroscience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A meta-analytic perspective on data sharing and reproducibility in cognitive neuroscience of sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
+      <link>/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
+      <guid>/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
       <description></description>
     </item>
     

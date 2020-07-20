@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neural computation on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/de/tags/neural-computation/</link>
+    <link>/de/tags/neural-computation/</link>
     <description>Recent content in neural computation on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2020</copyright>
     <lastBuildDate>Sat, 25 Mar 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/neural-computation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/de/tags/neural-computation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The case against synaptic plasticity as the brain’s basic memory mechanism</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</link>
+      <link>/de/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</guid>
+      <guid>/de/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The demise of the synapse as the locus of memory: A looming paradigm shift?</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/synapse-locus-memory/</link>
+      <link>/de/publication/synapse-locus-memory/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/synapse-locus-memory/</guid>
+      <guid>/de/publication/synapse-locus-memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The language network(s): Beyond localisation? </title>
-      <link>https://trettenbrein.biolinguistics.eu/de/talk/language-networks-beyond-localisation/</link>
+      <link>/de/talk/language-networks-beyond-localisation/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/talk/language-networks-beyond-localisation/</guid>
+      <guid>/de/talk/language-networks-beyond-localisation/</guid>
       <description></description>
     </item>
     
