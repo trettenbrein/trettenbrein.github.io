@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>minimalism on Patrick C. Trettenbrein</title>
-    <link>/tags/minimalism/</link>
+    <link>https://trettenbrein.biolinguistics.eu/tags/minimalism/</link>
     <description>Recent content in minimalism on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2020</copyright>
     <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/tags/minimalism/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/minimalism/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neuroscience and syntax</title>
-      <link>/publication/neuroscience-and-syntax/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/neuroscience-and-syntax/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>/publication/neuroscience-and-syntax/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/neuroscience-and-syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The “grammar” in Universal Grammar: A biolinguistic clarification</title>
-      <link>/publication/grammar-in-universal-grammar/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/grammar-in-universal-grammar/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
-      <guid>/publication/grammar-in-universal-grammar/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/grammar-in-universal-grammar/</guid>
       <description></description>
     </item>
     
