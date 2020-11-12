@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2020</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Functional neuroanatomy of language without speech: An ALE meta-analysis of sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0200</pubDate>
+      <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>
+      <link>https://trettenbrein.biolinguistics.eu/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
       <description></description>
     </item>
     
