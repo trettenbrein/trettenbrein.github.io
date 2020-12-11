@@ -2,31 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/de/publication_types/3/</link>
+    <link>/de/publication_types/3/</link>
     <description>Recent content in 3 on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2020</copyright>
     <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/de/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/de/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
+      <link>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
+      <guid>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
       <description></description>
     </item>
     

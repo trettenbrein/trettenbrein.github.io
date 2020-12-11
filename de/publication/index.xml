@@ -2,185 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/de/publication/</link>
+    <link>/de/publication/</link>
     <description>Recent content in Publications on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2020</copyright>
-    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/de/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/de/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)</title>
+      <link>/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
+      <link>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
+      <guid>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional neuroanatomy of language without speech: An ALE meta-analysis of sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/functional-neuroanatomy-of-language-without-speech/</link>
+      <link>/de/publication/functional-neuroanatomy-of-language-without-speech/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/functional-neuroanatomy-of-language-without-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</link>
-      <pubDate>Sat, 20 Jun 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
+      <guid>/de/publication/functional-neuroanatomy-of-language-without-speech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuroscience and syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/neuroscience-and-syntax/</link>
+      <link>/de/publication/neuroscience-and-syntax/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/neuroscience-and-syntax/</guid>
+      <guid>/de/publication/neuroscience-and-syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>50 Years Later: A Tribute to Eric Lenneberg’s Biological Foundations of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/special-issue-50-years-later-lenneberg-print-edition/</link>
+      <link>/de/publication/special-issue-50-years-later-lenneberg-print-edition/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/special-issue-50-years-later-lenneberg-print-edition/</guid>
+      <guid>/de/publication/special-issue-50-years-later-lenneberg-print-edition/</guid>
       <description>Print version of the Biolinguistics special issue celebrating the 50-year anniversary of the publication of Eric Lenneberg&amp;rsquo;s Biological Foundations of Language.
 Der Druck dieser Publikation wurde vom Referat für Wissenschaft &amp;amp; Forschung der Steiermarkischen Landesregierung gefördert.</description>
     </item>
     
     <item>
       <title>Spring school on language, music, and cognition: Organizing events in time</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/spring-school-organizing-events-in-time/</link>
+      <link>/de/publication/spring-school-organizing-events-in-time/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/spring-school-organizing-events-in-time/</guid>
+      <guid>/de/publication/spring-school-organizing-events-in-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lives in language: Eric Heinz Lenneberg (1921–1975)</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/lives-in-language-eric-heinz-lenneberg/</link>
+      <link>/de/publication/lives-in-language-eric-heinz-lenneberg/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/lives-in-language-eric-heinz-lenneberg/</guid>
+      <guid>/de/publication/lives-in-language-eric-heinz-lenneberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>50 Years Later: A Tribute to Eric Lenneberg’s Biological Foundations of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/50-years-later-lenneberg-editorial/</link>
+      <link>/de/publication/50-years-later-lenneberg-editorial/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/50-years-later-lenneberg-editorial/</guid>
+      <guid>/de/publication/50-years-later-lenneberg-editorial/</guid>
       <description>Editorial for the Biolinguistics special issue celebrating the 50-year anniversary of the publication of Eric Lenneberg&amp;rsquo;s Biological Foundations of Language.</description>
     </item>
     
     <item>
       <title>50 years later: A conversation about the biological study of language with Noam Chomsky</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/conversation-biological-study-language-noam-chomsky/</link>
+      <link>/de/publication/conversation-biological-study-language-noam-chomsky/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/conversation-biological-study-language-noam-chomsky/</guid>
+      <guid>/de/publication/conversation-biological-study-language-noam-chomsky/</guid>
       <description>An interview with Noam Chomsky, a co-founder of the field of biolinguistics, contemporary, and friend of Eric Lenneberg where he talks about the early days of the field, his work and relation with Lenneberg, and a number of other questions and scientific issues that (still) captivate us 50 years later.</description>
     </item>
     
     <item>
       <title>This time in linguistics history: A 50th anniversary tribute to Eric H. Lenneberg’s Biological Foundations of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/this-time-in-linguistic-history-eric-lenneberg/</link>
+      <link>/de/publication/this-time-in-linguistic-history-eric-lenneberg/</link>
       <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/this-time-in-linguistic-history-eric-lenneberg/</guid>
+      <guid>/de/publication/this-time-in-linguistic-history-eric-lenneberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demokratie – vielerorts auf der &#34;roten Liste&#34;</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/demokratie-vielerorts-auf-der-roten-liste/</link>
+      <link>/de/publication/demokratie-vielerorts-auf-der-roten-liste/</link>
       <pubDate>Wed, 30 Aug 2017 13:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/demokratie-vielerorts-auf-der-roten-liste/</guid>
+      <guid>/de/publication/demokratie-vielerorts-auf-der-roten-liste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Looking for language in the brain</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/looking-for-language-in-the-brain/</link>
+      <link>/de/publication/looking-for-language-in-the-brain/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/looking-for-language-in-the-brain/</guid>
+      <guid>/de/publication/looking-for-language-in-the-brain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steirische Plagiatsaffäre: &#34;Es geht um nix?&#34;</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/steirische-plagiatsaffaere-es-geht-um-nix/</link>
+      <link>/de/publication/steirische-plagiatsaffaere-es-geht-um-nix/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/steirische-plagiatsaffaere-es-geht-um-nix/</guid>
+      <guid>/de/publication/steirische-plagiatsaffaere-es-geht-um-nix/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The demise of the synapse as the locus of memory: A looming paradigm shift?</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/synapse-locus-memory/</link>
+      <link>/de/publication/synapse-locus-memory/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/synapse-locus-memory/</guid>
+      <guid>/de/publication/synapse-locus-memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The “grammar” in Universal Grammar: A biolinguistic clarification</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/grammar-in-universal-grammar/</link>
+      <link>/de/publication/grammar-in-universal-grammar/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/grammar-in-universal-grammar/</guid>
+      <guid>/de/publication/grammar-in-universal-grammar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commentary “Cultural recycling of neural substrates during language evolution and development”</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/cultural-recycling-neural-substrates/</link>
+      <link>/de/publication/cultural-recycling-neural-substrates/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/cultural-recycling-neural-substrates/</guid>
+      <guid>/de/publication/cultural-recycling-neural-substrates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinstatement of long-term memory following erasure of its behavioral and synaptic expression in Aplysia</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/reinstatement-long-term-memory-aplysia/</link>
+      <link>/de/publication/reinstatement-long-term-memory-aplysia/</link>
       <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/reinstatement-long-term-memory-aplysia/</guid>
+      <guid>/de/publication/reinstatement-long-term-memory-aplysia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broca’s problem as it stands: Review of Cognitive Neuroscience of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</link>
+      <link>/de/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</guid>
+      <guid>/de/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuroscience and human nature: Review of The Altruistic Brain</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/review-the-altruistic-brain-donald-pfaff/</link>
+      <link>/de/publication/review-the-altruistic-brain-donald-pfaff/</link>
       <pubDate>Wed, 18 Mar 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/review-the-altruistic-brain-donald-pfaff/</guid>
+      <guid>/de/publication/review-the-altruistic-brain-donald-pfaff/</guid>
       <description></description>
     </item>
     
