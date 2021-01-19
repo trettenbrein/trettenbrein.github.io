@@ -3,10 +3,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/introduction-to-fmri-and-meta-analysis/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/introduction-to-fmri-and-meta-analysis/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/basics-of-fmri-and-meta-analysis/" hreflang="de"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/talk/introduction-to-fmri-and-meta-analysis/</loc>
+      <loc>https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/</loc>
       <lastmod>2021-01-12T00:00:00+01:00</lastmod>
     </url>
     
@@ -238,53 +238,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/brocas-area/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/brocas-area/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/brocas-area/</loc>
-      <lastmod>2020-10-09T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/functional-neuroanatomy-of-language-without-speech/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/</loc>
-      <lastmod>2020-10-09T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/modality-independence/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/modality-independence/</loc>
-      <lastmod>2020-10-09T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
-      <lastmod>2020-10-09T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/6/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/6/" hreflang="de"/>
     
@@ -478,6 +431,18 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</loc>
+      <lastmod>2019-07-19T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
       <lastmod>2019-07-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
