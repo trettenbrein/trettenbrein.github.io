@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>language on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/tags/language/</link>
+    <link>/tags/language/</link>
     <description>Recent content in language on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
     <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/language/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/language/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Basics of functional magnetic resonance imaging (fMRI) and neuroimaging meta-analysis</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/</link>
+      <link>/talk/basics-of-fmri-and-meta-analysis/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/</guid>
+      <guid>/talk/basics-of-fmri-and-meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring school on language, music, and cognition: Organizing events in time</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/spring-school-organizing-events-in-time/</link>
+      <link>/publication/spring-school-organizing-events-in-time/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/publication/spring-school-organizing-events-in-time/</guid>
+      <guid>/publication/spring-school-organizing-events-in-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broca’s problem as it stands: Review of Cognitive Neuroscience of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</link>
+      <link>/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</guid>
+      <guid>/publication/review-cognitive-neuroscience-of-language-david-kemmerer/</guid>
       <description></description>
     </item>
     

@@ -2,535 +2,553 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Patrick C. Trettenbrein</title>
-    <link>https://trettenbrein.biolinguistics.eu/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>fMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/fmri/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/fmri/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
+      <title>Broca’s area</title>
+      <link>/tags/brocas-area/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language/</guid>
+      <guid>/tags/brocas-area/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meta-analysis</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/meta-analysis/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
+      <link>/tags/meta-analysis/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/meta-analysis/</guid>
+      <guid>/tags/meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>German Sign Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/german-sign-language/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      <title>modality-independence</title>
+      <link>/tags/modality-independence/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/german-sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>age of acquisition</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/age-of-acquisition/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/age-of-acquisition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iconicity</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/iconicity/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/iconicity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lexical frequency</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/lexical-frequency/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/lexical-frequency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>subjective ratings</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/subjective-ratings/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/subjective-ratings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transparency</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/transparency/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/transparency/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>visuo-spatial modality</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/visuo-spatial-modality/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/visuo-spatial-modality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>evolution of language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/evolution-of-language/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/evolution-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language development</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-development/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language processing</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-processing/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>minimalism</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/minimalism/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/minimalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroscience</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/neuroscience/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/syntax/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wissenschaftskommunikation</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science to professionals</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/science-to-professionals/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/science-to-professionals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science to public</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PET</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/pet/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/pet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language modality</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-modality/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-modality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language networks</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-networks/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poster presentation</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</guid>
+      <guid>/tags/modality-independence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/sign-language/</link>
+      <link>/tags/sign-language/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>/tags/fmri/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>/tags/language/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German Sign Language</title>
+      <link>/tags/german-sign-language/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/german-sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>age of acquisition</title>
+      <link>/tags/age-of-acquisition/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/age-of-acquisition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iconicity</title>
+      <link>/tags/iconicity/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/iconicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lexical frequency</title>
+      <link>/tags/lexical-frequency/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/lexical-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subjective ratings</title>
+      <link>/tags/subjective-ratings/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/subjective-ratings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transparency</title>
+      <link>/tags/transparency/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visuo-spatial modality</title>
+      <link>/tags/visuo-spatial-modality/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/visuo-spatial-modality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>evolution of language</title>
+      <link>/tags/evolution-of-language/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/evolution-of-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language development</title>
+      <link>/tags/language-development/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/language-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language processing</title>
+      <link>/tags/language-processing/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minimalism</title>
+      <link>/tags/minimalism/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/minimalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>/tags/neuroscience/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>/tags/syntax/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wissenschaftskommunikation</title>
+      <link>/tags/wissenschaftskommunikation/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/wissenschaftskommunikation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science to professionals</title>
+      <link>/tags/science-to-professionals/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/science-to-professionals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science to public</title>
+      <link>/tags/science-to-public/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/science-to-public/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PET</title>
+      <link>/tags/pet/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language/</guid>
+      <guid>/tags/pet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language modality</title>
+      <link>/tags/language-modality/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/language-modality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language networks</title>
+      <link>/tags/language-networks/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/language-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster presentation</title>
+      <link>/tags/poster-presentation/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/poster-presentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cognitive neuroscience</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/cognitive-neuroscience/</link>
+      <link>/tags/cognitive-neuroscience/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/cognitive-neuroscience/</guid>
+      <guid>/tags/cognitive-neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data sharing</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/data-sharing/</link>
+      <link>/tags/data-sharing/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/data-sharing/</guid>
+      <guid>/tags/data-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open science</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/open-science/</link>
+      <link>/tags/open-science/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/open-science/</guid>
+      <guid>/tags/open-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>talk</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/talk/</link>
+      <link>/tags/talk/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/talk/</guid>
+      <guid>/tags/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broca&#39;s region</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/brocas-region/</link>
+      <link>/tags/brocas-region/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/brocas-region/</guid>
+      <guid>/tags/brocas-region/</guid>
       <description></description>
     </item>
     
     <item>
       <title>psycholinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</link>
+      <link>/tags/psycholinguistics/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</guid>
+      <guid>/tags/psycholinguistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eric Lenneberg</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/eric-lenneberg/</link>
+      <link>/tags/eric-lenneberg/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/eric-lenneberg/</guid>
+      <guid>/tags/eric-lenneberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biolinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</link>
+      <link>/tags/biolinguistics/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</guid>
+      <guid>/tags/biolinguistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>special issue</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/special-issue/</link>
+      <link>/tags/special-issue/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/special-issue/</guid>
+      <guid>/tags/special-issue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cognition</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/cognition/</link>
+      <link>/tags/cognition/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/cognition/</guid>
+      <guid>/tags/cognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/music/</link>
+      <link>/tags/music/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/music/</guid>
+      <guid>/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>spring school</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/spring-school/</link>
+      <link>/tags/spring-school/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/spring-school/</guid>
+      <guid>/tags/spring-school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biology of language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</link>
+      <link>/tags/biology-of-language/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</guid>
+      <guid>/tags/biology-of-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noam Chomsky</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</link>
+      <link>/tags/noam-chomsky/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</guid>
+      <guid>/tags/noam-chomsky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Politik</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/politik/</link>
+      <link>/tags/politik/</link>
       <pubDate>Wed, 30 Aug 2017 13:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/politik/</guid>
+      <guid>/tags/politik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language and brain</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-and-brain/</link>
+      <link>/tags/language-and-brain/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-and-brain/</guid>
+      <guid>/tags/language-and-brain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/linguistics/</link>
+      <link>/tags/linguistics/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/linguistics/</guid>
+      <guid>/tags/linguistics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christian Buchmann</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/christian-buchmann/</link>
+      <link>/tags/christian-buchmann/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/christian-buchmann/</guid>
+      <guid>/tags/christian-buchmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wissenschaft</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/wissenschaft/</link>
+      <link>/tags/wissenschaft/</link>
       <pubDate>Sat, 06 May 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/wissenschaft/</guid>
+      <guid>/tags/wissenschaft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>memory</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/memory/</link>
+      <link>/tags/memory/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/memory/</guid>
+      <guid>/tags/memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>neural computation</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/neural-computation/</link>
+      <link>/tags/neural-computation/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/neural-computation/</guid>
+      <guid>/tags/neural-computation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>synaptic plasticity</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/synaptic-plasticity/</link>
+      <link>/tags/synaptic-plasticity/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/synaptic-plasticity/</guid>
+      <guid>/tags/synaptic-plasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>localization</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/localization/</link>
+      <link>/tags/localization/</link>
       <pubDate>Tue, 05 Jan 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/localization/</guid>
+      <guid>/tags/localization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Faculty of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/faculty-of-language/</link>
+      <link>/tags/faculty-of-language/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/faculty-of-language/</guid>
+      <guid>/tags/faculty-of-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I-language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/i-language/</link>
+      <link>/tags/i-language/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/i-language/</guid>
+      <guid>/tags/i-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Universal Grammar</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/universal-grammar/</link>
+      <link>/tags/universal-grammar/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/universal-grammar/</guid>
+      <guid>/tags/universal-grammar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>universals</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/universals/</link>
+      <link>/tags/universals/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/universals/</guid>
+      <guid>/tags/universals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cultural recycling</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/cultural-recycling/</link>
+      <link>/tags/cultural-recycling/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/cultural-recycling/</guid>
+      <guid>/tags/cultural-recycling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evo-devo</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/evo-devo/</link>
+      <link>/tags/evo-devo/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/evo-devo/</guid>
+      <guid>/tags/evo-devo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language evolution</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-evolution/</link>
+      <link>/tags/language-evolution/</link>
       <pubDate>Tue, 06 Oct 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-evolution/</guid>
+      <guid>/tags/language-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aplysia</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/aplysia/</link>
+      <link>/tags/aplysia/</link>
       <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/aplysia/</guid>
+      <guid>/tags/aplysia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hebbian learning</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/hebbian-learning/</link>
+      <link>/tags/hebbian-learning/</link>
       <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/hebbian-learning/</guid>
+      <guid>/tags/hebbian-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>book review</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/book-review/</link>
+      <link>/tags/book-review/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/book-review/</guid>
+      <guid>/tags/book-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>morality</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/morality/</link>
+      <link>/tags/morality/</link>
       <pubDate>Wed, 18 Mar 2015 00:00:00 +0200</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/tags/morality/</guid>
+      <guid>/tags/morality/</guid>
       <description></description>
     </item>
     
