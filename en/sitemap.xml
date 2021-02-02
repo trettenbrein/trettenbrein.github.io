@@ -121,6 +121,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="de"/>
+    
+      <loc>/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</loc>
+      <lastmod>2021-01-29T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/talk/basics-of-fmri-and-meta-analysis/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/talk/basics-of-fmri-and-meta-analysis/" hreflang="de"/>
     
@@ -256,29 +267,6 @@
       <loc>/tags/visuo-spatial-modality/</loc>
       <lastmod>2020-12-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/3/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/3/" hreflang="de"/>
-    
-      <loc>/publication_types/3/</loc>
-      <lastmod>2020-11-12T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="de"/>
-    
-      <loc>/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</loc>
-      <lastmod>2020-11-12T00:00:00+02:00</lastmod>
     </url>
     
   
