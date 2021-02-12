@@ -121,6 +121,101 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="/tags/german-sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/german-sign-language/" hreflang="de"/>
+    
+      <loc>/tags/german-sign-language/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/" hreflang="de"/>
+    
+      <loc>/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/age-of-acquisition/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/age-of-acquisition/" hreflang="de"/>
+    
+      <loc>/tags/age-of-acquisition/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/iconicity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/iconicity/" hreflang="de"/>
+    
+      <loc>/tags/iconicity/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/lexical-frequency/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/lexical-frequency/" hreflang="de"/>
+    
+      <loc>/tags/lexical-frequency/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/subjective-ratings/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/subjective-ratings/" hreflang="de"/>
+    
+      <loc>/tags/subjective-ratings/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/transparency/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/transparency/" hreflang="de"/>
+    
+      <loc>/tags/transparency/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/tags/visuo-spatial-modality/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/tags/visuo-spatial-modality/" hreflang="de"/>
+    
+      <loc>/tags/visuo-spatial-modality/</loc>
+      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="de"/>
     
@@ -171,101 +266,6 @@
     
       <loc>/tags/language/</loc>
       <lastmod>2021-01-12T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/german-sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/german-sign-language/" hreflang="de"/>
-    
-      <loc>/tags/german-sign-language/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/" hreflang="de"/>
-    
-      <loc>/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/age-of-acquisition/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/age-of-acquisition/" hreflang="de"/>
-    
-      <loc>/tags/age-of-acquisition/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/iconicity/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/iconicity/" hreflang="de"/>
-    
-      <loc>/tags/iconicity/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/lexical-frequency/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/lexical-frequency/" hreflang="de"/>
-    
-      <loc>/tags/lexical-frequency/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/subjective-ratings/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/subjective-ratings/" hreflang="de"/>
-    
-      <loc>/tags/subjective-ratings/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/transparency/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/transparency/" hreflang="de"/>
-    
-      <loc>/tags/transparency/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/tags/visuo-spatial-modality/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/tags/visuo-spatial-modality/" hreflang="de"/>
-    
-      <loc>/tags/visuo-spatial-modality/</loc>
-      <lastmod>2020-12-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
