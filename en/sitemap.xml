@@ -7,8 +7,54 @@
       <xhtml:link rel="alternate" href="/de/publication_types/2/" hreflang="de"/>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2021-02-15T00:00:00+02:00</lastmod>
+      <lastmod>2021-02-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="de"/>
+    
+      <loc>/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</loc>
+      <lastmod>2021-02-19T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/" hreflang="de"/>
+    
+      <loc>/</loc>
+      <lastmod>2021-02-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication_types/" hreflang="de"/>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2021-02-19T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/de/publication/" hreflang="de"/>
+    
+      <loc>/publication/</loc>
+      <lastmod>2021-02-19T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -31,41 +77,6 @@
       <xhtml:link rel="alternate" href="/de/publication/functional-neuroanatomy-of-language-without-speech/" hreflang="de"/>
     
       <loc>/publication/functional-neuroanatomy-of-language-without-speech/</loc>
-      <lastmod>2021-02-15T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/" hreflang="de"/>
-    
-      <loc>/</loc>
-      <lastmod>2021-02-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication_types/" hreflang="de"/>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2021-02-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication/" hreflang="de"/>
-    
-      <loc>/publication/</loc>
       <lastmod>2021-02-15T00:00:00+02:00</lastmod>
     </url>
     
@@ -210,17 +221,6 @@
       <loc>/tags/visuo-spatial-modality/</loc>
       <lastmod>2021-02-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/" hreflang="de"/>
-    
-      <loc>/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</loc>
-      <lastmod>2021-01-29T00:00:00+02:00</lastmod>
     </url>
     
   

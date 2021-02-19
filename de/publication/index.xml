@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/de/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>
+      <link>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0200</pubDate>
+      
+      <guid>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Functional neuroanatomy of language without speech: An ALE meta-analysis of sign language</title>
@@ -27,15 +36,6 @@
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0200</pubDate>
       
       <guid>/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>
-      <link>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0200</pubDate>
-      
-      <guid>/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
       <description></description>
     </item>
     
