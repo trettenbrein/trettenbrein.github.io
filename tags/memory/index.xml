@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>memory on Patrick C. Trettenbrein</title>
-    <link>/tags/memory/</link>
+    <link>https://trettenbrein.biolinguistics.eu/tags/memory/</link>
     <description>Recent content in memory on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
     <lastBuildDate>Sat, 25 Mar 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/memory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The case against synaptic plasticity as the brain’s basic memory mechanism</title>
-      <link>/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</link>
       <pubDate>Sat, 25 Mar 2017 00:00:00 +0100</pubDate>
       
-      <guid>/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/case-against-synaptic-plasticity-brain-basic-memory-mechanism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The demise of the synapse as the locus of memory: A looming paradigm shift?</title>
-      <link>/publication/synapse-locus-memory/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/synapse-locus-memory/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0200</pubDate>
       
-      <guid>/publication/synapse-locus-memory/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/synapse-locus-memory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reinstatement of long-term memory following erasure of its behavioral and synaptic expression in Aplysia</title>
-      <link>/publication/reinstatement-long-term-memory-aplysia/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/reinstatement-long-term-memory-aplysia/</link>
       <pubDate>Tue, 04 Aug 2015 00:00:00 +0200</pubDate>
       
-      <guid>/publication/reinstatement-long-term-memory-aplysia/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/reinstatement-long-term-memory-aplysia/</guid>
       <description></description>
     </item>
     

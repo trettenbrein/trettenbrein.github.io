@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick C. Trettenbrein on Patrick C. Trettenbrein</title>
-    <link>/</link>
+    <link>https://trettenbrein.biolinguistics.eu/</link>
     <description>Recent content in Patrick C. Trettenbrein on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,127 +11,135 @@
     
     <item>
       <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>
-      <link>/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0200</pubDate>
       
-      <guid>/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional neuroanatomy of language without speech: An ALE meta-analysis of sign language</title>
-      <link>/publication/functional-neuroanatomy-of-language-without-speech/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
       
-      <guid>/publication/functional-neuroanatomy-of-language-without-speech/</guid>
-      <description></description>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/</guid>
+      <description>
+
+&lt;h4 id=&#34;press-coverage-selection&#34;&gt;Press coverage (selection):&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;German: &lt;a href=&#34;https://www.spektrum.de/news/sprache-wie-das-gehirn-gebaerden-versteht/1838176&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Ein Areal für alle Sprachen&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.spektrum.de/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Spektrum der Wissenschaft&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;French: &lt;a href=&#34;https://www.pourquoidocteur.fr/Articles/Question-d-actu/35484-Comment-cerveau-traite-langue-signes&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Comment le cerveau traite la langue des signes&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.pourquoidocteur.fr/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Porquoi Docteur&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)</title>
-      <link>/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0200</pubDate>
       
-      <guid>/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basics of functional magnetic resonance imaging (fMRI) and neuroimaging meta-analysis</title>
-      <link>/talk/basics-of-fmri-and-meta-analysis/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>/talk/basics-of-fmri-and-meta-analysis/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neuroscience and syntax</title>
-      <link>/publication/neuroscience-and-syntax/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/neuroscience-and-syntax/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
       
-      <guid>/publication/neuroscience-and-syntax/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/neuroscience-and-syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Was die Hände über das Gehirn verraten: Einblicke in die universellen kognitiven und neurobiologischen Grundlagen von Sprache</title>
-      <link>/talk/was-die-haende-ueber-das-gehirn-verraten/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/was-die-haende-ueber-das-gehirn-verraten/</link>
       <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/was-die-haende-ueber-das-gehirn-verraten/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/was-die-haende-ueber-das-gehirn-verraten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional neuroanatomy of sign language in deaf signers: Activation Likelihood Estimation meta-analysis and Meta-Analytic Connectivity Mapping</title>
-      <link>/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-deaf-signers-ale-and-macm-siena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A meta-analytic perspective on data sharing and reproducibility in cognitive neuroscience of sign language</title>
-      <link>/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broca&#39;s region is a modality-independet hub in the language network: Insights from a recent meta-analysis</title>
-      <link>/talk/brocas_region_modality_independent_hub_in_language_network/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/brocas_region_modality_independent_hub_in_language_network/</link>
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/brocas_region_modality_independent_hub_in_language_network/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/brocas_region_modality_independent_hub_in_language_network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The neural basis of sign language processing in deaf signers: An Activation Likelihood Estimation meta-analysis</title>
-      <link>/talk/neural-basis-sign-language-processing-meta-analysis/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/neural-basis-sign-language-processing-meta-analysis/</link>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/neural-basis-sign-language-processing-meta-analysis/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/neural-basis-sign-language-processing-meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psycholinguistic norms for more than 300 lexical manual signs in German Sign Language (DGS)</title>
-      <link>/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wie verarbeitet das Gehirn Gebärdensprache?</title>
-      <link>/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reviewing the functional neuroanatomy of sign language in deaf signers using Activation Likelihood Estimation</title>
-      <link>/talk/functional-neuroanatomy-sign-language-meta-analysis/</link>
+      <link>https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-meta-analysis/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>/talk/functional-neuroanatomy-sign-language-meta-analysis/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-meta-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>50 Years Later: A Tribute to Eric Lenneberg’s Biological Foundations of Language</title>
-      <link>/publication/special-issue-50-years-later-lenneberg-print-edition/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/special-issue-50-years-later-lenneberg-print-edition/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/special-issue-50-years-later-lenneberg-print-edition/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/special-issue-50-years-later-lenneberg-print-edition/</guid>
       <description>&lt;p&gt;Print version of the &lt;em&gt;Biolinguistics&lt;/em&gt; special issue celebrating the 50-year anniversary of the publication of Eric Lenneberg&amp;rsquo;s &lt;em&gt;Biological Foundations of Language&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Print publication subsidised by the &lt;a href=&#34;https://www.verwaltung.steiermark.at/cms/ziel/75775927/&#34; target=&#34;_blank&#34;&gt;Referat für Wissenschaft &amp;amp; Forschung der Steiermarkischen Landesregierung&lt;/a&gt;.&lt;/p&gt;
@@ -140,10 +148,10 @@
     
     <item>
       <title>Spring school on language, music, and cognition: Organizing events in time</title>
-      <link>/publication/spring-school-organizing-events-in-time/</link>
+      <link>https://trettenbrein.biolinguistics.eu/publication/spring-school-organizing-events-in-time/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/spring-school-organizing-events-in-time/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/publication/spring-school-organizing-events-in-time/</guid>
       <description></description>
     </item>
     
