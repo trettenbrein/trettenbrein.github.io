@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neuroscience and syntax</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/neuroscience-and-syntax/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/neuroscience-and-syntax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>
@@ -36,15 +45,6 @@
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neuroscience and syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/neuroscience-and-syntax/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/neuroscience-and-syntax/</guid>
       <description></description>
     </item>
     
