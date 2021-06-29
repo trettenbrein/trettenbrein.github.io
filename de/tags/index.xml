@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>open science</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster presentation</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psycholinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>evolution of language</title>
@@ -90,15 +126,6 @@
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -238,15 +265,6 @@
     </item>
     
     <item>
-      <title>poster presentation</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cognitive neuroscience</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/cognitive-neuroscience/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
@@ -265,15 +283,6 @@
     </item>
     
     <item>
-      <title>open science</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>talk</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/talk/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
@@ -288,15 +297,6 @@
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psycholinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/</guid>
       <description></description>
     </item>
     
