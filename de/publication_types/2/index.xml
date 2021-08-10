@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sobre el estudio biológico del lenguaje 50 años después. Una conversación con Noam Chomsky</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/</guid>
+      <description>Una entrevista con Noam Chomsky, cofundador del campo de la biolingüística, contemporáneo y amigo de Eric Lenneberg, en la que habla de los inicios del campo, de su trabajo y relación con Lenneberg, y de una serie de cuestiones y temas científicos que (todavía) nos cautivan 50 años después.
+(Spanische Übersetzung eines Interviews mit Noam Chomsky, dass ursprünglich in der Zeitschrift Biolinguistics mit dem Titel &amp;ldquo;50 years later: A conversation about the biological study of language with Noam Chomsky&amp;rdquo; erschienen ist.</description>
+    </item>
     
     <item>
       <title>Controlling video stimuli in sign language and gesture research: The OpenPoseR package for analyzing OpenPose motion tracking data in R</title>

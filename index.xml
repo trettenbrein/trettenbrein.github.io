@@ -6,8 +6,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sobre el estudio biológico del lenguaje 50 años después. Una conversación con Noam Chomsky</title>
+      <link>https://trettenbrein.biolinguistics.eu/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/</guid>
+      <description>&lt;p&gt;Una entrevista con Noam Chomsky, cofundador del campo de la biolingüística, contemporáneo y amigo de Eric Lenneberg, en la que habla de los inicios del campo, de su trabajo y relación con Lenneberg, y de una serie de cuestiones y temas científicos que (todavía) nos cautivan 50 años después.&lt;/p&gt;
+
+&lt;p&gt;(Spanish translation of an interview with Noam Chomsky that originally appeared in &lt;em&gt;Biolinguistics&lt;/em&gt; as &lt;a href=&#34;https://trettenbrein.biolinguistics.eu/publication/conversation-biological-study-language-noam-chomsky/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;50 years later: A conversation about the biological study of language with Noam Chomsky&amp;rdquo;&lt;/a&gt;.)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)</title>
@@ -145,18 +157,6 @@
       
       <guid>https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-meta-analysis/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>50 Years Later: A Tribute to Eric Lenneberg’s Biological Foundations of Language</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/special-issue-50-years-later-lenneberg-print-edition/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/publication/special-issue-50-years-later-lenneberg-print-edition/</guid>
-      <description>&lt;p&gt;Print version of the &lt;em&gt;Biolinguistics&lt;/em&gt; special issue celebrating the 50-year anniversary of the publication of Eric Lenneberg&amp;rsquo;s &lt;em&gt;Biological Foundations of Language&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Print publication subsidised by the &lt;a href=&#34;https://www.verwaltung.steiermark.at/cms/ziel/75775927/&#34; target=&#34;_blank&#34;&gt;Referat für Wissenschaft &amp;amp; Forschung der Steiermarkischen Landesregierung&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

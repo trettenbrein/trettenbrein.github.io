@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Noam Chomsky</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biolinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biology of language</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interview</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/interview/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/interview/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>open science</title>
@@ -310,15 +346,6 @@
     </item>
     
     <item>
-      <title>biolinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>special issue</title>
       <link>https://trettenbrein.biolinguistics.eu/tags/special-issue/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
@@ -351,24 +378,6 @@
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/spring-school/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biology of language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noam Chomsky</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</link>
-      <pubDate>Sun, 31 Dec 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</guid>
       <description></description>
     </item>
     

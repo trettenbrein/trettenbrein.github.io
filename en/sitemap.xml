@@ -3,11 +3,117 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/2/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication_types/2/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/noam-chomsky/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/</loc>
-      <lastmod>2021-06-28T00:00:00+01:00</lastmod>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication_types/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/biolinguistics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/biolinguistics/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/biology-of-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/biology-of-language/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/interview/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/interview/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/interview/</loc>
+      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -31,18 +137,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
       <lastmod>2021-06-28T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
-      <lastmod>2021-06-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -120,29 +214,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication_types/</loc>
-      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication/</loc>
-      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/evolution-of-language/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/evolution-of-language/" hreflang="de"/>
     
@@ -208,18 +279,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/syntax/</loc>
       <lastmod>2021-04-30T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/2/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/2/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication_types/2/</loc>
-      <lastmod>2021-02-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -658,18 +717,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/biolinguistics/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/biolinguistics/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</loc>
-      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/special-issue/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/special-issue/" hreflang="de"/>
     
@@ -797,18 +844,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/biology-of-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/biology-of-language/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/biology-of-language/</loc>
-      <lastmod>2018-02-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/50-years-later-lenneberg-editorial/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/50-years-later-lenneberg-editorial/" hreflang="de"/>
     
@@ -825,18 +860,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/publication/conversation-biological-study-language-noam-chomsky/</loc>
       <lastmod>2017-12-31T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/noam-chomsky/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</loc>
-      <lastmod>2017-12-31T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
