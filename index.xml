@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Can detection of extraneous visual signals reveal the syntactic structure of sign language?</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sobre el estudio biológico del lenguaje 50 años después. Una conversación con Noam Chomsky</title>
@@ -147,15 +156,6 @@
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reviewing the functional neuroanatomy of sign language in deaf signers using Activation Likelihood Estimation</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-meta-analysis/</link>
-      <pubDate>Sun, 17 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/talk/functional-neuroanatomy-sign-language-meta-analysis/</guid>
       <description></description>
     </item>
     

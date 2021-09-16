@@ -3,6 +3,112 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/constituent-structure/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/constituent-structure/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/constituent-structure/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/syntax/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/syntax/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/syntax/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/talk/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/talk/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/2/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/2/" hreflang="de"/>
     
@@ -19,18 +125,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/noam-chomsky/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/noam-chomsky/</loc>
-      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/</loc>
       <lastmod>2021-07-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -67,18 +161,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/publication/sobre-el-estudio-biologico-del-lenguaje-50-anos-despues/</loc>
       <lastmod>2021-07-30T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
-      <lastmod>2021-07-30T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -132,17 +214,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
-      <lastmod>2021-06-28T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/open-science/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/open-science/" hreflang="de"/>
     
@@ -159,30 +230,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</loc>
-      <lastmod>2021-06-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</loc>
-      <lastmod>2021-06-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
       <lastmod>2021-06-28T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -266,18 +313,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/neuroscience/</loc>
-      <lastmod>2021-04-30T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/syntax/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/syntax/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/syntax/</loc>
       <lastmod>2021-04-30T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -595,18 +630,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/data-sharing/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/data-sharing/</loc>
-      <lastmod>2019-05-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/talk/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/talk/</loc>
       <lastmod>2019-05-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
