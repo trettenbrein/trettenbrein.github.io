@@ -3,11 +3,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/notice/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/notice/" hreflang="en"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/de/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/</loc>
-      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <loc>https://trettenbrein.biolinguistics.eu/de/notice/</loc>
+      <lastmod>2021-09-21T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -18,8 +18,19 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/</loc>
-      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
+      <lastmod>2021-09-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/</loc>
+      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
     </url>
     
   

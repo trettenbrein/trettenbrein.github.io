@@ -6,8 +6,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2021</copyright>
-    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Legal notice</title>
+      <link>https://trettenbrein.biolinguistics.eu/notice/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/notice/</guid>
+      <description>&lt;p&gt;This private web site is supposed to showcase my research and scholarly work. The content and opinions expressed on these page are my own and do not necessarily reflect those of my employer.&lt;/p&gt;
+
+&lt;p&gt;The page was created using the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt; for &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; and is hosted for free on &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;As I am currently based in Leipzig, I provide the information below in accordance with German law.&lt;/p&gt;
+
+&lt;p&gt;Betreiber sowie Verantwortlicher nach § 18 Abs. 2 MStV:&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;margin-left:2em&#34;&gt;
+Patrick C. Trettenbrein&lt;br /&gt;
+Stephanstraße 1a&lt;br /&gt;
+04103 Leipzig&lt;br /&gt;
+GERMANY
+&lt;/div&gt;
+&lt;br /&gt;
+&lt;a href=&#34;https://trettenbrein.biolinguistics.eu/#contact&#34;&gt;Contact&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
     
     <item>
       <title>Can detection of extraneous visual signals reveal the syntactic structure of sign language?</title>
@@ -84,7 +113,12 @@
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
-      <description></description>
+      <description>
+
+&lt;h4 id=&#34;summary-in-german-sign-language-dgs&#34;&gt;Summary in German Sign Language (DGS):&lt;/h4&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/ALgYncvKfrg&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
     </item>
     
     <item>
@@ -147,15 +181,6 @@
       <pubDate>Mon, 08 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wie verarbeitet das Gehirn Gebärdensprache?</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</link>
-      <pubDate>Fri, 29 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/talk/wie-verarbeitet-das-gehirn-gebaerdensprache/</guid>
       <description></description>
     </item>
     
