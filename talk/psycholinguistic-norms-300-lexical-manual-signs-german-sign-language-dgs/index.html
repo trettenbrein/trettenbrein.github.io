@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.3.0">
+  <meta name="generator" content="Hugo 0.55.0" />
+  <meta name="author" content="Patrick C. Trettenbrein">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="Sign languages provide researchers with an opportunity to ask empirical questions about the human language faculty that go beyond considerations specific to speech and writing. Whereas psycholinguists working with spoken and written language stimuli routinely control their materials for parameters such as lexical frequency and age of acquisition (AoA), no such information or normed stimulus sets are currently available to researchers working with German Sign Language (DGS). Our contribution presents the first norms for iconicity, familiarity, AoA, and transparency for DGS.&lt;br /&gt; &lt;br /&gt; The normed stimulus set consists of more than 300 clips of manual DGS signs accom- panied by mouthings and non-manual components. Norms for the signs in the clips are derived from ratings by a total of 30 deaf signers in Leipzig, Göttingen, and Hamburg, as well as 30 hearing non-signers and native speakers of German in Leipzig. The rating procedure was implemented in a browser to ensure functionality and a similar procedure across locations and participants (Figure 1a), yet all participants performed the ratings on site in the presence of an experimenter. Deaf signers performed a total of three tasks in which they rated stimulus clips for iconicity, AoA, and familiarity. Such subjective measures of AoA and familiarity have been shown to be good proxies for corpus measures in studies of other spoken and sign languages (Vinson, Cormier, Denmark, Schembri, &amp; Vigliocco, 2008). Hearing non-signers performed two tasks in which they first guessed the meaning of the signs in the clips to determine transparency and in the second task rated iconicity given the meaning.&lt;br /&gt; &lt;br /&gt; In addition to empirical norming data (e.g., Figure 1b), we provide information about German and English correspondences of signs. The stimulus set has been annotated in machine-readable form with regard to lexico-semantic as well as phonological properties of signs: one-handed vs. two-handed, place of articulation, path movement, symmetry, most likely lexical class, animacy, verb type, (potential) homonymy, and potential dialectal variation. Information about sign on- and offset for all stimulus clips and a number of quantitative measures of movement are also available. These were derived from automated motion tracking by fitting a pose-estimation model (Figure 1c) to the clips using OpenPose (Wei, Ramakrishna, Kanade, &amp; Sheikh, 2016) which allows us to quantify and automatically track movement (velocity and acceleration) beyond annotation (Figure 1d).&lt;br /&gt; &lt;br /&gt; In this presentation, we will focus on providing an overview of the derived norms and attempt to put them in perspective of published empirical norms for other sign languages, for example, ASL and BSL (Vinson et al., 2008; Caselli, Sehyr, Cohen-Goldberg, &amp; Emmorey, 2017), as well as comparable information for spoken languages. This includes a comparison of our subjective rating data with regard to frequency and AoA obtained using DGS signs with norms for other sign languages as well as with similar measures for German and English. We also discuss the relationship of mean iconicity ratings between deaf signers and hearing non-signers, as well as the relation of iconicity and transparency.&lt;br /&gt; &lt;br /&gt; Our norms and stimulus set are intended to control for psychologically relevant param- eters in future psycho- and neurolinguistic studies of DGS beyond the work of our own labs. Consequently, the norms, stimulus clips, cleaned raw data, and the R scripts used for analysis will be made available for download through the Open Science Framework. &lt;p class=MsoCaption style=&#39;page-break-after:avoid&#39;&gt;&lt;small&gt;&lt;span lang=EN-GB style=&#39;font-family:&#39;Times New Roman&#39;,serif&#39;&gt;Figure &lt;/span&gt;&lt;span lang=EN-GB style=&#39;font-family:&#39;Times New Roman&#39;,serif&#39;&gt;&lt;span style=&#39;mso-no-proof: yes&#39;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;span lang=EN-GB style=&#39;font-family:&#39;Times New Roman&#39;,serif&#39;&gt;: Example stimulus EVENING. a) Screenshot of &lt;span class=SpellE&gt;AoA&lt;/span&gt; task for deaf signers. b) Iconicity ratings for this stimulus by hearing non-signers (1 “not iconic” – 7 “very iconic”). Mean and σ in red. c) Automated motion tracking provides quantitative information about movements in every clip. Arrows indicate points of interest used for the plot. d) Movement of manual articulators in the clip as revealed by motion tracking (darker colours indicate lower velocity, i.e. holds).&lt;/span&gt;&lt;span style=&#39;font-family:&#39;Times New Roman&#39;,serif;mso-ansi-language: EN-US&#39;&gt;&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#39;mso-no-proof:yes&#39;&gt;&lt;img width=100% src=&#39;featured.png&#39;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#39;font-size:17.0pt&#39;&gt;References&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#39;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm&#39;&gt;Caselli, N. K., &lt;span class=SpellE&gt;Sehyr&lt;/span&gt;, Z. S., Cohen-Goldberg, A. M., &amp;amp; &lt;span class=SpellE&gt;Emmorey&lt;/span&gt;, K. (2017). ASL-LEX: A lexical database of American Sign Language. Behavior Research Methods, 49(2), 784-801. &lt;span class=SpellE&gt;doi&lt;/span&gt;: 10.3758/ s13428-016-0742-0&lt;/p&gt;
+&lt;p style=&#39;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm&#39;&gt;Vinson, D. P., Cormier, K., Denmark, T., &lt;span class=SpellE&gt;Schembri&lt;/span&gt;, A., &amp;amp; &lt;span class=SpellE&gt;Vigliocco&lt;/span&gt;, G. (2008). The British Sign Language (BSL) norms for age of acquisition, familiarity, and iconicity. Behavior Research Methods, 40(4), 1079-1087. &lt;span class=SpellE&gt;doi&lt;/span&gt;: 10.3758/BRM.40.4.1079 &lt;/p&gt;
+&lt;p style=&#39;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm&#39;&gt;Wei, S.-E., Ramakrishna, V., &lt;span class=SpellE&gt;Kanade&lt;/span&gt;, T., &amp;amp; Sheikh, Y. (2016). Convolutional pose machines. arXiv:1602.00134 [&lt;span class=SpellE&gt;cs&lt;/span&gt;]. &lt;/p&gt; ">
+
+  
+  <link rel="alternate" hreflang="de" href="https://trettenbrein.biolinguistics.eu/de/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/">
+  
+  <link rel="alternate" hreflang="en-us" href="https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#1185C1">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.css" integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ==" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://trettenbrein.biolinguistics.eu/index.xml" type="application/rss+xml" title="Patrick C. Trettenbrein">
+  <link rel="feed" href="https://trettenbrein.biolinguistics.eu/index.xml" type="application/rss+xml" title="Patrick C. Trettenbrein">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/">
+
+  
+  
+  
+  
+    
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Patrick C. Trettenbrein">
+  <meta property="og:url" content="https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/">
+  <meta property="og:title" content="Psycholinguistic norms for more than 300 lexical manual signs in German Sign Language (DGS) | Patrick C. Trettenbrein">
+  <meta property="og:description" content="Sign languages provide researchers with an opportunity to ask empirical questions about the human language faculty that go beyond considerations specific to speech and writing. Whereas psycholinguists working with spoken and written language stimuli routinely control their materials for parameters such as lexical frequency and age of acquisition (AoA), no such information or normed stimulus sets are currently available to researchers working with German Sign Language (DGS). Our contribution presents the first norms for iconicity, familiarity, AoA, and transparency for DGS.&lt;br /&gt; &lt;br /&gt; The normed stimulus set consists of more than 300 clips of manual DGS signs accom- panied by mouthings and non-manual components. Norms for the signs in the clips are derived from ratings by a total of 30 deaf signers in Leipzig, Göttingen, and Hamburg, as well as 30 hearing non-signers and native speakers of German in Leipzig. The rating procedure was implemented in a browser to ensure functionality and a similar procedure across locations and participants (Figure 1a), yet all participants performed the ratings on site in the presence of an experimenter. Deaf signers performed a total of three tasks in which they rated stimulus clips for iconicity, AoA, and familiarity. Such subjective measures of AoA and familiarity have been shown to be good proxies for corpus measures in studies of other spoken and sign languages (Vinson, Cormier, Denmark, Schembri, &amp; Vigliocco, 2008). Hearing non-signers performed two tasks in which they first guessed the meaning of the signs in the clips to determine transparency and in the second task rated iconicity given the meaning.&lt;br /&gt; &lt;br /&gt; In addition to empirical norming data (e.g., Figure 1b), we provide information about German and English correspondences of signs. The stimulus set has been annotated in machine-readable form with regard to lexico-semantic as well as phonological properties of signs: one-handed vs. two-handed, place of articulation, path movement, symmetry, most likely lexical class, animacy, verb type, (potential) homonymy, and potential dialectal variation. Information about sign on- and offset for all stimulus clips and a number of quantitative measures of movement are also available. These were derived from automated motion tracking by fitting a pose-estimation model (Figure 1c) to the clips using OpenPose (Wei, Ramakrishna, Kanade, &amp; Sheikh, 2016) which allows us to quantify and automatically track movement (velocity and acceleration) beyond annotation (Figure 1d).&lt;br /&gt; &lt;br /&gt; In this presentation, we will focus on providing an overview of the derived norms and attempt to put them in perspective of published empirical norms for other sign languages, for example, ASL and BSL (Vinson et al., 2008; Caselli, Sehyr, Cohen-Goldberg, &amp; Emmorey, 2017), as well as comparable information for spoken languages. This includes a comparison of our subjective rating data with regard to frequency and AoA obtained using DGS signs with norms for other sign languages as well as with similar measures for German and English. We also discuss the relationship of mean iconicity ratings between deaf signers and hearing non-signers, as well as the relation of iconicity and transparency.&lt;br /&gt; &lt;br /&gt; Our norms and stimulus set are intended to control for psychologically relevant param- eters in future psycho- and neurolinguistic studies of DGS beyond the work of our own labs. Consequently, the norms, stimulus clips, cleaned raw data, and the R scripts used for analysis will be made available for download through the Open Science Framework. &lt;p class=MsoCaption style=&#39;page-break-after:avoid&#39;&gt;&lt;small&gt;&lt;span lang=EN-GB style=&#39;font-family:&#39;Times New Roman&#39;,serif&#39;&gt;Figure &lt;/span&gt;&lt;span lang=EN-GB style=&#39;font-family:&#39;Times New Roman&#39;,serif&#39;&gt;&lt;span style=&#39;mso-no-proof: yes&#39;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;span lang=EN-GB style=&#39;font-family:&#39;Times New Roman&#39;,serif&#39;&gt;: Example stimulus EVENING. a) Screenshot of &lt;span class=SpellE&gt;AoA&lt;/span&gt; task for deaf signers. b) Iconicity ratings for this stimulus by hearing non-signers (1 “not iconic” – 7 “very iconic”). Mean and σ in red. c) Automated motion tracking provides quantitative information about movements in every clip. Arrows indicate points of interest used for the plot. d) Movement of manual articulators in the clip as revealed by motion tracking (darker colours indicate lower velocity, i.e. holds).&lt;/span&gt;&lt;span style=&#39;font-family:&#39;Times New Roman&#39;,serif;mso-ansi-language: EN-US&#39;&gt;&lt;/span&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#39;mso-no-proof:yes&#39;&gt;&lt;img width=100% src=&#39;featured.png&#39;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#39;font-size:17.0pt&#39;&gt;References&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&#39;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm&#39;&gt;Caselli, N. K., &lt;span class=SpellE&gt;Sehyr&lt;/span&gt;, Z. S., Cohen-Goldberg, A. M., &amp;amp; &lt;span class=SpellE&gt;Emmorey&lt;/span&gt;, K. (2017). ASL-LEX: A lexical database of American Sign Language. Behavior Research Methods, 49(2), 784-801. &lt;span class=SpellE&gt;doi&lt;/span&gt;: 10.3758/ s13428-016-0742-0&lt;/p&gt;
+&lt;p style=&#39;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm&#39;&gt;Vinson, D. P., Cormier, K., Denmark, T., &lt;span class=SpellE&gt;Schembri&lt;/span&gt;, A., &amp;amp; &lt;span class=SpellE&gt;Vigliocco&lt;/span&gt;, G. (2008). The British Sign Language (BSL) norms for age of acquisition, familiarity, and iconicity. Behavior Research Methods, 40(4), 1079-1087. &lt;span class=SpellE&gt;doi&lt;/span&gt;: 10.3758/BRM.40.4.1079 &lt;/p&gt;
+&lt;p style=&#39;margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm&#39;&gt;Wei, S.-E., Ramakrishna, V., &lt;span class=SpellE&gt;Kanade&lt;/span&gt;, T., &amp;amp; Sheikh, Y. (2016). Convolutional pose machines. arXiv:1602.00134 [&lt;span class=SpellE&gt;cs&lt;/span&gt;]. &lt;/p&gt; "><meta property="og:image" content="https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/featured.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2019-04-08T00:00:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2019-04-08T00:00:00&#43;01:00">
+  
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#1185C1",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#1185C1"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
+  
+
+  <title>Psycholinguistic norms for more than 300 lexical manual signs in German Sign Language (DGS) | Patrick C. Trettenbrein</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Patrick C. Trettenbrein</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#talks">
+            
+            <span>Talks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+            <i class="fas fa-globe" aria-hidden="true"></i>
+            <span>English</span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://trettenbrein.biolinguistics.eu/de/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/">
+                <span>Deutsch</span>
+              </a>
+            </li>
+            
+          </ul>
+        </li>
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/Event">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <div class="featured-image" style="background-image: url('/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/featured_huf4613078374e38773f50ff566c9942bf_824206_800x0_resize_box_2.png');"></div>
+  <span class="article-header-caption">Example stimulus EVENING used in the study.</span>
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">Psycholinguistic norms for more than 300 lexical manual signs in German Sign Language (DGS)</h1>
+
+        
+
+        
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">PC Trettenbrein</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">N-K Pendzich</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">J-M Cramer</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">S Kollien</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">AD Friederici</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">E Zaccarella</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2019-04-08 00:00:00 &#43;0100 &#43;0100" itemprop="datePublished">
+    <time datetime="2019-04-08 00:00:00 &#43;0100 &#43;0100" itemprop="dateModified">
+      Apr 8, 2019
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Patrick C. Trettenbrein">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://pure.mpg.de/rest/items/item_3162703_1/component/file_3166678/content" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+        
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29&amp;url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f&amp;title=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f&amp;title=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29&amp;body=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/talk/psycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs/featured_huf4613078374e38773f50ff566c9942bf_824206_680x500_fill_q90_box_top_2.png" itemprop="image" alt="">
+        <span class="article-header-caption">Example stimulus EVENING used in the study.</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">Psycholinguistic norms for more than 300 lexical manual signs in German Sign Language (DGS)</h1>
+
+  
+
+  
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">PC Trettenbrein</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">N-K Pendzich</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">J-M Cramer</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">S Kollien</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">AD Friederici</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">E Zaccarella</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2019-04-08 00:00:00 &#43;0100 &#43;0100" itemprop="datePublished">
+    <time datetime="2019-04-08 00:00:00 &#43;0100 &#43;0100" itemprop="dateModified">
+      Apr 8, 2019
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Patrick C. Trettenbrein">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29&amp;url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f&amp;title=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f&amp;title=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Psycholinguistic%20norms%20for%20more%20than%20300%20lexical%20manual%20signs%20in%20German%20Sign%20Language%20%28DGS%29&amp;body=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fpsycholinguistic-norms-300-lexical-manual-signs-german-sign-language-dgs%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://pure.mpg.de/rest/items/item_3162703_1/component/file_3166678/content" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text"><p>Sign languages provide researchers with an opportunity to ask empirical questions about the human language faculty that go beyond considerations specific to speech and writing. Whereas psycholinguists working with spoken and written language stimuli routinely control their materials for parameters such as lexical frequency and age of acquisition (AoA), no such information or normed stimulus sets are currently available to researchers working with German Sign Language (DGS). Our contribution presents the first norms for iconicity, familiarity, AoA, and transparency for DGS.<br /> <br /> The normed stimulus set consists of more than 300 clips of manual DGS signs accom- panied by mouthings and non-manual components. Norms for the signs in the clips are derived from ratings by a total of 30 deaf signers in Leipzig, Göttingen, and Hamburg, as well as 30 hearing non-signers and native speakers of German in Leipzig. The rating procedure was implemented in a browser to ensure functionality and a similar procedure across locations and participants (Figure 1a), yet all participants performed the ratings on site in the presence of an experimenter. Deaf signers performed a total of three tasks in which they rated stimulus clips for iconicity, AoA, and familiarity. Such subjective measures of AoA and familiarity have been shown to be good proxies for corpus measures in studies of other spoken and sign languages (Vinson, Cormier, Denmark, Schembri, &amp; Vigliocco, 2008). Hearing non-signers performed two tasks in which they first guessed the meaning of the signs in the clips to determine transparency and in the second task rated iconicity given the meaning.<br /> <br /> In addition to empirical norming data (e.g., Figure 1b), we provide information about German and English correspondences of signs. The stimulus set has been annotated in machine-readable form with regard to lexico-semantic as well as phonological properties of signs: one-handed vs. two-handed, place of articulation, path movement, symmetry, most likely lexical class, animacy, verb type, (potential) homonymy, and potential dialectal variation. Information about sign on- and offset for all stimulus clips and a number of quantitative measures of movement are also available. These were derived from automated motion tracking by fitting a pose-estimation model (Figure 1c) to the clips using OpenPose (Wei, Ramakrishna, Kanade, &amp; Sheikh, 2016) which allows us to quantify and automatically track movement (velocity and acceleration) beyond annotation (Figure 1d).<br /> <br /> In this presentation, we will focus on providing an overview of the derived norms and attempt to put them in perspective of published empirical norms for other sign languages, for example, ASL and BSL (Vinson et al., 2008; Caselli, Sehyr, Cohen-Goldberg, &amp; Emmorey, 2017), as well as comparable information for spoken languages. This includes a comparison of our subjective rating data with regard to frequency and AoA obtained using DGS signs with norms for other sign languages as well as with similar measures for German and English. We also discuss the relationship of mean iconicity ratings between deaf signers and hearing non-signers, as well as the relation of iconicity and transparency.<br /> <br /> Our norms and stimulus set are intended to control for psychologically relevant param- eters in future psycho- and neurolinguistic studies of DGS beyond the work of our own labs. Consequently, the norms, stimulus clips, cleaned raw data, and the R scripts used for analysis will be made available for download through the Open Science Framework. <p class=MsoCaption style='page-break-after:avoid'><small><span lang=EN-GB style='font-family:'Times New Roman',serif'>Figure </span><span lang=EN-GB style='font-family:'Times New Roman',serif'><span style='mso-no-proof: yes'>1</span></span><span lang=EN-GB style='font-family:'Times New Roman',serif'>: Example stimulus EVENING. a) Screenshot of <span class=SpellE>AoA</span> task for deaf signers. b) Iconicity ratings for this stimulus by hearing non-signers (1 “not iconic” – 7 “very iconic”). Mean and σ in red. c) Automated motion tracking provides quantitative information about movements in every clip. Arrows indicate points of interest used for the plot. d) Movement of manual articulators in the clip as revealed by motion tracking (darker colours indicate lower velocity, i.e. holds).</span><span style='font-family:'Times New Roman',serif;mso-ansi-language: EN-US'></span></small></p>
+<p><span style='mso-no-proof:yes'><img width=100% src='featured.png'></span></p>
+<p><span style='font-size:17.0pt'>References</span></p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm'>Caselli, N. K., <span class=SpellE>Sehyr</span>, Z. S., Cohen-Goldberg, A. M., &amp; <span class=SpellE>Emmorey</span>, K. (2017). ASL-LEX: A lexical database of American Sign Language. Behavior Research Methods, 49(2), 784-801. <span class=SpellE>doi</span>: 10.3758/ s13428-016-0742-0</p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm'>Vinson, D. P., Cormier, K., Denmark, T., <span class=SpellE>Schembri</span>, A., &amp; <span class=SpellE>Vigliocco</span>, G. (2008). The British Sign Language (BSL) norms for age of acquisition, familiarity, and iconicity. Behavior Research Methods, 40(4), 1079-1087. <span class=SpellE>doi</span>: 10.3758/BRM.40.4.1079 </p>
+<p style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:1.0cm; margin-bottom:.0001pt;text-indent:-1.0cm'>Wei, S.-E., Ramakrishna, V., <span class=SpellE>Kanade</span>, T., &amp; Sheikh, Y. (2016). Convolutional pose machines. arXiv:1602.00134 [<span class=SpellE>cs</span>]. </p></p>
+</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            Sep 27, 2019
+            <div class="talk-time">
+              
+                4:30 PM
+                
+                  &mdash; 5:30 PM
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.idgs.uni-hamburg.de/tislr2019.html" target="_blank" rel="noopener">
+            Theoretical Issues in Sign Language Reserach (TISLR) 13
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Hamburg, Germany</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="">poster presentation</a>
+  
+  <a class="badge badge-light" href="">sign language</a>
+  
+  <a class="badge badge-light" href="/tags/psycholinguistics/">psycholinguistics</a>
+  
+</div>
+
+
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+  </div>
+</div>
+
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2018&ndash;2022 &middot; 
+
+    <a href="/notice">Legal notice / Impressum</a>
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.2.0/leaflet.js" integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log==" crossorigin="anonymous"></script>
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    <script src="/js/academic.min.07fbebbbf71b021c8836e1d7ecffa489.js"></script>
+
+    
+
+  </body>
+</html>
+
