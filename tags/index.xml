@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wissenschaftskommunikation</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science to public</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>biology of language</title>
@@ -63,15 +81,6 @@
       <pubDate>Fri, 07 Jan 2022 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science to public</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</guid>
       <description></description>
     </item>
     
@@ -306,15 +315,6 @@
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wissenschaftskommunikation</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</link>
-      <pubDate>Thu, 14 Nov 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</guid>
       <description></description>
     </item>
     

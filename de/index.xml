@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0100</lastBuildDate>
     <atom:link href="/de/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What is “language”?—And why does it matter?</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/what-is-language-and-why-does-it-matter/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/what-is-language-and-why-does-it-matter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sprache ist mehr als Sprechen: Eine kognitionswissenschaftliche Betrachtung</title>
@@ -172,15 +181,6 @@ DEUTSCHLAND
       <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broca&#39;s region is a modality-independet hub in the language network: Insights from a recent meta-analysis</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/talk/brocas_region_modality_independent_hub_in_language_network/</link>
-      <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/talk/brocas_region_modality_independent_hub_in_language_network/</guid>
       <description></description>
     </item>
     

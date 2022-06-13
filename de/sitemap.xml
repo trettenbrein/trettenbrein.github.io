@@ -3,11 +3,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/8/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/8/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/de/publication_types/8/</loc>
-      <lastmod>2022-01-07T00:00:00+02:00</lastmod>
+      <loc>https://trettenbrein.biolinguistics.eu/de/</loc>
+      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -15,10 +15,69 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/de/</loc>
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/</loc>
+      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/</loc>
+      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/what-is-language-and-why-does-it-matter/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/what-is-language-and-why-does-it-matter/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/what-is-language-and-why-does-it-matter/</loc>
+      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/</loc>
+      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-public/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/</loc>
+      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/8/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/8/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/publication_types/8/</loc>
       <lastmod>2022-01-07T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -56,18 +115,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/de/publication/sprache-ist-mehr-als-sprechen/</loc>
       <lastmod>2022-01-07T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/</loc>
-      <lastmod>2022-01-07T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -146,18 +193,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-public/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/</loc>
-      <lastmod>2022-01-07T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
     
@@ -186,18 +221,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/</loc>
       <lastmod>2021-09-16T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/talk/</loc>
-      <lastmod>2021-09-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -610,18 +633,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/was-die-haende-ueber-das-gehirn-verraten/</loc>
       <lastmod>2019-11-14T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/</loc>
-      <lastmod>2019-11-14T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

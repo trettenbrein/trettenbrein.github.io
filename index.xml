@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jun 2022 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What is “language”?—And why does it matter?</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/what-is-language-and-why-does-it-matter/</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/what-is-language-and-why-does-it-matter/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sprache ist mehr als Sprechen: Eine kognitionswissenschaftliche Betrachtung</title>
@@ -173,15 +182,6 @@ GERMANY
       <pubDate>Sat, 13 Apr 2019 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/talk/brocas_region_modality_independent_hub_in_language_network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The neural basis of sign language processing in deaf signers: An Activation Likelihood Estimation meta-analysis</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/neural-basis-sign-language-processing-meta-analysis/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/talk/neural-basis-sign-language-processing-meta-analysis/</guid>
       <description></description>
     </item>
     
