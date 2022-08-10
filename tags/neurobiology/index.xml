@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neurobiology on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</link>
+    <description>Recent content in neurobiology on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018&amp;ndash;2019</copyright>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How supramodal is the language network? The view from sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurobiology of spoken, written, and sign language processing</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/neurobiology-of-spoken-written-and-sign-language-processing/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/neurobiology-of-spoken-written-and-sign-language-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
