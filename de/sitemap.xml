@@ -203,6 +203,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</loc>
+      <lastmod>2022-06-28T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/" hreflang="en"/>
     
@@ -491,18 +503,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/psycholinguistic-norms-300-lexical-signs-german-sign-language-dgs/</loc>
       <lastmod>2021-06-28T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</loc>
-      <lastmod>2021-06-28T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
