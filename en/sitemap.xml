@@ -3,11 +3,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/neural-basis-of-sign-language/" hreflang="de"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/</loc>
-      <lastmod>2022-07-15T00:00:00+01:00</lastmod>
+      <loc>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</loc>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -18,7 +18,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/</loc>
-      <lastmod>2022-07-15T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -30,7 +30,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
-      <lastmod>2022-07-15T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -41,8 +41,102 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
-      <lastmod>2022-07-15T00:00:00+01:00</lastmod>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</loc>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language-processing/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language-processing/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language-processing/</loc>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/teaching/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/teaching/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/teaching/</loc>
+      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/language-as-a-window-into-the-mind-brain/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/language-as-a-window-into-the-mind-brain/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/language-as-a-window-into-the-mind-brain/</loc>
+      <lastmod>2022-10-11T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</loc>
+      <lastmod>2022-10-11T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-public/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</loc>
+      <lastmod>2022-10-11T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/</loc>
+      <lastmod>2022-07-15T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -65,30 +159,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language-network/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/language-network/</loc>
-      <lastmod>2022-07-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</loc>
-      <lastmod>2022-07-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
       <lastmod>2022-07-15T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -267,30 +337,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/talk/what-is-language-and-why-does-it-matter/</loc>
       <lastmod>2022-06-07T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</loc>
-      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-public/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/" hreflang="de"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</loc>
-      <lastmod>2022-06-07T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

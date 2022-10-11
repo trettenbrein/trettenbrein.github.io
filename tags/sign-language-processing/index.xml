@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sign language processing on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/tags/sign-language-processing/</link>
+    <description>Recent content in sign language processing on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/sign-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neurobiological basis of sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neurobiological basis of sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language as a window into the mind/brain</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/language-as-a-window-into-the-mind-brain/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/language-as-a-window-into-the-mind-brain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How supramodal is the language network? The view from sign language</title>
@@ -160,29 +178,6 @@ GERMANY
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/vHUxfTF1Ps0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/publication/psycholinguistic-norms-for-more-than-300-lexical-signs-in-german-sign-language-dgs/</guid>
-      <description>
-
-&lt;h4 id=&#34;summary-in-german-sign-language-dgs&#34;&gt;Summary in German Sign Language (DGS):&lt;/h4&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/ALgYncvKfrg&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Basics of functional magnetic resonance imaging (fMRI) and neuroimaging meta-analysis</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/talk/basics-of-fmri-and-meta-analysis/</guid>
-      <description></description>
     </item>
     
   </channel>

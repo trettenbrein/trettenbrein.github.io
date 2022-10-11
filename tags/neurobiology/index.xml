@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neurobiological basis of sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How supramodal is the language network? The view from sign language</title>
