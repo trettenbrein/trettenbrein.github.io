@@ -3,6 +3,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/3/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/3/" hreflang="en"/>
+    
       <loc>https://trettenbrein.biolinguistics.eu/de/publication_types/3/</loc>
       <lastmod>2022-12-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -11,6 +14,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/cleaning-up-the-brickyard-how-theory-and-methodology-affect-experimental-outcome-in-cognitive-neuroscience-of-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/cleaning-up-the-brickyard-how-theory-and-methodology-affect-experimental-outcome-in-cognitive-neuroscience-of-language/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/publication/cleaning-up-the-brickyard-how-theory-and-methodology-affect-experimental-outcome-in-cognitive-neuroscience-of-language/</loc>
       <lastmod>2022-12-20T00:00:00+02:00</lastmod>
@@ -68,6 +74,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/auxiliary-assumptions/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/" hreflang="en"/>
+    
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/auxiliary-assumptions/</loc>
       <lastmod>2022-12-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -76,6 +85,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/derivation-chains/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/derivation-chains/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/derivation-chains/</loc>
       <lastmod>2022-12-20T00:00:00+02:00</lastmod>
@@ -110,6 +122,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics-theory/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics-theory/" hreflang="en"/>
+    
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/linguistics-theory/</loc>
       <lastmod>2022-12-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
@@ -118,6 +133,9 @@
   
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/meta-science/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/meta-science/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/meta-science/</loc>
       <lastmod>2022-12-20T00:00:00+02:00</lastmod>
@@ -152,6 +170,65 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/8/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/8/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/publication_types/8/</loc>
+      <lastmod>2022-12-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/sprache-und-handlung-sind-zweierlei/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/sprache-und-handlung-sind-zweierlei/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/publication/sprache-und-handlung-sind-zweierlei/</loc>
+      <lastmod>2022-12-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/action/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/action/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/action/</loc>
+      <lastmod>2022-12-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-public/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/</loc>
+      <lastmod>2022-12-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</loc>
+      <lastmod>2022-12-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/neural-basis-of-sign-language/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/" hreflang="en"/>
     
@@ -179,18 +256,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</loc>
-      <lastmod>2022-10-12T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</loc>
       <lastmod>2022-10-12T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -238,18 +303,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/</loc>
-      <lastmod>2022-10-11T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-public/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/science-to-public/</loc>
       <lastmod>2022-10-11T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -462,18 +515,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/can-detection-of-extraneous-visual-signals-reveal-the-syntactic-structure-of-sign-language/</loc>
       <lastmod>2022-01-16T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/8/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/8/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/publication_types/8/</loc>
-      <lastmod>2022-01-07T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
