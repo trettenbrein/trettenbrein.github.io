@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0200</lastBuildDate>
     <atom:link href="/de/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cleaning up the brickyard: How theory and methodology affect experimental outcome in cognitive neuroscience of language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/cleaning-up-the-brickyard-how-theory-and-methodology-affect-experimental-outcome-in-cognitive-neuroscience-of-language/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/cleaning-up-the-brickyard-how-theory-and-methodology-affect-experimental-outcome-in-cognitive-neuroscience-of-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neurobiological basis of sign language</title>
@@ -154,28 +163,6 @@ DEUTSCHLAND
       
       <guid>https://trettenbrein.biolinguistics.eu/de/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Functional neuroanatomy of language without speech: An ALE meta-analysis of sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/functional-neuroanatomy-of-language-without-speech/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/functional-neuroanatomy-of-language-without-speech/</guid>
-      <description>
-
-&lt;h4 id=&#34;mediale-berichterstattung-auswahl&#34;&gt;Mediale Berichterstattung (Auswahl):&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Englisch: &lt;a href=&#34;https://www.psychologytoday.com/intl/blog/the-asymmetric-brain/202112/sign-language-and-the-left-half-the-brain&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Sign language and the left half of the brain&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.psychologytoday.com&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Psychology Today&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Deutsch: &lt;a href=&#34;https://www.spektrum.de/news/sprache-wie-das-gehirn-gebaerden-versteht/1838176&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Ein Areal für alle Sprachen&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.spektrum.de/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Spektrum der Wissenschaft&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Französisch: &lt;a href=&#34;https://www.pourquoidocteur.fr/Articles/Question-d-actu/35484-Comment-cerveau-traite-langue-signes&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Comment le cerveau traite la langue des signes&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.pourquoidocteur.fr/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Porquoi Docteur&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;zusammenfassung-in-deutscher-gebärdensprache-dgs&#34;&gt;Zusammenfassung in Deutscher Gebärdensprache (DGS):&lt;/h4&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/vHUxfTF1Ps0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
     </item>
     
   </channel>

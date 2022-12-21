@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sprache und Handlung sind zweierlei</title>
+      <link>https://trettenbrein.biolinguistics.eu/publication/sprache-und-handlung-sind-zweierlei/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/publication/sprache-und-handlung-sind-zweierlei/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neurobiological basis of sign language</title>
@@ -156,28 +165,6 @@ GERMANY
       
       <guid>https://trettenbrein.biolinguistics.eu/publication/openposer-package-for-analyzing-openpose-motion-tracking-data-in-r/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Functional neuroanatomy of language without speech: An ALE meta-analysis of sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/publication/functional-neuroanatomy-of-language-without-speech/</guid>
-      <description>
-
-&lt;h4 id=&#34;press-coverage-selection&#34;&gt;Press coverage (selection):&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;English: &lt;a href=&#34;https://www.psychologytoday.com/intl/blog/the-asymmetric-brain/202112/sign-language-and-the-left-half-the-brain&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Sign language and the left half of the brain&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.psychologytoday.com&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Psychology Today&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;German: &lt;a href=&#34;https://www.spektrum.de/news/sprache-wie-das-gehirn-gebaerden-versteht/1838176&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Ein Areal für alle Sprachen&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.spektrum.de/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Spektrum der Wissenschaft&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;French: &lt;a href=&#34;https://www.pourquoidocteur.fr/Articles/Question-d-actu/35484-Comment-cerveau-traite-langue-signes&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Comment le cerveau traite la langue des signes&amp;rdquo;&lt;/a&gt; in &lt;a href=&#34;https://www.pourquoidocteur.fr/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Porquoi Docteur&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;summary-in-german-sign-language-dgs&#34;&gt;Summary in German Sign Language (DGS):&lt;/h4&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/vHUxfTF1Ps0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
     </item>
     
   </channel>
