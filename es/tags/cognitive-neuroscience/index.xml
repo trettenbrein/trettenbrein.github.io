@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cognitive neuroscience on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/es/tags/cognitive-neuroscience/</link>
+    <description>Recent content in cognitive neuroscience on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
+    <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/cognitive-neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neuroimaging data in the “ViCom” Open Science Data Network</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/talk/neuroimaging-data-in-the-vicom-open-science-data-network/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/talk/neuroimaging-data-in-the-vicom-open-science-data-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A meta-analytic perspective on data sharing and reproducibility in cognitive neuroscience of sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

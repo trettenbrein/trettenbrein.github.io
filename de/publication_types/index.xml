@@ -6,7 +6,7 @@
     <description>Recent content in Publication_types on Patrick C. Trettenbrein</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <copyright>&amp;copy; 2018&amp;ndash;2022</copyright>
+    <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
     <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/publication_types/index.xml" rel="self" type="application/rss+xml" />
@@ -22,9 +22,18 @@
     </item>
     
     <item>
+      <title>4</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication_types/4/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication_types/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>8</title>
       <link>https://trettenbrein.biolinguistics.eu/de/publication_types/8/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/publication_types/8/</guid>
       <description></description>
@@ -54,15 +63,6 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/publication_types/5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>4</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication_types/4/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication_types/4/</guid>
       <description></description>
     </item>
     
