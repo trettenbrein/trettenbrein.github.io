@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neurobiological basis of sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/talk/neural-basis-of-sign-language/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/talk/neural-basis-of-sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sprache und Handlung sind zweierlei</title>
@@ -22,11 +31,11 @@
     </item>
     
     <item>
-      <title>Neurobiological basis of sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/talk/neural-basis-of-sign-language/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
+      <title>Parts of speech and iconicity in German Sign Language (DGS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/talk/parts-of-speech-and-iconicity-in-german-sign-language/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/es/talk/neural-basis-of-sign-language/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/es/talk/parts-of-speech-and-iconicity-in-german-sign-language/</guid>
       <description></description>
     </item>
     

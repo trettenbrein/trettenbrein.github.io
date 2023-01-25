@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>neurobiology</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language processing</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language-processing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>auxiliary assumptions</title>
@@ -103,38 +139,20 @@
     </item>
     
     <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
-      <pubDate>Wed, 07 Dec 2022 00:00:00 +0200</pubDate>
+      <title>project presentation</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>neurobiology</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
+      <title>science to science</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language processing</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language-processing/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/</guid>
       <description></description>
     </item>
     

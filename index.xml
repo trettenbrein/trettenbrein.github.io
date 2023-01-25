@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Tue, 20 Dec 2022 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Neurobiological basis of sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cleaning up the brickyard: How theory and methodology affect experimental outcome in cognitive neuroscience of language</title>
@@ -28,11 +37,11 @@
     </item>
     
     <item>
-      <title>Neurobiological basis of sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0100</pubDate>
+      <title>Parts of speech and iconicity in German Sign Language (DGS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/parts-of-speech-and-iconicity-in-german-sign-language/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0100</pubDate>
       
-      <guid>https://trettenbrein.biolinguistics.eu/talk/neural-basis-of-sign-language/</guid>
+      <guid>https://trettenbrein.biolinguistics.eu/talk/parts-of-speech-and-iconicity-in-german-sign-language/</guid>
       <description></description>
     </item>
     
@@ -155,15 +164,6 @@ GERMANY
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/talk/psycholinguistic-norms-300-lexical-signs-german-sign-language-dgs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neuroscience and syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/neuroscience-and-syntax/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/publication/neuroscience-and-syntax/</guid>
       <description></description>
     </item>
     
