@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/language/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal communication</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/multimodal-communication/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/multimodal-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural language processing</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/natural-language-processing/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technical innovation</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/technical-innovation/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/technical-innovation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>neurobiology</title>
@@ -103,24 +157,6 @@
     </item>
     
     <item>
-      <title>language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/language/</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>linguistics theory</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/linguistics-theory/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0200</pubDate>
@@ -135,15 +171,6 @@
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/meta-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroscience</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/</guid>
       <description></description>
     </item>
     
