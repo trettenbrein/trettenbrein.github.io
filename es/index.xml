@@ -6,8 +6,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0200</lastBuildDate>
     <atom:link href="/es/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cleaning up the brickyard: How theory and methodology shape experiments in cognitive neuroscience of language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional and structural brain asymmetries in language processing</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/publication/functional-and-structural-brain-asymmetries-in-language-processing/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/publication/functional-and-structural-brain-asymmetries-in-language-processing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A roadmap for technological innovation in multimodal communication research</title>
@@ -33,15 +51,6 @@
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/publication/biolinguistics-end-of-year-notice-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cleaning up the brickyard: How theory and methodology affect experimental outcome in cognitive neuroscience of language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/publication/cleaning-up-the-brickyard-how-theory-and-methodology-affect-experimental-outcome-in-cognitive-neuroscience-of-language/</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/publication/cleaning-up-the-brickyard-how-theory-and-methodology-affect-experimental-outcome-in-cognitive-neuroscience-of-language/</guid>
       <description></description>
     </item>
     
@@ -133,35 +142,6 @@
       
       <guid>https://trettenbrein.biolinguistics.eu/es/publication/sprache-ist-mehr-als-sprechen/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Aviso legal</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/notice/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/notice/</guid>
-      <description>&lt;p&gt;Este sitio web privado muestra mis investigaciónes y trabajo académico. El contenido y las opiniones expresadas en estas paginas son mías y no reflejan necesariamente las de mi empleador.&lt;/p&gt;
-
-&lt;p&gt;La página se creó utilizando &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic theme&lt;/a&gt; para &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; y está alojada gratuitamente en &lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Dado que actualmente reside en Leipzig, facilito la siguiente información por conformidad con la legislación alemana.&lt;/p&gt;
-
-&lt;p&gt;Betreiber sowie Verantwortlicher nach § 18 Abs. 2 MStV:&lt;/p&gt;
-
-&lt;p&gt;&lt;div style=&#34;margin-left:2em&#34;&gt;
-Patrick C. Trettenbrein&lt;br /&gt;
-Stephanstraße 1a&lt;br /&gt;
-04103 Leipzig&lt;br /&gt;
-GERMANY
-&lt;/div&gt;
-&lt;br /&gt;
-&lt;a href=&#34;https://trettenbrein.biolinguistics.eu/#contact&#34;&gt;Contacto&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
     </item>
     
   </channel>

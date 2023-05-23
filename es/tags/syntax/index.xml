@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/syntax/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Functional and structural brain asymmetries in language processing</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/publication/functional-and-structural-brain-asymmetries-in-language-processing/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/publication/functional-and-structural-brain-asymmetries-in-language-processing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can detection of extraneous visual signals reveal the syntactic structure of sign language?</title>
