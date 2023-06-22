@@ -3,12 +3,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/grundlagen-von-gebaerdensprache-im-gehirn/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/grundlagen-von-gebaerdensprache-im-gehirn/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/grundlagen-von-gebaerdensprache-im-gehirn/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="en"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/es/talk/grundlagen-von-gebaerdensprache-im-gehirn/</loc>
-      <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -20,7 +20,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/</loc>
-      <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -33,7 +33,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/</loc>
-      <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -46,8 +46,124 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/talk/</loc>
-      <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/auxiliary-assumptions/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/derivation-chains/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/derivation-chains/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/language/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/linguistics/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics-theory/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics-theory/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/meta-science/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/meta-science/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/meta-science/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/meta-science/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neuroscience/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</loc>
+      <lastmod>2023-06-20T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/grundlagen-von-gebaerdensprache-im-gehirn/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/grundlagen-von-gebaerdensprache-im-gehirn/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/grundlagen-von-gebaerdensprache-im-gehirn/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/grundlagen-von-gebaerdensprache-im-gehirn/</loc>
+      <lastmod>2023-06-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -187,110 +303,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/publication/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/auxiliary-assumptions/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/derivation-chains/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/derivation-chains/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/language/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/linguistics/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics-theory/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics-theory/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/meta-science/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/meta-science/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/meta-science/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/meta-science/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neuroscience/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/</loc>
-      <lastmod>2023-05-23T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</loc>
       <lastmod>2023-05-23T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
