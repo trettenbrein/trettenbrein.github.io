@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>auxiliary assumptions</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivation chains</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/language/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/linguistics/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics theory</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta science</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/meta-science/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/meta-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psycholinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>language network</title>
@@ -76,24 +148,6 @@
     </item>
     
     <item>
-      <title>language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/language/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/linguistics/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>multimodal communication</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/multimodal-communication/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0200</pubDate>
@@ -108,15 +162,6 @@
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroscience</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/</link>
-      <pubDate>Sun, 09 Jul 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/</guid>
       <description></description>
     </item>
     
@@ -144,51 +189,6 @@
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/science-to-public/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>auxiliary assumptions</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>derivation chains</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linguistics theory</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meta science</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/meta-science/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/meta-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psycholinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</guid>
       <description></description>
     </item>
     
