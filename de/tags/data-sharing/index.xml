@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/data-sharing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What could a collaborative “DGS-LEX” look like?</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/what-could-a-collaborative-dgs-lex-look-like/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/what-could-a-collaborative-dgs-lex-look-like/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neuroimaging data in the “ViCom” Open Science Data Network</title>

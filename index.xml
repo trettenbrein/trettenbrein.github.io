@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What could a collaborative “DGS-LEX” look like?</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/what-could-a-collaborative-dgs-lex-look-like/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/what-could-a-collaborative-dgs-lex-look-like/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cleaning up the brickyard: How theory and methodology shape experiments in cognitive neuroscience of language</title>
@@ -151,15 +160,6 @@
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/talk/how-supramodal-is-the-language-network-the-view-from-sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neuroimaging data in the “ViCom” Open Science Data Network</title>
-      <link>https://trettenbrein.biolinguistics.eu/talk/neuroimaging-data-in-the-vicom-open-science-data-network/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/talk/neuroimaging-data-in-the-vicom-open-science-data-network/</guid>
       <description></description>
     </item>
     

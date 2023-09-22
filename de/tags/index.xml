@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2023</copyright>
-    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cognitive neuroscience</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/cognitive-neuroscience/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/cognitive-neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data sharing</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/data-sharing/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/data-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/talk/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>auxiliary assumptions</title>
@@ -130,15 +175,6 @@
     </item>
     
     <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sign language processing</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language-processing/</link>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0200</pubDate>
@@ -216,15 +252,6 @@
       <pubDate>Fri, 26 May 2023 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/talk/</link>
-      <pubDate>Fri, 26 May 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -360,33 +387,6 @@
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-modality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cognitive neuroscience</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/cognitive-neuroscience/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/cognitive-neuroscience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data sharing</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/data-sharing/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open science</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</guid>
       <description></description>
     </item>
     
