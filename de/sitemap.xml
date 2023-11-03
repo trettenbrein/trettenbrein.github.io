@@ -8,8 +8,20 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/</loc>
-      <lastmod>2023-09-22T00:00:00+01:00</lastmod>
+      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language/</loc>
+      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -21,7 +33,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/</loc>
-      <lastmod>2023-09-22T00:00:00+01:00</lastmod>
+      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -34,7 +46,46 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/</loc>
-      <lastmod>2023-09-22T00:00:00+01:00</lastmod>
+      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/project-presentation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/project-presentation/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/</loc>
+      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-science/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/</loc>
+      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</loc>
+      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -85,19 +136,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/open-science/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/open-science/</loc>
-      <lastmod>2023-09-22T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</loc>
       <lastmod>2023-09-22T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -535,32 +573,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/wortarten-und-ikonizit%C3%A4t-in-der-deutschen-geb%C3%A4rdensprache-dgs-/</loc>
       <lastmod>2023-05-26T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/project-presentation/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/project-presentation/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/</loc>
-      <lastmod>2023-05-26T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-science/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/</loc>
-      <lastmod>2023-05-26T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
