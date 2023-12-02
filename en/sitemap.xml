@@ -3,12 +3,179 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/2/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/2/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication_types/2/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/</loc>
-      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication_types/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/publication/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/auxiliary-assumptions/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/derivation-chains/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/derivation-chains/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/derivation-chains/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/language/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/linguistics/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics-theory/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics-theory/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/linguistics-theory/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/meta-science/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/meta-science/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/meta-science/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/meta-science/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neuroscience/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/neuroscience/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</loc>
+      <lastmod>2023-12-01T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -34,19 +201,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
       <lastmod>2023-11-04T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
-      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -149,160 +303,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/talk/</loc>
       <lastmod>2023-09-22T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/2/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/2/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/2/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication_types/2/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication/cleaning-up-the-brickyard-how-theory-and-methodology-shape-experiments-in-cognitive-neuroscience-of-language/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication_types/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/publication/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/auxiliary-assumptions/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/auxiliary-assumptions/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/derivation-chains/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/derivation-chains/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/derivation-chains/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/derivation-chains/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/language/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/linguistics/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguistics-theory/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguistics-theory/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguistics-theory/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/linguistics-theory/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/meta-science/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/meta-science/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/meta-science/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/meta-science/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neuroscience/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neuroscience/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neuroscience/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/neuroscience/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</loc>
-      <lastmod>2023-08-29T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
