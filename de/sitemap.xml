@@ -183,6 +183,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/</loc>
+      <lastmod>2024-01-12T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/" hreflang="es"/>
