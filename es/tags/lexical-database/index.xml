@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lexical database on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/es/tags/lexical-database/</link>
+    <description>Recent content in lexical database on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>&amp;copy; 2018&amp;ndash;2024</copyright>
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/lexical-database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards a “DGS-LEX”: A roadmap for the collaborative creation of a psycholinguistic database for German Sign Language (DGS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/publication/towards-a-dgs-lex/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/publication/towards-a-dgs-lex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

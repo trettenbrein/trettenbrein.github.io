@@ -3,12 +3,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/morphophonologische-unterschiede-in-nomen-verb-paaren-in-der-deutschen-geb%C3%A4rdensprache-dgs/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/morphophonologische-unterschiede-in-nomen-verb-paaren-in-der-deutschen-geb%C3%A4rdensprache-dgs/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/morphophonologische-unterschiede-in-nomen-verb-paaren-in-der-deutschen-geb%C3%A4rdensprache-dgs/" hreflang="en"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/de/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/morphophonologische-unterschiede-in-nomen-verb-paaren-in-der-deutschen-geb%C3%A4rdensprache-dgs/</loc>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -20,7 +20,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -33,7 +33,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -46,7 +46,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -59,7 +59,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/parts-of-speech/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/parts-of-speech/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -72,7 +72,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -85,7 +85,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -98,7 +98,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/talk/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/talk/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -111,8 +111,20 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/word-categories/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/word-categories/</loc>
-      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
+      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/gestural-demonstrations-as-a-possible-marker-of-part-of-speech-in-german-sign-language-dgs/</loc>
+      <lastmod>2024-02-07T00:00:00+01:00</lastmod>
     </url>
     
   
