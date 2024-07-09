@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2024</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroimaging</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/neuroimaging/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurolinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster presentation</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>parts of speech</title>
@@ -27,15 +81,6 @@
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -99,15 +144,6 @@
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</guid>
       <description></description>
     </item>
     
@@ -382,15 +418,6 @@
     </item>
     
     <item>
-      <title>neurolinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sentence processing</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/sentence-processing/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0200</pubDate>
@@ -432,15 +459,6 @@
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-modality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poster presentation</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</guid>
       <description></description>
     </item>
     
@@ -603,15 +621,6 @@
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/visuo-spatial-modality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</guid>
       <description></description>
     </item>
     
