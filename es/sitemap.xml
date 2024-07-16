@@ -3,12 +3,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/compositional-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/compositional-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/compositional-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="en"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/es/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/</loc>
-      <lastmod>2024-07-09T00:00:00+01:00</lastmod>
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/compositional-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/</loc>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -20,7 +20,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/</loc>
-      <lastmod>2024-07-09T00:00:00+01:00</lastmod>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -33,7 +33,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/</loc>
-      <lastmod>2024-07-09T00:00:00+01:00</lastmod>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -46,8 +46,72 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/talk/</loc>
-      <lastmod>2024-07-09T00:00:00+01:00</lastmod>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/iconicity/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/iconicity/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/iconicity/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/iconicity/</loc>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguitics/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguitics/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguitics/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/linguitics/</loc>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</loc>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</loc>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/isolating-the-neural-correlates-of-lexical-semantic-and-syntactic-processing-in-german-sign-language-dgs/</loc>
+      <lastmod>2024-07-09T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -85,32 +149,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurolinguistics/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</loc>
-      <lastmod>2024-07-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</loc>
-      <lastmod>2024-07-09T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</loc>
       <lastmod>2024-07-09T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1377,19 +1415,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/age-of-acquisition/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/age-of-acquisition/</loc>
-      <lastmod>2021-02-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/iconicity/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/iconicity/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/iconicity/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/iconicity/</loc>
       <lastmod>2021-02-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
