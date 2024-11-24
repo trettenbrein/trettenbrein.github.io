@@ -3,12 +3,12 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/mouthings-in-the-public-german-sign-language-dgs-corpus/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/mouthings-in-the-public-german-sign-language-dgs-corpus/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/mouthings-in-the-public-german-sign-language-dgs-corpus/" hreflang="en"/>
     
-      <loc>https://trettenbrein.biolinguistics.eu/es/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/</loc>
-      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/mouthings-in-the-public-german-sign-language-dgs-corpus/</loc>
+      <lastmod>2024-11-14T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -20,7 +20,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/</loc>
-      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <lastmod>2024-11-14T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -33,7 +33,7 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/</loc>
-      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <lastmod>2024-11-14T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -46,8 +46,71 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/talk/</loc>
-      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+      <lastmod>2024-11-14T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/project-presentation/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/project-presentation/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/project-presentation/</loc>
+      <lastmod>2024-11-14T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-science/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/</loc>
+      <lastmod>2024-11-14T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</loc>
+      <lastmod>2024-11-14T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language-2024/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language-2024/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language-2024/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language-2024/</loc>
+      <lastmod>2024-11-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/</loc>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -85,19 +148,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</loc>
-      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</loc>
       <lastmod>2024-07-16T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -187,19 +237,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/parts-of-speech/" hreflang="en"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/parts-of-speech/</loc>
-      <lastmod>2024-06-20T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/science-to-science/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/science-to-science/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/science-to-science/</loc>
       <lastmod>2024-06-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -573,19 +610,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/es/talk/project-update-parts-of-speech-and-iconicity-in-german-sign-language/</loc>
       <lastmod>2023-11-04T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/project-presentation/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/project-presentation/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/project-presentation/" hreflang="en"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/es/tags/project-presentation/</loc>
-      <lastmod>2023-11-04T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
