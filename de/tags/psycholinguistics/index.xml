@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2024</copyright>
-    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/psycholinguistics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Der Weg zu „DGS-LEX“: Ein Umriss der kollaborativen Erstellung einer psycholinguistischen Datenbank für die Deutsche Gebärdensprache (DGS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/towards-a-dgs-lex/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/towards-a-dgs-lex/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detection of Extraneous Visual Signals Does Not Reveal the Syntactic Structure of German Sign Language (DGS)</title>
