@@ -285,6 +285,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/komponenten-von-ikonitzit%C3%A4t-in-der-deutschen-geb%C3%A4rdensprache-dgs/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/komponenten-von-ikonitzit%C3%A4t-in-der-deutschen-geb%C3%A4rdensprache-dgs/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/komponenten-von-ikonitzit%C3%A4t-in-der-deutschen-geb%C3%A4rdensprache-dgs/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/komponenten-von-ikonitzit%C3%A4t-in-der-deutschen-geb%C3%A4rdensprache-dgs/</loc>
+      <lastmod>2024-07-16T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/components-of-iconicity-in-german-sign-language-dgs-hearing-non-signers-perception-of-phonological-and-semantic-parameters-of-iconicity/" hreflang="en"/>
@@ -298,8 +310,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/iconicity/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/iconicity/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/iconicity/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/iconicity/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/iconicity/</loc>
       <lastmod>2024-07-16T00:00:00+01:00</lastmod>
@@ -311,8 +323,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/linguitics/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguitics/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/linguitics/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/linguitics/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/linguitics/</loc>
       <lastmod>2024-07-16T00:00:00+01:00</lastmod>
@@ -324,8 +336,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/" hreflang="es"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</loc>
       <lastmod>2024-07-16T00:00:00+01:00</lastmod>
