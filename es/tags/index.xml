@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2024</copyright>
-    <lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>biolinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/biolinguistics/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/biolinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editorial</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/editorial/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open access</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/open-access/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publishing</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/publishing/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/publishing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>functional magnetic resonance imaging (fMRI)</title>
@@ -234,42 +270,6 @@
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biolinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/biolinguistics/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/biolinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>editorial</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/editorial/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/editorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open access</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/open-access/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publishing</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/publishing/</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/publishing/</guid>
       <description></description>
     </item>
     
