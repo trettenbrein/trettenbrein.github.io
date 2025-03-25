@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>language</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/language/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lexical database</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/lexical-database/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/lexical-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/linguistics/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/open-science/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psycholinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/sign-language/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>brain development</title>
@@ -117,15 +171,6 @@
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/sentence-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/sign-language/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -337,15 +382,6 @@
     </item>
     
     <item>
-      <title>psycholinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/psycholinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>auxiliary assumptions</title>
       <link>https://trettenbrein.biolinguistics.eu/tags/auxiliary-assumptions/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0200</pubDate>
@@ -360,24 +396,6 @@
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/derivation-chains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/linguistics/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/linguistics/</guid>
       <description></description>
     </item>
     
@@ -414,15 +432,6 @@
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/data-sharing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open science</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/open-science/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/open-science/</guid>
       <description></description>
     </item>
     
