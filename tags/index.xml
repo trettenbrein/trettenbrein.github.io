@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wissenschaftskommunikation</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science to public</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>corpus</title>
@@ -531,24 +549,6 @@
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science to public</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/science-to-public/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wissenschaftskommunikation</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/</guid>
       <description></description>
     </item>
     
