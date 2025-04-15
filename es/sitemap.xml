@@ -1200,6 +1200,17 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/ha%CC%88nde-und-hirne-zur-neurobiologie-von-geba%CC%88rdensprachen/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/ha%CC%88nde-und-hirne-zur-neurobiologie-von-geba%CC%88rdensprachen/" hreflang="de"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/es/talk/ha%CC%88nde-und-hirne-zur-neurobiologie-von-geba%CC%88rdensprachen/</loc>
+      <lastmod>2023-06-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/wissenschaftskommunikation/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/wissenschaftskommunikation/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/wissenschaftskommunikation/" hreflang="en"/>
