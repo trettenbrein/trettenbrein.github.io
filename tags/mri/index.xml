@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MRI on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/tags/mri/</link>
+    <description>Recent content in MRI on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
+    <lastBuildDate>Sun, 08 Jun 2025 00:01:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/mri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developing an fMRI localizer for German Sign Language (DGS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/developing-an-fmri-localizer-for-german-sign-language-dgs/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/developing-an-fmri-localizer-for-german-sign-language-dgs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The core language network at rest: Differences in resting-state functional connectivity between deaf signers and hearing non-signers</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/the-core-language-network-at-rest-differences-in-resting-state-functional-connectivity-between-deaf-signers-and-hearing-non-signers/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/the-core-language-network-at-rest-differences-in-resting-state-functional-connectivity-between-deaf-signers-and-hearing-non-signers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

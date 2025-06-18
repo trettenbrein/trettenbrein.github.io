@@ -7,10 +7,136 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 00:01:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/mri/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/fmri/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language network</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/language-network/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/language-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>localizer</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/localizer/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/localizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurobiology</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroimaging</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/neuroimaging/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster presentation</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/sign-language/</link>
+      <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resting state</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/resting-state/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/resting-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rsMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/rsmri/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/rsmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/dmri/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/dmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language production</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/language-production/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poster presenation</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/poster-presenation/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/poster-presenation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/talk/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>demonstrations</title>
@@ -36,24 +162,6 @@
       <pubDate>Mon, 05 May 2025 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/science-to-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/sign-language/</link>
-      <pubDate>Mon, 05 May 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/talk/</link>
-      <pubDate>Mon, 05 May 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -225,15 +333,6 @@
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/language-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language network</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-network/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-network/</guid>
       <description></description>
     </item>
     
@@ -418,38 +517,11 @@
     </item>
     
     <item>
-      <title>poster presentation</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>project presentation</title>
       <link>https://trettenbrein.biolinguistics.eu/tags/project-presentation/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/project-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/fmri/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/fmri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroimaging</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/neuroimaging/</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/neuroimaging/</guid>
       <description></description>
     </item>
     
@@ -558,15 +630,6 @@
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/action/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurobiology</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</guid>
       <description></description>
     </item>
     
