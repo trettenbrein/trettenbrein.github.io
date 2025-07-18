@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hierarchical structure</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/hierarchical-structure/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/hierarchical-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language modality</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-modality/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-modality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistic diversity</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/linguistic-diversity/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/linguistic-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsing models</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/parsing-models/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/parsing-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/syntax/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tactile sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/tactile-sign-language/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/tactile-sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>eye-tracking</title>
@@ -45,15 +108,6 @@
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -445,15 +499,6 @@
     </item>
     
     <item>
-      <title>syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/syntax/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>biolinguistics</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/biolinguistics/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
@@ -648,15 +693,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language modality</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-modality/</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-modality/</guid>
       <description></description>
     </item>
     
