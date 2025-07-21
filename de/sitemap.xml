@@ -171,6 +171,57 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/5/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/5/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/5/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/publication_types/5/</loc>
+      <lastmod>2025-07-17T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication/the-neural-basis-of-syntax-is-modality-independent-evidence-from-functional-magnetic-resonance-imaging-with-deaf-signers/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication/the-neural-basis-of-syntax-is-modality-independent-evidence-from-functional-magnetic-resonance-imaging-with-deaf-signers/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication/the-neural-basis-of-syntax-is-modality-independent-evidence-from-functional-magnetic-resonance-imaging-with-deaf-signers/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/publication/the-neural-basis-of-syntax-is-modality-independent-evidence-from-functional-magnetic-resonance-imaging-with-deaf-signers/</loc>
+      <lastmod>2025-07-17T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/fmri/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/fmri/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/fmri/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</loc>
+      <lastmod>2025-07-17T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/modality-independence/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/modality-independence/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/</loc>
+      <lastmod>2025-07-17T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/deaf-signers-adapt-their-eye-gaze-behaviour-when-processing-an-unknown-sign-language/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/deaf-signers-adapt-their-eye-gaze-behaviour-when-processing-an-unknown-sign-language/" hreflang="es"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/deaf-signers-adapt-their-eye-gaze-behaviour-when-processing-an-unknown-sign-language/" hreflang="en"/>
@@ -265,19 +316,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/mri/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/mri/</loc>
-      <lastmod>2025-06-08T00:01:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/fmri/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/fmri/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/fmri/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</loc>
       <lastmod>2025-06-08T00:01:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -879,19 +917,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/modality-of-language-use/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/de/tags/modality-of-language-use/</loc>
-      <lastmod>2025-03-11T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/modality-independence/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/modality-independence/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/</loc>
       <lastmod>2025-03-11T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2165,19 +2190,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/de/talk/functional-neuroanatomy-sign-language-meta-analysis/</loc>
       <lastmod>2019-03-17T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/5/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/5/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/5/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/de/publication_types/5/</loc>
-      <lastmod>2018-12-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
