@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>eye-tracking</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/eye-tracking/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/eye-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouth gestures</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/mouth-gestures/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/mouth-gestures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mouthings</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/mouthings/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/mouthings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hierarchical structure</title>
@@ -49,15 +85,6 @@
     </item>
     
     <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>syntax</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/syntax/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
@@ -90,33 +117,6 @@
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eye-tracking</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/eye-tracking/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/eye-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mouth gestures</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/mouth-gestures/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/mouth-gestures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mouthings</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/mouthings/</link>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/mouthings/</guid>
       <description></description>
     </item>
     
