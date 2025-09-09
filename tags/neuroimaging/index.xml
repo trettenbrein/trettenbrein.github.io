@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Sun, 08 Jun 2025 00:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 00:01:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/neuroimaging/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The core of language is modality-independent: Evidence from studies of German Sign Language (DGS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/</link>
+      <pubDate>Mon, 08 Sep 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Developing an fMRI localizer for German Sign Language (DGS)</title>

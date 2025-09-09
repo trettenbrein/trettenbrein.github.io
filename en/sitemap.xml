@@ -3,6 +3,147 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/mri/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/mri/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/mri/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/mri/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/fmri/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/fmri/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/fmri/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/fmri/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language-network/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language-network/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language-network/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/language-network/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neurobiology/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neuroimaging/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neuroimaging/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neuroimaging/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/neuroimaging/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/talk/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/talk/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/talk/</loc>
+      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/1/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/1/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/1/" hreflang="es"/>
@@ -28,19 +169,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/</loc>
-      <lastmod>2025-07-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/" hreflang="es"/>
@@ -60,19 +188,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/publication/</loc>
       <lastmod>2025-07-29T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
-      <lastmod>2025-07-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -110,19 +225,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/mouthings/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/mouthings/</loc>
-      <lastmod>2025-07-29T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/sign-language/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/sign-language/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/sign-language/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/sign-language/</loc>
       <lastmod>2025-07-29T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -259,19 +361,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/fmri/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/fmri/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/fmri/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/fmri/</loc>
-      <lastmod>2025-07-17T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/modality-independence/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/modality-independence/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/modality-independence/" hreflang="es"/>
@@ -290,18 +379,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/deaf-signers-adapt-their-eye-gaze-behaviour-when-processing-an-unknown-sign-language/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/talk/deaf-signers-adapt-their-eye-gaze-behaviour-when-processing-an-unknown-sign-language/</loc>
-      <lastmod>2025-06-25T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
       <lastmod>2025-06-25T00:00:00+01:00</lastmod>
     </url>
     
@@ -334,63 +411,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/mri/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/mri/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/mri/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/mri/</loc>
-      <lastmod>2025-06-08T00:01:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language-network/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language-network/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language-network/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/language-network/</loc>
-      <lastmod>2025-06-08T00:01:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/localizer/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/localizer/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/localizer/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/localizer/</loc>
-      <lastmod>2025-06-08T00:01:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neurobiology/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</loc>
-      <lastmod>2025-06-08T00:01:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neuroimaging/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neuroimaging/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neuroimaging/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/neuroimaging/</loc>
       <lastmod>2025-06-08T00:01:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -492,19 +517,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/poster-presenation/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/poster-presenation/</loc>
-      <lastmod>2025-06-07T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/talk/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/talk/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/talk/</loc>
       <lastmod>2025-06-07T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
