@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grounding the computational principles of language in neurobiology requires cross-modal and cross-linguistic data</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/publication/grounding-the-computational-principles-of-language-in-neurobiology-requires-cross-modal-and-cross-linguistic-data/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/publication/grounding-the-computational-principles-of-language-in-neurobiology-requires-cross-modal-and-cross-linguistic-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deaf signers adapt their eye gaze behaviour when comprehending an unknown sign language</title>
@@ -18,15 +27,6 @@
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/publication/deaf-signers-adapt-their-eye-gaze-behaviour-when-comprehending-an-unknown-sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Grounding the computational principles of language in neurobiology requires cross-modal and cross-linguistic data</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/grounding-the-computational-principles-of-language-in-neurobiology-requires-cross-modal-and-cross-linguistic-data/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/grounding-the-computational-principles-of-language-in-neurobiology-requires-cross-modal-and-cross-linguistic-data/</guid>
       <description></description>
     </item>
     

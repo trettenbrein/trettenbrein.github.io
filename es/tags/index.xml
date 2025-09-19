@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Mon, 08 Sep 2025 00:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hierarchical structure</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/hierarchical-structure/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/hierarchical-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language modality</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-modality/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-modality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistic diversity</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/linguistic-diversity/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/linguistic-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsing models</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/parsing-models/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/parsing-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tactile sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/tactile-sign-language/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/tactile-sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MRI</title>
@@ -58,15 +121,6 @@
     </item>
     
     <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
-      <pubDate>Mon, 08 Sep 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>talk</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/talk/</link>
       <pubDate>Mon, 08 Sep 2025 00:01:00 +0100</pubDate>
@@ -99,60 +153,6 @@
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/mouthings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hierarchical structure</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/hierarchical-structure/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/hierarchical-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language modality</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-modality/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-modality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linguistic diversity</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/linguistic-diversity/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/linguistic-diversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parsing models</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/parsing-models/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/parsing-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tactile sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/tactile-sign-language/</link>
-      <pubDate>Fri, 18 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/tactile-sign-language/</guid>
       <description></description>
     </item>
     
