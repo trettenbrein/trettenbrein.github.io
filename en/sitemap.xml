@@ -3,6 +3,147 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/bigbrain/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/bigbrain/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/bigbrain/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/bigbrain/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/brocas-region/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/brocas-region/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/brocas-region/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/ebrains/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/ebrains/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/ebrains/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/ebrains/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/julich-brain-atlas/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/julich-brain-atlas/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/julich-brain-atlas/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language-network/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language-network/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language-network/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/language-network/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neurobiology/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</loc>
+      <lastmod>2025-12-04T00:01:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/7/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/7/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/7/" hreflang="es"/>
@@ -28,19 +169,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/</loc>
-      <lastmod>2025-09-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/" hreflang="es"/>
@@ -60,19 +188,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/publication/</loc>
       <lastmod>2025-09-18T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/</loc>
-      <lastmod>2025-09-18T00:00:00+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -183,18 +298,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/talk/</loc>
-      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/the-core-of-language-is-modality-independent-evidence-from-studies-of-german-sign-language-dgs/" hreflang="es"/>
@@ -212,32 +315,6 @@
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/fmri/" hreflang="es"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/fmri/</loc>
-      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/language-network/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/language-network/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/language-network/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/language-network/</loc>
-      <lastmod>2025-09-08T00:01:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/neurobiology/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/neurobiology/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/neurobiology/</loc>
       <lastmod>2025-09-08T00:01:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -380,19 +457,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/talk/deaf-signers-adapt-their-eye-gaze-behaviour-when-processing-an-unknown-sign-language/</loc>
       <lastmod>2025-06-25T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/poster-presentation/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/poster-presentation/</loc>
-      <lastmod>2025-06-25T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -2132,19 +2196,6 @@
     
       <loc>https://trettenbrein.biolinguistics.eu/talk/data-sharing-reproducibility-cognitive-neuroscience-sign-language/</loc>
       <lastmod>2019-05-09T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/brocas-region/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/" hreflang="de"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/brocas-region/" hreflang="es"/>
-    
-      <loc>https://trettenbrein.biolinguistics.eu/tags/brocas-region/</loc>
-      <lastmod>2019-04-13T00:00:00+01:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

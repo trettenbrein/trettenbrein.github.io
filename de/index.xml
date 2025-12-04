@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 00:01:00 +0100</lastBuildDate>
     <atom:link href="/de/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fine-grained cytoarchitectonic parcellation of Broca’s region supports functional differentiation in Julich-Brain Atlas (EBRAINS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/</link>
+      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Grounding the computational principles of language in neurobiology requires cross-modal and cross-linguistic data</title>
@@ -138,15 +147,6 @@
 
 &lt;iframe src=&#34;https://widgets.figshare.com/articles/28282898/embed?show_title=0&#34; width=&#34;568&#34; height=&#34;351&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Functional and structural brain asymmetries in language processing</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/publication/functional-and-structural-brain-asymmetries-in-language-processing/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/publication/functional-and-structural-brain-asymmetries-in-language-processing/</guid>
-      <description></description>
     </item>
     
   </channel>

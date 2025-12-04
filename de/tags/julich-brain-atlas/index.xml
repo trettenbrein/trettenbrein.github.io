@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julich-Brain Atlas on Patrick C. Trettenbrein</title>
+    <link>https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/</link>
+    <description>Recent content in Julich-Brain Atlas on Patrick C. Trettenbrein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
+    <lastBuildDate>Thu, 04 Dec 2025 00:01:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fine-grained cytoarchitectonic parcellation of Broca’s region supports functional differentiation in Julich-Brain Atlas (EBRAINS)</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/</link>
+      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/talk/fine-grained-cytoarchitectonic-parcellation-of-brocas-region-supports-functional-differentiation-in-julich-brain-atlas-ebrains/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
