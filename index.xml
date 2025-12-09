@@ -6,8 +6,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Thu, 04 Dec 2025 00:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>White-matter alterations in right-hemispheric language pathways in deaf signers</title>
+      <link>https://trettenbrein.biolinguistics.eu/publication/white-matter-alterations-in-right-hemispheric-language-pathways-in-deaf-signers/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/publication/white-matter-alterations-in-right-hemispheric-language-pathways-in-deaf-signers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fine-grained cytoarchitectonic parcellation of Broca’s region supports functional differentiation in Julich-Brain Atlas (EBRAINS)</title>
@@ -133,20 +142,6 @@
       
       <guid>https://trettenbrein.biolinguistics.eu/publication/data-collection-in-multimodal-language-and-communication-research-a-flexible-decision-framework/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a “DGS-LEX”: A roadmap for the collaborative creation of a psycholinguistic database for German Sign Language (DGS)</title>
-      <link>https://trettenbrein.biolinguistics.eu/publication/towards-a-dgs-lex/</link>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/publication/towards-a-dgs-lex/</guid>
-      <description>
-
-&lt;h4 id=&#34;summary-in-german-sign-language-dgs&#34;&gt;Summary in German Sign Language (DGS):&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://widgets.figshare.com/articles/28282898/embed?show_title=0&#34; width=&#34;568&#34; height=&#34;351&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-</description>
     </item>
     
   </channel>

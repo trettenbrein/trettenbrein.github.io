@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Thu, 04 Dec 2025 00:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language network</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lateralization</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/lateralization/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/lateralization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modality of language use</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/modality-of-language-use/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/modality-of-language-use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modality-independence</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/modality-independence/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/modality-independence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurobiology of language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language processing</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language-processing/</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language-processing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BigBrain</title>
@@ -45,15 +117,6 @@
       <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/julich-brain-atlas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language network</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</link>
-      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</guid>
       <description></description>
     </item>
     
@@ -108,15 +171,6 @@
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/parsing-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
-      <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -202,15 +256,6 @@
     </item>
     
     <item>
-      <title>modality-independence</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/modality-independence/</link>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/modality-independence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>localizer</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/localizer/</link>
       <pubDate>Sun, 08 Jun 2025 00:01:00 +0100</pubDate>
@@ -234,15 +279,6 @@
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/rsmri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</link>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</guid>
       <description></description>
     </item>
     
@@ -472,33 +508,6 @@
     </item>
     
     <item>
-      <title>lateralization</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/lateralization/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/lateralization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>modality of language use</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/modality-of-language-use/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/modality-of-language-use/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurobiology of language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>neurolinguistics</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
@@ -522,15 +531,6 @@
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/sentence-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language processing</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language-processing/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language-processing/</guid>
       <description></description>
     </item>
     
