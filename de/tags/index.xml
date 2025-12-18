@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2025</copyright>
-    <lastBuildDate>Tue, 09 Dec 2025 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>biolinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/biolinguistics/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/biolinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>editorial</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/editorial/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/editorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open access</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/open-access/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/open-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publishing</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/publishing/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/publishing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dMRI</title>
@@ -94,7 +130,7 @@
     </item>
     
     <item>
-      <title>Broca&#39;s region</title>
+      <title>Broca’s region</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</link>
       <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
       
@@ -531,42 +567,6 @@
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/sentence-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>biolinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/biolinguistics/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/biolinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>editorial</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/editorial/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/editorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open access</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/open-access/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/open-access/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publishing</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/publishing/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/publishing/</guid>
       <description></description>
     </item>
     
