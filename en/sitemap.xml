@@ -606,8 +606,8 @@
     <url>
     
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/brocas-region/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/brocas-region/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/" hreflang="de"/>
     
       <loc>https://trettenbrein.biolinguistics.eu/tags/brocas-region/</loc>
       <lastmod>2025-12-04T00:01:00+01:00</lastmod>
