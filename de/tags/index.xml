@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2026</copyright>
-    <lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>corpus</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/corpus/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/corpus/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>data collection</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/data-collection/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/data-collection/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>elicitation</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/elicitation/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/elicitation/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>fieldwork</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/fieldwork/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/fieldwork/</guid>
       <description></description>
@@ -51,9 +51,63 @@
     <item>
       <title>gesture</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/gesture/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/gesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/language/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>methods</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/methods/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodal communication</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/multimodal-communication/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/multimodal-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multimodality</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/multimodality/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/multimodality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -67,65 +121,11 @@
     </item>
     
     <item>
-      <title>language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/language/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/linguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>methods</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/methods/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multimodal communication</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/multimodal-communication/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/multimodal-communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multimodality</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/multimodality/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/multimodality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>poster presentation</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
       <description></description>
     </item>
     
