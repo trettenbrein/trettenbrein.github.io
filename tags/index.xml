@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018&amp;ndash;2026</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>diffusion MRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/diffusion-mri/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/diffusion-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional MRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/functional-mri/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/functional-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language network</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/language-network/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/language-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/sign-language/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://trettenbrein.biolinguistics.eu/tags/syntax/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/tags/syntax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>constituent structure</title>
@@ -49,29 +94,11 @@
     </item>
     
     <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/sign-language/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sign language processing</title>
       <link>https://trettenbrein.biolinguistics.eu/tags/sign-language-processing/</link>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/tags/sign-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>syntax</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/syntax/</link>
-      <pubDate>Tue, 28 Apr 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/syntax/</guid>
       <description></description>
     </item>
     
@@ -238,33 +265,6 @@
     </item>
     
     <item>
-      <title>diffusion MRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/diffusion-mri/</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/diffusion-mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>functional MRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/functional-mri/</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/functional-mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language network</title>
-      <link>https://trettenbrein.biolinguistics.eu/tags/language-network/</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/tags/language-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>biolinguistics</title>
       <link>https://trettenbrein.biolinguistics.eu/tags/biolinguistics/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0200</pubDate>
@@ -346,7 +346,7 @@
     </item>
     
     <item>
-      <title>Broca&#39;s region</title>
+      <title>Broca’s region</title>
       <link>https://trettenbrein.biolinguistics.eu/tags/brocas-region/</link>
       <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
       
