@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2026</copyright>
-    <lastBuildDate>Wed, 06 May 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/language/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language processing</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-processing/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurobiology</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>corpus</title>
@@ -54,15 +90,6 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/gesture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/language/</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language/</guid>
       <description></description>
     </item>
     
@@ -373,15 +400,6 @@
     </item>
     
     <item>
-      <title>neurobiology</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
-      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hierarchical structure</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/hierarchical-structure/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
@@ -616,15 +634,6 @@
     </item>
     
     <item>
-      <title>language processing</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-processing/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>neurolinguistics</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/neurolinguistics/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
@@ -765,15 +774,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/research-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/teaching/</guid>
       <description></description>
     </item>
     
