@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.3.0">
+  <meta name="generator" content="Hugo 0.55.0" />
+  <meta name="author" content="Patrick C. Trettenbrein">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="&lt;b&gt;Introduction&lt;/b&gt; &lt;p&gt;Broca’s region is a key region involved in language processing and has also been reported in experiments on action processing. We have previously mapped areas 44 and 45 in histological sections of ten human brains using an observer-independent definition of areal borders, yet receptor mapping suggested further heterogeneity, motivating a more fine-grained parcellation.&lt;sup&gt;1,2&lt;/sup&gt; Here we performed more thorough cytoarchitectonic mapping, introducing finer subdivisions of Broca’s region, supplemented by ultra-high-resolution 3D reconstruction and layer-specific analysis in the BigBrain model.&lt;sup&gt;3&lt;/sup&gt;. We remapped Broca’s region in 10 post-mortem brains and identified new subdivisions, including areas 44p, 44a, 45p, and 45a. The BigBrain model was used for 3D reconstruction, Convolutional Neural Network-based cell segmentation, and layer-specific cell quantification. The functional relevance of the new subdivisions was assessed using fMRI peak mapping, Electrocorticography (ECoG) data mapping, and meta-analytic connectivity modelling (MACM), allowing evaluation of domain-specific specialisation of the newly mapped areas. All maps were integrated into the Julich-Brain Atlas&lt;sup&gt;4&lt;/sup&gt;, providing a high-resolution, multilevel resource for structure-function studies of Broca’s region.&lt;/p&gt; &lt;b&gt;Methods&lt;/b&gt; &lt;p&gt;Every 60th cell-body-stained brain section (20 μm isotropic, 1 μm resolution in-plane of sections) from 10 post-mortem human brains (5 female, age 30–80) was re-analysed using an observer-independent cytoarchitectonic method. Areas 44 and 45 were subdivided into four areas: from anterior to posterior 44p, 44a, 45p, 45a. Probability maps (PMs) and maximum probability maps (MPMs) were generated in MNI Colin27 and MNI152 spaces (Fig. 1). Structural left-right differences in cytoarchitecture were quantified using Euclidean distances between homologous subdivisions.&lt;/p&gt; &lt;p&gt;The BigBrain dataset (20 μm isotropic, 1 μm isotropic in-plane) enabled an ultra-high-resolution 3D reconstruction of areas 44p, 44a, 45p, and 45a in left and right hemispheres. For this, using Convolutional Neural Networks, we have annotated 1,650 histological sections from 53 manually annotated sections. Further layer-specific cell segmentation was enabled via Contour Proposal Networks.&lt;/p&gt; &lt;p&gt;Functional validation included overlaying 24 fMRI peak coordinates from syntax, semantics, and action studies with PMs from the Julich-Brain Atlas. The selected coordinates stemmed from paradigms with well-defined linguistic and motor contrasts, chosen for their methodological precision and compatibility with cytoarchitectonic mapping, ensuring reliable assessment of the structure-function-relationship in Broca’s region and neighbouring premotor and opercular cortex using Julich-Brain. In a separate ECoG dataset, MPMs were manually co-registered to the MNI ICBM 152 asym 2009 template, cropped to the left hemisphere, and overlaid with electrode locations from syllable production tasks to assess anatomical–functional correspondence.&lt;sup&gt;5&lt;/sup&gt; MPMs were also used to perform MACM analyses in BrainMap. All cytoarchitectonic maps were integrated into the Julich-Brain Atlas.&lt;/p&gt; &lt;b&gt;Results&lt;/b&gt; &lt;p&gt;All four subdivisions 44p, 44a, 45p, 45a, were robustly identified across 10 brains, showing distinct cytoarchitectonic profiles. For example, area 44p contained large pyramidal neurons concentrated in sublayer IIIc, whereas area 44a showed a more cell-dense layer V compared to 44p. Area 45p exhibited higher cell density in the upper layer, particularly in layer II, while area 45a featured a broader layer IV with more granular cells.  An ultra-high-resolution 3D reconstruction of the areas was generated using a Convolutional Neural Network-based workflow, and layer-specific cell segmentation was achieved with Contour Proposal Network. Median Euclidean distances and interquartile ranges (IQR) characterised left-right differences and cytoarchitectonic variability. Area 45a showed the highest median distance (1.850) with moderate variability (IQR = 0.0875), reflecting bigger left-right differences among all four areas. Area 44p also exhibited stronger asymmetry, but with higher variability (median = 1.772; IQR = 0.0996). Area 44a had moderate asymmetry and low variability (median = 1.714; IQR = 0.409), while area 45p displayed moderate left-right differences with high variability (median = 1.672; IQR = 1.214). Females showed generally smaller absolute regional volumes, while males showed higher variability, especially in areas 44a and 45p. In females, normalised left-hemispheric means ranged from 0.0856 ± 0.0488 (44a) to 0.1114 ± 0.0284 (45p), whereas in males, left-hemispheric values ranged from 0.0980 ± 0.0403 (45a) to 0.01326 ± 0.0567 (44a). The right hemisphere patterns were similar. Permutation-based paired comparisons initially revealed a significant leftward asymmetry in area 44p (p = 0.0303) and a non-significant trend in 44a (p = 0.0721), whereas anterior areas (45p and 45a) were largely symmetric. However, after correction for multiple comparisons, none of these asymmetries remained statistically significant. Diagonal sulcus (DS) morphology influenced normalised volumes in areas 44p and 44a, with non-significant trends toward higher volumes in hemispheres containing DS. The subdivisions of the left hemispheres contained 19 fMRI coordinates (for syntax task:10; action:2; semantics:3; syntax&#43;semantics:2; lexical/phonological:2), while the right hemisphere contained five. Syntax and semantic peaks were primarily found in 44p, 44a, 45a; lexical/phonological peaks mapped to ventral area 44a and frontal operculum. Action-related peaks extended into premotor areas 6r1, 6v3, and opercular area Op5 (Fig. 2). The MACM analysis revealed that each subdivision has distinct co-activation networks, with 44p and 45p integrating motor and language functions, 44a contributing to action and attention, and 45a supporting broad cognitive and linguistic processes, reflecting functional specialisation consistent with cytoarchitectonic boundaries. Independent ECoG analyses further revealed limited overlap between Broca’s region subdivisions and task-evoked high kernel density estimates associated with articulatory and sequential complexity. Sequence-related activity was concentrated in ventral area 44a and partially in area 44p, whereas articulatory activity was largely outside Broca’s areas, in premotor cortex. These findings indicate a functional separation between traditional language areas and motor execution circuits, highlighting the premotor cortex as the primary site for articulatory control during speech.&lt;/p&gt; &lt;b&gt;Conclusion&lt;/b&gt; &lt;p&gt;The current study introduces a fine-grained cytoarchitectonic parcellation of Broca’s region, subdividing it into four anterior-to-posterior areas: 44p, 44a, 45p, and 45a. Structural asymmetry varied across subdivisions, with area 45a (median = 1.8502) showing the largest values and area 45p (median = 1.6716) the smallest, while areas 44p (median = 1.7718) and 44a (1.7138) were intermediate. Normalised regional volumes were generally smaller in females, with higher variability in males. Leftward asymmetry in volumes was observed in area 44p and 44a, although this did not remain significant after correction, whereas anterior areas (45p and 45a) were more symmetric. The diagonal sulcus is a variable sulcus of the frontal lobe, located anterior to the precentral sulcus; if present, it seems to facilitate larger volumes in areas 44p and 44a. The BigBrain, with its layer-specific segmentations, provides a template for detailed, micron-scale maps of Broca’s region, capturing detailed laminar architecture and cell-type distributions across all four areas.&lt;/p&gt; &lt;p&gt;The functional overlay of activation peaks with cytoarchitectonic areas, and the MACM analyses confirmed domain-specific specialisation, left-hemisphere subdivisions dominated for syntax and semantics, while action-related activity extended into premotor and opercular areas. Overlapping the MPMs with task-evoked ECoG data demonstrated that speech-related high-gamma activity seems to be largely localised outside Broca’s region, predominating in the premotor cortex, with only limited overlap in the ventral part of area 44a and slightly in area 44p for sequence complexity. Mapping of electrode activations onto these MPMs allows quantitative assignment of sequence- and articulatory-related activity to specific cortical areas, providing a direct integration of functional electrophysiology with cytoarchitectonic reference maps.&lt;/p&gt; &lt;p&gt;These refined maps, integrated into the Julich-Brain Atlas v3.2 and are freely accessible https://julich-brain-atlas.de/atlas. They extend previous mappings of Broca’s region, providing a high-resolution, multilevel structure-function resource for neuroimaging, brain modelling, and comparative studies.&lt;/p&gt; &lt;b&gt;Acknowledgements&lt;/b&gt; &lt;p&gt;The PhD position was funded by the Max Planck School of Cognition, Leipzig, Germany. The Helmholtz Association’s Initiative and Networking Fund through the Helmholtz International BigBrain Analytics and Learning Laboratory (HIBALL) supported the development of ultra-high-resolution maps in the BigBrain. EBRAINS 2.0 (European Union’s Research and Innovation Program Horizon Europe under Grant Agreement No. 101147319) supported the integration of the maps and their provisioning in the EBRAINS human brain atlas in different spatial reference systems and data formats according to FAIR principles.&lt;/p&gt; &lt;b&gt;References&lt;/b&gt; &lt;ol&gt; &lt;li&gt;Amunts K, Schleicher A, Bürgel U, Mohlberg H, Uylings HB, Zilles K. Broca’s region revisited: cytoarchitecture and intersubject variability. &lt;i&gt;J Comp Neurol.&lt;/i&gt; 1999;412(2):319-341. doi:&lt;a href=&#34;https://doi.org/10.1002/(sici)1096-9861(19990920)412:2&lt;319::aid-cne10&gt;3.0.co;2-7&#34; target=&#34;_blank&#34;&gt;10.1002/(sici)1096-9861(19990920)412:2&lt;319::aid-cne10&gt;3.0.co;2-7&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Amunts K, Lenzen M, Friederici AD, et al. Broca’s region: novel organizational principles and multiple receptor mapping. &lt;i&gt;PLoS Biol.&lt;/i&gt; 2010;8(9):e1000489. Published 2010 Sep 21. doi:&lt;a href=&#34;https://doi.org/10.1371/journal.pbio.1000489&#34; target=&#34;_blank&#34;&gt;10.1371/journal.pbio.1000489&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Amunts K, Lepage C, Borgeat L, et al. BigBrain: an ultrahigh-resolution 3D human brain model. &lt;i&gt;Science&lt;/i&gt;. 2013;340(6139):1472-1475. doi:&lt;a href=&#34;https://doi.org/10.1126/science.1235381&#34; target=&#34;_blank&#34;&gt;10.1126/science.1235381&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Amunts K, Mohlberg H, Bludau S, Zilles K. Julich-Brain: A 3D probabilistic atlas of the human brain’s cytoarchitecture. &lt;i&gt;Science&lt;/i&gt;. 2020;369(6506):988-992. doi:&lt;a href=&#34;https://doi.org/10.1126/science.abb4588&#34; target=&#34;_blank&#34;&gt;10.1126/science.abb4588&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Liu JR, Zhao L, Hullett PW, Chang EF. Speech sequencing in the human precentral gyrus. &lt;i&gt;Nat Hum Behav.&lt;/i&gt; 2025;9(11):2327-2344. doi:&lt;a href=&#34;https://doi.org/10.1038/s41562-025-02250-1&#34; target=&#34;_blank&#34;&gt;10.1038/s41562-025-02250-1&lt;/a&gt;&lt;/li&gt; &lt;/ol&gt;">
+
+  
+  <link rel="alternate" hreflang="de" href="https://trettenbrein.biolinguistics.eu/de/talk/beyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function/">
+  
+  <link rel="alternate" hreflang="es" href="https://trettenbrein.biolinguistics.eu/es/talk/beyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function/">
+  
+  <link rel="alternate" hreflang="en-us" href="https://trettenbrein.biolinguistics.eu/talk/beyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#1185C1">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://trettenbrein.biolinguistics.eu/index.xml" type="application/rss+xml" title="Patrick C. Trettenbrein">
+  <link rel="feed" href="https://trettenbrein.biolinguistics.eu/index.xml" type="application/rss+xml" title="Patrick C. Trettenbrein">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://trettenbrein.biolinguistics.eu/talk/beyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Patrick C. Trettenbrein">
+  <meta property="og:url" content="https://trettenbrein.biolinguistics.eu/talk/beyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function/">
+  <meta property="og:title" content="Beyond the classical anatomical concept of Broca’s region: New subdivisions and link to function | Patrick C. Trettenbrein">
+  <meta property="og:description" content="&lt;b&gt;Introduction&lt;/b&gt; &lt;p&gt;Broca’s region is a key region involved in language processing and has also been reported in experiments on action processing. We have previously mapped areas 44 and 45 in histological sections of ten human brains using an observer-independent definition of areal borders, yet receptor mapping suggested further heterogeneity, motivating a more fine-grained parcellation.&lt;sup&gt;1,2&lt;/sup&gt; Here we performed more thorough cytoarchitectonic mapping, introducing finer subdivisions of Broca’s region, supplemented by ultra-high-resolution 3D reconstruction and layer-specific analysis in the BigBrain model.&lt;sup&gt;3&lt;/sup&gt;. We remapped Broca’s region in 10 post-mortem brains and identified new subdivisions, including areas 44p, 44a, 45p, and 45a. The BigBrain model was used for 3D reconstruction, Convolutional Neural Network-based cell segmentation, and layer-specific cell quantification. The functional relevance of the new subdivisions was assessed using fMRI peak mapping, Electrocorticography (ECoG) data mapping, and meta-analytic connectivity modelling (MACM), allowing evaluation of domain-specific specialisation of the newly mapped areas. All maps were integrated into the Julich-Brain Atlas&lt;sup&gt;4&lt;/sup&gt;, providing a high-resolution, multilevel resource for structure-function studies of Broca’s region.&lt;/p&gt; &lt;b&gt;Methods&lt;/b&gt; &lt;p&gt;Every 60th cell-body-stained brain section (20 μm isotropic, 1 μm resolution in-plane of sections) from 10 post-mortem human brains (5 female, age 30–80) was re-analysed using an observer-independent cytoarchitectonic method. Areas 44 and 45 were subdivided into four areas: from anterior to posterior 44p, 44a, 45p, 45a. Probability maps (PMs) and maximum probability maps (MPMs) were generated in MNI Colin27 and MNI152 spaces (Fig. 1). Structural left-right differences in cytoarchitecture were quantified using Euclidean distances between homologous subdivisions.&lt;/p&gt; &lt;p&gt;The BigBrain dataset (20 μm isotropic, 1 μm isotropic in-plane) enabled an ultra-high-resolution 3D reconstruction of areas 44p, 44a, 45p, and 45a in left and right hemispheres. For this, using Convolutional Neural Networks, we have annotated 1,650 histological sections from 53 manually annotated sections. Further layer-specific cell segmentation was enabled via Contour Proposal Networks.&lt;/p&gt; &lt;p&gt;Functional validation included overlaying 24 fMRI peak coordinates from syntax, semantics, and action studies with PMs from the Julich-Brain Atlas. The selected coordinates stemmed from paradigms with well-defined linguistic and motor contrasts, chosen for their methodological precision and compatibility with cytoarchitectonic mapping, ensuring reliable assessment of the structure-function-relationship in Broca’s region and neighbouring premotor and opercular cortex using Julich-Brain. In a separate ECoG dataset, MPMs were manually co-registered to the MNI ICBM 152 asym 2009 template, cropped to the left hemisphere, and overlaid with electrode locations from syllable production tasks to assess anatomical–functional correspondence.&lt;sup&gt;5&lt;/sup&gt; MPMs were also used to perform MACM analyses in BrainMap. All cytoarchitectonic maps were integrated into the Julich-Brain Atlas.&lt;/p&gt; &lt;b&gt;Results&lt;/b&gt; &lt;p&gt;All four subdivisions 44p, 44a, 45p, 45a, were robustly identified across 10 brains, showing distinct cytoarchitectonic profiles. For example, area 44p contained large pyramidal neurons concentrated in sublayer IIIc, whereas area 44a showed a more cell-dense layer V compared to 44p. Area 45p exhibited higher cell density in the upper layer, particularly in layer II, while area 45a featured a broader layer IV with more granular cells.  An ultra-high-resolution 3D reconstruction of the areas was generated using a Convolutional Neural Network-based workflow, and layer-specific cell segmentation was achieved with Contour Proposal Network. Median Euclidean distances and interquartile ranges (IQR) characterised left-right differences and cytoarchitectonic variability. Area 45a showed the highest median distance (1.850) with moderate variability (IQR = 0.0875), reflecting bigger left-right differences among all four areas. Area 44p also exhibited stronger asymmetry, but with higher variability (median = 1.772; IQR = 0.0996). Area 44a had moderate asymmetry and low variability (median = 1.714; IQR = 0.409), while area 45p displayed moderate left-right differences with high variability (median = 1.672; IQR = 1.214). Females showed generally smaller absolute regional volumes, while males showed higher variability, especially in areas 44a and 45p. In females, normalised left-hemispheric means ranged from 0.0856 ± 0.0488 (44a) to 0.1114 ± 0.0284 (45p), whereas in males, left-hemispheric values ranged from 0.0980 ± 0.0403 (45a) to 0.01326 ± 0.0567 (44a). The right hemisphere patterns were similar. Permutation-based paired comparisons initially revealed a significant leftward asymmetry in area 44p (p = 0.0303) and a non-significant trend in 44a (p = 0.0721), whereas anterior areas (45p and 45a) were largely symmetric. However, after correction for multiple comparisons, none of these asymmetries remained statistically significant. Diagonal sulcus (DS) morphology influenced normalised volumes in areas 44p and 44a, with non-significant trends toward higher volumes in hemispheres containing DS. The subdivisions of the left hemispheres contained 19 fMRI coordinates (for syntax task:10; action:2; semantics:3; syntax&#43;semantics:2; lexical/phonological:2), while the right hemisphere contained five. Syntax and semantic peaks were primarily found in 44p, 44a, 45a; lexical/phonological peaks mapped to ventral area 44a and frontal operculum. Action-related peaks extended into premotor areas 6r1, 6v3, and opercular area Op5 (Fig. 2). The MACM analysis revealed that each subdivision has distinct co-activation networks, with 44p and 45p integrating motor and language functions, 44a contributing to action and attention, and 45a supporting broad cognitive and linguistic processes, reflecting functional specialisation consistent with cytoarchitectonic boundaries. Independent ECoG analyses further revealed limited overlap between Broca’s region subdivisions and task-evoked high kernel density estimates associated with articulatory and sequential complexity. Sequence-related activity was concentrated in ventral area 44a and partially in area 44p, whereas articulatory activity was largely outside Broca’s areas, in premotor cortex. These findings indicate a functional separation between traditional language areas and motor execution circuits, highlighting the premotor cortex as the primary site for articulatory control during speech.&lt;/p&gt; &lt;b&gt;Conclusion&lt;/b&gt; &lt;p&gt;The current study introduces a fine-grained cytoarchitectonic parcellation of Broca’s region, subdividing it into four anterior-to-posterior areas: 44p, 44a, 45p, and 45a. Structural asymmetry varied across subdivisions, with area 45a (median = 1.8502) showing the largest values and area 45p (median = 1.6716) the smallest, while areas 44p (median = 1.7718) and 44a (1.7138) were intermediate. Normalised regional volumes were generally smaller in females, with higher variability in males. Leftward asymmetry in volumes was observed in area 44p and 44a, although this did not remain significant after correction, whereas anterior areas (45p and 45a) were more symmetric. The diagonal sulcus is a variable sulcus of the frontal lobe, located anterior to the precentral sulcus; if present, it seems to facilitate larger volumes in areas 44p and 44a. The BigBrain, with its layer-specific segmentations, provides a template for detailed, micron-scale maps of Broca’s region, capturing detailed laminar architecture and cell-type distributions across all four areas.&lt;/p&gt; &lt;p&gt;The functional overlay of activation peaks with cytoarchitectonic areas, and the MACM analyses confirmed domain-specific specialisation, left-hemisphere subdivisions dominated for syntax and semantics, while action-related activity extended into premotor and opercular areas. Overlapping the MPMs with task-evoked ECoG data demonstrated that speech-related high-gamma activity seems to be largely localised outside Broca’s region, predominating in the premotor cortex, with only limited overlap in the ventral part of area 44a and slightly in area 44p for sequence complexity. Mapping of electrode activations onto these MPMs allows quantitative assignment of sequence- and articulatory-related activity to specific cortical areas, providing a direct integration of functional electrophysiology with cytoarchitectonic reference maps.&lt;/p&gt; &lt;p&gt;These refined maps, integrated into the Julich-Brain Atlas v3.2 and are freely accessible https://julich-brain-atlas.de/atlas. They extend previous mappings of Broca’s region, providing a high-resolution, multilevel structure-function resource for neuroimaging, brain modelling, and comparative studies.&lt;/p&gt; &lt;b&gt;Acknowledgements&lt;/b&gt; &lt;p&gt;The PhD position was funded by the Max Planck School of Cognition, Leipzig, Germany. The Helmholtz Association’s Initiative and Networking Fund through the Helmholtz International BigBrain Analytics and Learning Laboratory (HIBALL) supported the development of ultra-high-resolution maps in the BigBrain. EBRAINS 2.0 (European Union’s Research and Innovation Program Horizon Europe under Grant Agreement No. 101147319) supported the integration of the maps and their provisioning in the EBRAINS human brain atlas in different spatial reference systems and data formats according to FAIR principles.&lt;/p&gt; &lt;b&gt;References&lt;/b&gt; &lt;ol&gt; &lt;li&gt;Amunts K, Schleicher A, Bürgel U, Mohlberg H, Uylings HB, Zilles K. Broca’s region revisited: cytoarchitecture and intersubject variability. &lt;i&gt;J Comp Neurol.&lt;/i&gt; 1999;412(2):319-341. doi:&lt;a href=&#34;https://doi.org/10.1002/(sici)1096-9861(19990920)412:2&lt;319::aid-cne10&gt;3.0.co;2-7&#34; target=&#34;_blank&#34;&gt;10.1002/(sici)1096-9861(19990920)412:2&lt;319::aid-cne10&gt;3.0.co;2-7&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Amunts K, Lenzen M, Friederici AD, et al. Broca’s region: novel organizational principles and multiple receptor mapping. &lt;i&gt;PLoS Biol.&lt;/i&gt; 2010;8(9):e1000489. Published 2010 Sep 21. doi:&lt;a href=&#34;https://doi.org/10.1371/journal.pbio.1000489&#34; target=&#34;_blank&#34;&gt;10.1371/journal.pbio.1000489&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Amunts K, Lepage C, Borgeat L, et al. BigBrain: an ultrahigh-resolution 3D human brain model. &lt;i&gt;Science&lt;/i&gt;. 2013;340(6139):1472-1475. doi:&lt;a href=&#34;https://doi.org/10.1126/science.1235381&#34; target=&#34;_blank&#34;&gt;10.1126/science.1235381&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Amunts K, Mohlberg H, Bludau S, Zilles K. Julich-Brain: A 3D probabilistic atlas of the human brain’s cytoarchitecture. &lt;i&gt;Science&lt;/i&gt;. 2020;369(6506):988-992. doi:&lt;a href=&#34;https://doi.org/10.1126/science.abb4588&#34; target=&#34;_blank&#34;&gt;10.1126/science.abb4588&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Liu JR, Zhao L, Hullett PW, Chang EF. Speech sequencing in the human precentral gyrus. &lt;i&gt;Nat Hum Behav.&lt;/i&gt; 2025;9(11):2327-2344. doi:&lt;a href=&#34;https://doi.org/10.1038/s41562-025-02250-1&#34; target=&#34;_blank&#34;&gt;10.1038/s41562-025-02250-1&lt;/a&gt;&lt;/li&gt; &lt;/ol&gt;"><meta property="og:image" content="https://trettenbrein.biolinguistics.eu/img/portrait.jpg">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2026-06-10T00:01:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2026-06-10T00:01:00&#43;01:00">
+  
+
+  
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#1185C1",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#1185C1"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
+  
+
+  <title>Beyond the classical anatomical concept of Broca’s region: New subdivisions and link to function | Patrick C. Trettenbrein</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Patrick C. Trettenbrein</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#talks">
+            
+            <span>Talks</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+            <i class="fas fa-globe" aria-hidden="true"></i>
+            <span>English</span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://trettenbrein.biolinguistics.eu/de/talk/beyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function/">
+                <span>Deutsch</span>
+              </a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://trettenbrein.biolinguistics.eu/es/talk/beyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function/">
+                <span>Español</span>
+              </a>
+            </li>
+            
+          </ul>
+        </li>
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/Event">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">Beyond the classical anatomical concept of Broca’s region: New subdivisions and link to function</h1>
+
+  
+
+  
+    
+
+<div class="article-metadata">
+
+  
+  
+  
+  <div>
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">N Fedorchenko</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">S Ruland</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">H Mohlberg</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">S Bludau</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">C Schiffer</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">K Benning</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">PC Trettenbrein</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">AD Friederici</span>
+    </span>, 
+    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+      <span itemprop="name">K Amunts</span>
+    </span>
+    
+  </div>
+  
+
+  <span class="article-date">
+    
+    <meta content="2026-06-10 00:01:00 &#43;0100 &#43;0100" itemprop="datePublished">
+    <time datetime="2026-06-10 00:01:00 &#43;0100 &#43;0100" itemprop="dateModified">
+      Jun 10, 2026
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Patrick C. Trettenbrein">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Beyond%20the%20classical%20anatomical%20concept%20of%20Broca%e2%80%99s%20region%3a%20New%20subdivisions%20and%20link%20to%20function&amp;url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fbeyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fbeyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fbeyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function%2f&amp;title=Beyond%20the%20classical%20anatomical%20concept%20of%20Broca%e2%80%99s%20region%3a%20New%20subdivisions%20and%20link%20to%20function"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fbeyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function%2f&amp;title=Beyond%20the%20classical%20anatomical%20concept%20of%20Broca%e2%80%99s%20region%3a%20New%20subdivisions%20and%20link%20to%20function"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Beyond%20the%20classical%20anatomical%20concept%20of%20Broca%e2%80%99s%20region%3a%20New%20subdivisions%20and%20link%20to%20function&amp;body=https%3a%2f%2ftrettenbrein.biolinguistics.eu%2ftalk%2fbeyond-the-classical-anatomical-concept-of-brocas-region-new-subdivisions-and-link-to-function%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+      <h3>Abstract</h3>
+      <p class="pub-abstract" itemprop="text"><p><b>Introduction</b> <p>Broca’s region is a key region involved in language processing and has also been reported in experiments on action processing. We have previously mapped areas 44 and 45 in histological sections of ten human brains using an observer-independent definition of areal borders, yet receptor mapping suggested further heterogeneity, motivating a more fine-grained parcellation.<sup>1,2</sup> Here we performed more thorough cytoarchitectonic mapping, introducing finer subdivisions of Broca’s region, supplemented by ultra-high-resolution 3D reconstruction and layer-specific analysis in the BigBrain model.<sup>3</sup>. We remapped Broca’s region in 10 post-mortem brains and identified new subdivisions, including areas 44p, 44a, 45p, and 45a. The BigBrain model was used for 3D reconstruction, Convolutional Neural Network-based cell segmentation, and layer-specific cell quantification. The functional relevance of the new subdivisions was assessed using fMRI peak mapping, Electrocorticography (ECoG) data mapping, and meta-analytic connectivity modelling (MACM), allowing evaluation of domain-specific specialisation of the newly mapped areas. All maps were integrated into the Julich-Brain Atlas<sup>4</sup>, providing a high-resolution, multilevel resource for structure-function studies of Broca’s region.</p> <b>Methods</b> <p>Every 60th cell-body-stained brain section (20 μm isotropic, 1 μm resolution in-plane of sections) from 10 post-mortem human brains (5 female, age 30–80) was re-analysed using an observer-independent cytoarchitectonic method. Areas 44 and 45 were subdivided into four areas: from anterior to posterior 44p, 44a, 45p, 45a. Probability maps (PMs) and maximum probability maps (MPMs) were generated in MNI Colin27 and MNI152 spaces (Fig. 1). Structural left-right differences in cytoarchitecture were quantified using Euclidean distances between homologous subdivisions.</p> <p>The BigBrain dataset (20 μm isotropic, 1 μm isotropic in-plane) enabled an ultra-high-resolution 3D reconstruction of areas 44p, 44a, 45p, and 45a in left and right hemispheres. For this, using Convolutional Neural Networks, we have annotated 1,650 histological sections from 53 manually annotated sections. Further layer-specific cell segmentation was enabled via Contour Proposal Networks.</p> <p>Functional validation included overlaying 24 fMRI peak coordinates from syntax, semantics, and action studies with PMs from the Julich-Brain Atlas. The selected coordinates stemmed from paradigms with well-defined linguistic and motor contrasts, chosen for their methodological precision and compatibility with cytoarchitectonic mapping, ensuring reliable assessment of the structure-function-relationship in Broca’s region and neighbouring premotor and opercular cortex using Julich-Brain. In a separate ECoG dataset, MPMs were manually co-registered to the MNI ICBM 152 asym 2009 template, cropped to the left hemisphere, and overlaid with electrode locations from syllable production tasks to assess anatomical–functional correspondence.<sup>5</sup> MPMs were also used to perform MACM analyses in BrainMap. All cytoarchitectonic maps were integrated into the Julich-Brain Atlas.</p> <b>Results</b> <p>All four subdivisions 44p, 44a, 45p, 45a, were robustly identified across 10 brains, showing distinct cytoarchitectonic profiles. For example, area 44p contained large pyramidal neurons concentrated in sublayer IIIc, whereas area 44a showed a more cell-dense layer V compared to 44p. Area 45p exhibited higher cell density in the upper layer, particularly in layer II, while area 45a featured a broader layer IV with more granular cells.  An ultra-high-resolution 3D reconstruction of the areas was generated using a Convolutional Neural Network-based workflow, and layer-specific cell segmentation was achieved with Contour Proposal Network. Median Euclidean distances and interquartile ranges (IQR) characterised left-right differences and cytoarchitectonic variability. Area 45a showed the highest median distance (1.850) with moderate variability (IQR = 0.0875), reflecting bigger left-right differences among all four areas. Area 44p also exhibited stronger asymmetry, but with higher variability (median = 1.772; IQR = 0.0996). Area 44a had moderate asymmetry and low variability (median = 1.714; IQR = 0.409), while area 45p displayed moderate left-right differences with high variability (median = 1.672; IQR = 1.214). Females showed generally smaller absolute regional volumes, while males showed higher variability, especially in areas 44a and 45p. In females, normalised left-hemispheric means ranged from 0.0856 ± 0.0488 (44a) to 0.1114 ± 0.0284 (45p), whereas in males, left-hemispheric values ranged from 0.0980 ± 0.0403 (45a) to 0.01326 ± 0.0567 (44a). The right hemisphere patterns were similar. Permutation-based paired comparisons initially revealed a significant leftward asymmetry in area 44p (p = 0.0303) and a non-significant trend in 44a (p = 0.0721), whereas anterior areas (45p and 45a) were largely symmetric. However, after correction for multiple comparisons, none of these asymmetries remained statistically significant. Diagonal sulcus (DS) morphology influenced normalised volumes in areas 44p and 44a, with non-significant trends toward higher volumes in hemispheres containing DS. The subdivisions of the left hemispheres contained 19 fMRI coordinates (for syntax task:10; action:2; semantics:3; syntax+semantics:2; lexical/phonological:2), while the right hemisphere contained five. Syntax and semantic peaks were primarily found in 44p, 44a, 45a; lexical/phonological peaks mapped to ventral area 44a and frontal operculum. Action-related peaks extended into premotor areas 6r1, 6v3, and opercular area Op5 (Fig. 2). The MACM analysis revealed that each subdivision has distinct co-activation networks, with 44p and 45p integrating motor and language functions, 44a contributing to action and attention, and 45a supporting broad cognitive and linguistic processes, reflecting functional specialisation consistent with cytoarchitectonic boundaries. Independent ECoG analyses further revealed limited overlap between Broca’s region subdivisions and task-evoked high kernel density estimates associated with articulatory and sequential complexity. Sequence-related activity was concentrated in ventral area 44a and partially in area 44p, whereas articulatory activity was largely outside Broca’s areas, in premotor cortex. These findings indicate a functional separation between traditional language areas and motor execution circuits, highlighting the premotor cortex as the primary site for articulatory control during speech.</p> <b>Conclusion</b> <p>The current study introduces a fine-grained cytoarchitectonic parcellation of Broca’s region, subdividing it into four anterior-to-posterior areas: 44p, 44a, 45p, and 45a. Structural asymmetry varied across subdivisions, with area 45a (median = 1.8502) showing the largest values and area 45p (median = 1.6716) the smallest, while areas 44p (median = 1.7718) and 44a (1.7138) were intermediate. Normalised regional volumes were generally smaller in females, with higher variability in males. Leftward asymmetry in volumes was observed in area 44p and 44a, although this did not remain significant after correction, whereas anterior areas (45p and 45a) were more symmetric. The diagonal sulcus is a variable sulcus of the frontal lobe, located anterior to the precentral sulcus; if present, it seems to facilitate larger volumes in areas 44p and 44a. The BigBrain, with its layer-specific segmentations, provides a template for detailed, micron-scale maps of Broca’s region, capturing detailed laminar architecture and cell-type distributions across all four areas.</p> <p>The functional overlay of activation peaks with cytoarchitectonic areas, and the MACM analyses confirmed domain-specific specialisation, left-hemisphere subdivisions dominated for syntax and semantics, while action-related activity extended into premotor and opercular areas. Overlapping the MPMs with task-evoked ECoG data demonstrated that speech-related high-gamma activity seems to be largely localised outside Broca’s region, predominating in the premotor cortex, with only limited overlap in the ventral part of area 44a and slightly in area 44p for sequence complexity. Mapping of electrode activations onto these MPMs allows quantitative assignment of sequence- and articulatory-related activity to specific cortical areas, providing a direct integration of functional electrophysiology with cytoarchitectonic reference maps.</p> <p>These refined maps, integrated into the Julich-Brain Atlas v3.2 and are freely accessible <a href="https://julich-brain-atlas.de/atlas" target="_blank">https://julich-brain-atlas.de/atlas</a>. They extend previous mappings of Broca’s region, providing a high-resolution, multilevel structure-function resource for neuroimaging, brain modelling, and comparative studies.</p> <b>Acknowledgements</b> <p>The PhD position was funded by the Max Planck School of Cognition, Leipzig, Germany. The Helmholtz Association’s Initiative and Networking Fund through the Helmholtz International BigBrain Analytics and Learning Laboratory (HIBALL) supported the development of ultra-high-resolution maps in the BigBrain. EBRAINS 2.0 (European Union’s Research and Innovation Program Horizon Europe under Grant Agreement No. 101147319) supported the integration of the maps and their provisioning in the EBRAINS human brain atlas in different spatial reference systems and data formats according to FAIR principles.</p> <b>References</b> <ol> <li>Amunts K, Schleicher A, Bürgel U, Mohlberg H, Uylings HB, Zilles K. Broca’s region revisited: cytoarchitecture and intersubject variability. <i>J Comp Neurol.</i> 1999;412(2):319-341. doi:<a href="https://doi.org/10.1002/(sici)1096-9861(19990920)412:2<319::aid-cne10>3.0.co;2-7&rdquo; target=&rdquo;_blank&rdquo;&gt;10.1002/(sici)1096-9861(19990920)412:2<a href="319::aid-cne10" target="_blank">319::aid-cne10</a>3.0.co;2-7</a></li> <li>Amunts K, Lenzen M, Friederici AD, et al. Broca’s region: novel organizational principles and multiple receptor mapping. <i>PLoS Biol.</i> 2010;8(9):e1000489. Published 2010 Sep 21. doi:<a href="https://doi.org/10.1371/journal.pbio.1000489" target="_blank">10.1371/journal.pbio.1000489</a></li> <li>Amunts K, Lepage C, Borgeat L, et al. BigBrain: an ultrahigh-resolution 3D human brain model. <i>Science</i>. 2013;340(6139):1472-1475. doi:<a href="https://doi.org/10.1126/science.1235381" target="_blank">10.1126/science.1235381</a></li> <li>Amunts K, Mohlberg H, Bludau S, Zilles K. Julich-Brain: A 3D probabilistic atlas of the human brain’s cytoarchitecture. <i>Science</i>. 2020;369(6506):988-992. doi:<a href="https://doi.org/10.1126/science.abb4588" target="_blank">10.1126/science.abb4588</a></li> <li>Liu JR, Zhao L, Hullett PW, Chang EF. Speech sequencing in the human precentral gyrus. <i>Nat Hum Behav.</i> 2025;9(11):2327-2344. doi:<a href="https://doi.org/10.1038/s41562-025-02250-1" target="_blank">10.1038/s41562-025-02250-1</a></li> </ol></p>
+</p>
+    
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            
+            Jun 18, 2026
+            <div class="talk-time">
+              
+                12:30 PM
+                
+                  &mdash; 1:00 PM
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Event</div>
+          <div class="col-12 col-md-9">
+            <a href="https://www.humanbrainmapping.org/OHBM2026/" target="_blank" rel="noopener">
+            Organization of Human Brain Mapping (OHBM) 2026 Annual Meeting
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Location</div>
+          <div class="col-12 col-md-9">Bordeaux, France</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/neurobiology/">neurobiology</a>
+  
+  <a class="badge badge-light" href="">language network</a>
+  
+  <a class="badge badge-light" href="">Julich-Brain Atlas</a>
+  
+  <a class="badge badge-light" href="">Broca’s region</a>
+  
+  <a class="badge badge-light" href="/tags/ebrains/">EBRAINS</a>
+  
+  <a class="badge badge-light" href="/tags/bigbrain/">BigBrain</a>
+  
+  <a class="badge badge-light" href="/tags/talk/">talk</a>
+  
+</div>
+
+
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+  </div>
+</div>
+
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2018&ndash;2026 &middot; 
+
+    <a href="/notice">Legal notice / Impressum / Aviso legal</a>
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    <script src="/js/academic.min.07fbebbbf71b021c8836e1d7ecffa489.js"></script>
+
+    
+
+  </body>
+</html>
+

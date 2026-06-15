@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2026</copyright>
-    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:01:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BigBrain</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/bigbrain/</link>
+      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/bigbrain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broca’s region</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</link>
+      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EBRAINS</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/ebrains/</link>
+      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/ebrains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julich-Brain Atlas</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/</link>
+      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language network</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</link>
+      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurobiology</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
+      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/talk/</link>
+      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>language</title>
@@ -27,15 +90,6 @@
       <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurobiology</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
       <description></description>
     </item>
     
@@ -157,15 +211,6 @@
     </item>
     
     <item>
-      <title>language network</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</link>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>syntax</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/syntax/</link>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0200</pubDate>
@@ -234,15 +279,6 @@
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/poster-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/talk/</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -360,42 +396,6 @@
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BigBrain</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/bigbrain/</link>
-      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/bigbrain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broca&#39;s region</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</link>
-      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EBRAINS</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/ebrains/</link>
-      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/ebrains/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julich-Brain Atlas</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/</link>
-      <pubDate>Thu, 04 Dec 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/</guid>
       <description></description>
     </item>
     
