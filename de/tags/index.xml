@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2026</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:01:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/mri/</link>
+      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</link>
+      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language network</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</link>
+      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurobiology</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
+      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroimaging</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/neuroimaging/</link>
+      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
+      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://trettenbrein.biolinguistics.eu/de/tags/talk/</link>
+      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/de/tags/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>electromyography</title>
@@ -49,38 +112,11 @@
     </item>
     
     <item>
-      <title>language network</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/language-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>meta-analysis</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/meta-analysis/</link>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/meta-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurobiology</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neurobiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroimaging</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/neuroimaging/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/neuroimaging/</guid>
       <description></description>
     </item>
     
@@ -108,15 +144,6 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/smri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -193,7 +220,7 @@
     </item>
     
     <item>
-      <title>Broca&#39;s region</title>
+      <title>Broca’s region</title>
       <link>https://trettenbrein.biolinguistics.eu/de/tags/brocas-region/</link>
       <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
       
@@ -216,15 +243,6 @@
       <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/julich-brain-atlas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/talk/</link>
-      <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -513,24 +531,6 @@
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/de/tags/tactile-sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/mri/</link>
-      <pubDate>Mon, 08 Sep 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</link>
-      <pubDate>Mon, 08 Sep 2025 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/de/tags/fmri/</guid>
       <description></description>
     </item>
     
