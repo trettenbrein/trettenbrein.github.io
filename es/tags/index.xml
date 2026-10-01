@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2026</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 00:01:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Broca’s area</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/brocas-area/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/brocas-area/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deaf signers</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/deaf-signers/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/deaf-signers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hearing signers</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/hearing-signers/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/hearing-signers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language network</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language production</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-production/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meta-analysis</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/meta-analysis/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/meta-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurobiology of language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MRI</title>
@@ -31,15 +103,6 @@
     </item>
     
     <item>
-      <title>language network</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</link>
-      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>neurobiology</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology/</link>
       <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
@@ -54,15 +117,6 @@
       <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/neuroimaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
-      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
       <description></description>
     </item>
     
@@ -108,15 +162,6 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/inner-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meta-analysis</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/meta-analysis/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/meta-analysis/</guid>
       <description></description>
     </item>
     
@@ -220,7 +265,7 @@
     </item>
     
     <item>
-      <title>Broca’s region</title>
+      <title>Broca&#39;s region</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/brocas-region/</link>
       <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
       
@@ -481,15 +526,6 @@
     </item>
     
     <item>
-      <title>neurobiology of language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>hierarchical structure</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/hierarchical-structure/</link>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0200</pubDate>
@@ -585,15 +621,6 @@
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/rsmri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language production</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/language-production/</link>
-      <pubDate>Sat, 07 Jun 2025 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-production/</guid>
       <description></description>
     </item>
     
@@ -918,15 +945,6 @@
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/minimalism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broca’s area</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/brocas-area/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/brocas-area/</guid>
       <description></description>
     </item>
     
