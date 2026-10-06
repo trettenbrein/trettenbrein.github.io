@@ -987,6 +987,31 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/tags/deaf-studies/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/tags/deaf-studies/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/tags/deaf-studies/" hreflang="es"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/tags/deaf-studies/</loc>
+      <lastmod>2026-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/talk/gebaerdensprachen-in-gesellschaft-und-gehirn-perspektiven-aus-deaf-studies-linguistik-und-neurowissenschaft/" hreflang="de"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/talk/gebaerdensprachen-in-gesellschaft-und-gehirn-perspektiven-aus-deaf-studies-linguistik-und-neurowissenschaft/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/talk/gebaerdensprachen-in-gesellschaft-und-gehirn-perspektiven-aus-deaf-studies-linguistik-und-neurowissenschaft/" hreflang="en"/>
+    
+      <loc>https://trettenbrein.biolinguistics.eu/de/talk/gebaerdensprachen-in-gesellschaft-und-gehirn-perspektiven-aus-deaf-studies-linguistik-und-neurowissenschaft/</loc>
+      <lastmod>2026-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/de/publication_types/4/" hreflang="de"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/publication_types/4/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://trettenbrein.biolinguistics.eu/es/publication_types/4/" hreflang="es"/>
