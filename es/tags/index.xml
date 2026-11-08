@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2018&amp;ndash;2026</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://trettenbrein.biolinguistics.eu/es/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gesture</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/gesture/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/gesture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/language/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neurolinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psycholinguistics</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sign language</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/talk/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/teaching/</link>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/teaching/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Broca’s area</title>
@@ -76,15 +139,6 @@
     </item>
     
     <item>
-      <title>sign language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/sign-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>MRI</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/mri/</link>
       <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
@@ -117,15 +171,6 @@
       <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/neuroimaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/talk/</link>
-      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/talk/</guid>
       <description></description>
     </item>
     
@@ -238,15 +283,6 @@
     </item>
     
     <item>
-      <title>psycholinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</link>
-      <pubDate>Thu, 25 Jun 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/psycholinguistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sign language processing</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/sign-language-processing/</link>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0200</pubDate>
@@ -265,7 +301,7 @@
     </item>
     
     <item>
-      <title>Broca’s region</title>
+      <title>Broca&#39;s region</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/brocas-region/</link>
       <pubDate>Wed, 10 Jun 2026 00:01:00 +0100</pubDate>
       
@@ -292,29 +328,11 @@
     </item>
     
     <item>
-      <title>language</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/language/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>language processing</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/language-processing/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teaching</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/teaching/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/teaching/</guid>
       <description></description>
     </item>
     
@@ -351,15 +369,6 @@
       <pubDate>Wed, 06 May 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/fieldwork/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gesture</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/gesture/</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/gesture/</guid>
       <description></description>
     </item>
     
@@ -729,15 +738,6 @@
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/language-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neurolinguistics</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</link>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurolinguistics/</guid>
       <description></description>
     </item>
     
