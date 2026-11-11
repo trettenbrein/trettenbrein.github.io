@@ -76,6 +76,60 @@
     </item>
     
     <item>
+      <title>MRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/mri/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deafness</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/deafness/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/deafness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sMRI</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/smri/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/smri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium</title>
+      <link>https://trettenbrein.biolinguistics.eu/es/tags/symposium/</link>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0100</pubDate>
+      
+      <guid>https://trettenbrein.biolinguistics.eu/es/tags/symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Broca’s area</title>
       <link>https://trettenbrein.biolinguistics.eu/es/tags/brocas-area/</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
@@ -135,24 +189,6 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/neurobiology-of-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/mri/</link>
-      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/mri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</link>
-      <pubDate>Tue, 15 Sep 2026 00:01:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/fmri/</guid>
       <description></description>
     </item>
     
@@ -225,15 +261,6 @@
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/poster-presentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/smri/</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0100</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/smri/</guid>
       <description></description>
     </item>
     
@@ -513,15 +540,6 @@
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0200</pubDate>
       
       <guid>https://trettenbrein.biolinguistics.eu/es/tags/publishing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dMRI</title>
-      <link>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0200</pubDate>
-      
-      <guid>https://trettenbrein.biolinguistics.eu/es/tags/dmri/</guid>
       <description></description>
     </item>
     
